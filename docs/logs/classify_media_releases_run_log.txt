@@ -1,0 +1,47 @@
+C:\Users\Tebogo-LT\Downloads\water_crisis\systematic>python classify_media_releases.py
+Classification breakdown:
+  general_update: 145
+  incident_candidate: 37
+  noise: 32
+  planned_or_recovery: 31
+
+--- Incident candidates (37), chronological ---
+  [2022-09-14] Load-shedding, increased vandalism and theft have a damaging impact on our electricity infrastructure
+  [2022-10-12] EMERGENCY WATER SUPPLY INTERRUPTION: BRONKHORSTSPRUIT WATER PURIFICATION PLANT – 12 October 2022
+  [2022-10-12] Emergency maintenance at Bronkhorstspruit Water Purification Plant
+  [2022-10-21] City of Tshwane prioritising critical infrastructure maintenance to reduce water leaks
+  [2023-01-31] City to request urgent engagement with Rand Water on prolonged water supply issues in Soshanguve, parts of Pretoria East and Laudium
+  [2023-02-17] City of Tshwane Health Department closely monitoring current cholera outbreak – no confirmed cases in Tshwane
+  [2023-02-24] Update – Vandalism affecting pipelines to Rand Water’s booster stations.
+  [2023-02-24] LATEST UPDATE: VANDALISM AFFECTING PIPELINES TO RAND WATER’S BOOSTER STATIONS
+  [2023-03-17] Emergency shutdown of water supply to Mabopane Block UX
+  [2023-04-11] City of Tshwane Health Department on high alert following rising cholera cases in Gauteng
+  [2023-04-12] EMERGENCY REPAIRS TO RAND WATER B8 PIPELINE WATER LEAK
+  [2023-05-10] Urgent repair of Laudium Reservoir main feeder pipe
+  [2023-05-22] COMMUNITIES IN HAMMANSKRAAL AND SURROUNDING AREAS URGED NOT TO DRINK WATER FROM TAPS FOLLOWING AN OUTBREAK
+  [2023-05-23] UPDATE: CITY TESTING ON MULTIPLE SITES INDICATE ZERO CHOLERA DETECTED FROM PIPED WATER SUPPLY
+  [2023-05-23] Human Settlements Department ramps up water provision through water tankers to Hammanskraal after cholera outbreak
+  [2023-06-22] Emergency repairs on the water supply pipeline in Leeuwfontein
+  [2023-06-26] Tshwane affected by power failures impacting on Rand Water supply infrastructure
+  [2023-07-03] Update at 12:30: Tshwane water supply continues to be affected by power failures impacting on Rand Water infrastructure
+  [2023-07-14] Power trip at Mapleton Booster Pumping Station affects water supply to Tshwane
+  [2023-07-20] Unplanned water supply interruption affecting several parts in Region 3
+  [2023-07-21] Executive Mayor of Tshwane calls on Rand Water to urgently address supply challenges affecting large parts of the city
+  [2023-08-25] Power dip affecting the Rand Water Zuikerbosch Treatment Plant resolved
+  [2023-09-21] Rand Water’s Zuikerbosch Water Treatment Plant affected by severe thunderstorm
+  [2023-09-22] Update on water outages after Rand Water’s Zuikerbosch Water Treatment Plant was affected by severe thunderstorm
+  [2023-10-31] Tampering with critical gas and water infrastructure can lead to a disastrous outcome
+  [2023-11-03] Unplanned water supply interruption affecting Mamelodi and nearby areas
+  [2023-12-13] City of Tshwane on high alert following cholera outbreak in Zimbabwe
+  [2024-01-05] Update: Unplanned water supply interruption affecting Queenswood and nearby areas
+  [2024-01-15] City of Tshwane remains on alert to possible cholera outbreak
+  [2024-02-14] Unplanned water supply interruption affecting Mamelodi and Eersterust
+  [2024-02-15] Vandalism and cable theft at Temba Waste Water Treatment Works threatens service delivery
+  [2024-03-22] City of Tshwane condemns possible sabotage of water infrastructure in Rethabiseng
+  [2024-03-22] Power failure affecting operations at Bronkhorstspruit Water Treatment Plant
+  [2024-06-14] Continuation of emergency repairs to a bulk pipeline which supplies Zithobeni Reservoir
+  [2024-08-27] Rand Water to carry out urgent upgrades on some bulk meters in Tshwane
+  [2024-09-04] Urgent shutdown of water supply to Rosslyn and nearby areas
+  [2024-11-07] Update on City of Tshwane reservoirs that were affected by Rand Water’s Palmiet Booster Station power trip
+
+Saved 37 incident candidates -> tshwane_incident_candidates.csv

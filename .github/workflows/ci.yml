@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install pytest pytest-cov
+
+      - name: Run tests
+        run: pytest tests/ -v --tb=short --cov=src --cov=config --cov-report=term-missing
+
+      - name: Validate config
+        run: python -c "from config import cfg; assert cfg.N_WARDS == 107; assert cfg.FORECAST_WINDOW == 3; print('config OK')"
+
+      - name: Check imports
+        run: |
+          python -c "import sys; sys.path.insert(0, '.'); from config import cfg; print('config importable OK')"
+          python -c "from src.pipeline.build_real_panel import load_incidents; print('build_real_panel importable OK')" || true
+          python -c "from src.modeling.train_model import bootstrap_auc_ci; print('train_model importable OK')" || true

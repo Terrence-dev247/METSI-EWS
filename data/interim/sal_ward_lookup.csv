@@ -1,0 +1,4525 @@
+SAL_CODE,SP_NAME,MP_NAME,ward_id
+7990001,Koedoespoort Industrial,Pretoria,TSH_84
+7990002,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7990003,Doornkloof SH,Centurion,TSH_65
+7990004,Donkerhoek SH,Donkerhoek,TSH_100
+7990005,Mabopane SP,Mabopane,TSH_22
+7990006,Centurion SP3,Centurion,TSH_48
+7990007,Scientia,Pretoria,TSH_46
+7990008,Silvertondale,Pretoria,TSH_41
+7990009,Wildebeesthoek SH,Pretoria,TSH_31
+7990010,Eldoraigne Ext 48,Centurion,TSH_66
+7990011,Bon Accord AH,Pretoria,TSH_50
+7990012,Soshanguve East Ext 4,Soshanguve,TSH_36
+7990013,Jan Niemand Park,Pretoria,TSH_43
+7990014,Roodepoort SH,Roodepoort,TSH_105
+7990015,Erasmus Park,Pretoria,TSH_42
+7990016,Centurion SP1,Centurion,TSH_77
+7990017,Cheetah Park SP,Cheetah Park,TSH_7
+7990018,Ga-Rankuwa Unit 15,Ga-Rankuwa,TSH_30
+7990019,Magaliesberg Protected Natural Environment,Pretoria,TSH_2
+7990020,Ekangala SP,Ekangala,TSH_103
+7990021,Mabopane M,Mabopane,TSH_22
+7990022,Heather View,Akasia,TSH_98
+7990023,Viljoenskop,Bronkhorstspruit,TSH_105
+7990024,Bronkhorstspruit Dam Nature Reserve,Bronkhorstspruit,TSH_105
+7990025,Groenkloof Pine Plantation,Pretoria,TSH_59
+7990026,Sunderland Ridge,Centurion,TSH_70
+7990027,The Ridge,Pretoria,TSH_101
+7990028,Despatch,Pretoria,TSH_43
+7990029,Roodeplaat Dam Nature Reserve,Roodeplaat,TSH_87
+7990030,Shere SH,Pretoria,TSH_101
+7990031,Laudium SP,Laudium,TSH_61
+7990032,Nellmapius SP,Nellmapius,TSH_86
+7990033,Ga-Rankuwa Unit 24,Ga-Rankuwa,TSH_30
+7990034,Babelegi Industrial,Babelegi,TSH_75
+7990035,Ga-Rankuwa Industrial,Ga-Rankuwa,TSH_30
+7990036,Van Riebeeck Nature Reserve,Pretoria,TSH_91
+7990037,Mamelodi KC4,Mamelodi,TSH_67
+7990038,Tweefontein AH,Tweedracht,TSH_105
+7990039,Klipfontein,Soshanguve,TSH_37
+7990040,Louwlardia,Centurion,TSH_65
+7990041,Highveld Techno Park,Centurion,TSH_65
+7990042,Ekandustria,Ekangala,TSH_103
+7990043,Waltloo,Pretoria,TSH_41
+7990044,Technikon Rant,Pretoria,TSH_58
+7990045,Ga-Rankuwa SP,Ga-Rankuwa,TSH_32
+7990046,Montana AH,Pretoria,TSH_5
+7990047,Silverton,Pretoria,TSH_41
+7990048,Zwavelpoort AH,Zwavelpoort,TSH_101
+7990049,Thaba Tshwane,Pretoria,TSH_59
+7990050,Keinfontein SH,Keinfontein,TSH_102
+7990051,Montana,Pretoria,TSH_5
+7990052,Mamelodi Ext 14,Mamelodi,TSH_15
+7990053,Arcadia,Pretoria,TSH_92
+7990054,Lombardy Estate,Pretoria,TSH_101
+7990055,Bosplaas Mathabe SP,Bosplaas Mathabe,TSH_76
+7990056,Montana,Pretoria,TSH_96
+7990057,Onderstepoort Nature Reserve,Akasia,TSH_96
+7990058,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990059,Blair Atholl Golf Estate,Centurion,TSH_48
+7990060,Pretoria SP,Pretoria,TSH_7
+7990061,Andeon AH,Pretoria,TSH_55
+7990062,Montana,Pretoria,TSH_5
+7990063,Annlin,Pretoria,TSH_2
+7990064,Donkerhoek SH,Donkerhoek,TSH_102
+7990065,Tshwane NU,Tshwane NU,TSH_91
+7990066,Irene Research Institute,Centurion,TSH_65
+7990067,Onderstepoort Nature Reserve,Akasia,TSH_96
+7990068,Botshabelo,Mabopane,TSH_22
+7990069,Tshwane NU,Tshwane NU,TSH_73
+7990070,Premier Diamond Mine,Cullinan,TSH_99
+7990071,Monrick AH,Centurion,TSH_66
+7990072,Montana Tuine,Pretoria,TSH_96
+7990073,Bashewa SH,Bashewa,TSH_102
+7990074,Mabopane N,Mabopane,TSH_29
+7990075,Pretoria West,Pretoria,TSH_51
+7990076,Hornsoord AH,Pretoria,TSH_55
+7990077,Gerardsville AH,Centurion,TSH_61
+7990078,Moretele Park,Mamelodi,TSH_23
+7990079,Lewzene Estate,Cullinan,TSH_100
+7990080,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990081,Wageenbietjieskop SH,Wageenbietjieskop,TSH_105
+7990082,Gardener Ross Golf and Country Estate,Centurion,TSH_48
+7990083,Kameelfontein SH,Kameelfontein,TSH_87
+7990084,Bashewa SH,Bashewa,TSH_102
+7990085,Thaba Tshwane,Pretoria,TSH_59
+7990086,Bultfontein AH,Bultfontein,TSH_49
+7990087,Partyshoek AH,Pretoria,TSH_31
+7990088,Rosslyn Industrial,Akasia,TSH_37
+7990089,Tsebe SP,Tsebe,TSH_22
+7990090,Kameeldrift SH,Kameeldrift,TSH_87
+7990091,Centurion SP3,Centurion,TSH_61
+7990092,Snake Valley,Centurion,TSH_59
+7990093,Downbern SH,Downbern,TSH_99
+7990094,Arcadia,Pretoria,TSH_58
+7990095,Mamelodi Ext 22,Mamelodi,TSH_10
+7990096,Rayton SH,Rayton,TSH_100
+7990097,Pretoria Central,Pretoria,TSH_58
+7990098,Kameeldrift SH,Kameeldrift,TSH_87
+7990099,Pretoria Central,Pretoria,TSH_58
+7990100,Winternest AH,Akasia,TSH_98
+7990101,Roodeplaat SH,Roodeplaat,TSH_99
+7990102,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7990103,Winterveld AH,Winterveld,TSH_24
+7990104,Kameeldrift SH,Kameeldrift,TSH_87
+7990105,Soshanguve F,Soshanguve,TSH_29
+7990106,Pretoria North,Pretoria,TSH_2
+7990107,Mamelodi SP,Mamelodi,TSH_40
+7990108,Shere SH,Kungwini Part 2,TSH_101
+7990109,Siahlala,Saulsville,TSH_107
+7990110,Roodeplaat SH,Roodeplaat,TSH_87
+7990111,Plastic View,Soshanguve,TSH_90
+7990112,Heather View,Akasia,TSH_98
+7990113,Swacina Park AH,Pretoria,TSH_55
+7990114,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990115,Ekangala SP,Ekangala,TSH_104
+7990116,Verster park SH,Bronkhorstspruit,TSH_105
+7990117,Pretoria Central,Pretoria,TSH_58
+7990118,Zwavelpoort AH,Zwavelpoort,TSH_101
+7990119,Spruit,Mooiplaas,TSH_70
+7990120,Siahlala,Saulsville,TSH_107
+7990121,Boschkop SH,Boschkop,TSH_102
+7990122,Bashewa SH,Bashewa,TSH_102
+7990123,Winternest AH,Akasia,TSH_98
+7990124,Pretoria Central,Pretoria,TSH_58
+7990125,Plastic View,Soshanguve,TSH_90
+7990126,Montana,Pretoria,TSH_96
+7990127,Centurion SP3,Centurion,TSH_48
+7990128,Lewzene Estate,Cullinan,TSH_100
+7990129,Winterveld AH,Winterveld,TSH_24
+7990130,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990131,Willow Glen AH,Pretoria,TSH_41
+7990132,Schurwe Plaas Mine,Centurion,TSH_61
+7990133,Amberfield Valley,Centurion,TSH_48
+7990134,Winterveld AH,Winterveld,TSH_24
+7990135,Hazelwood,Pretoria,TSH_82
+7990136,Wapadrand,Pretoria,TSH_85
+7990137,Rietvalleirand,Pretoria,TSH_47
+7990138,Faerie Glen,Pretoria,TSH_44
+7990139,Lynnwood,Pretoria,TSH_82
+7990140,Mamelodi Ext 6,Mamelodi,TSH_10
+7990141,Hatfield,Pretoria,TSH_56
+7990142,Equestria,Pretoria,TSH_85
+7990143,Arcadia,Pretoria,TSH_92
+7990144,Riviera,Pretoria,TSH_53
+7990145,Hillcrest,Pretoria,TSH_56
+7990146,Refilwe SP,Refilwe,TSH_99
+7990147,Philip Nel Park,Pretoria,TSH_3
+7990148,Sterrewag Estate,Pretoria,TSH_59
+7990149,Winterveld Ext 1,Winterveld,TSH_24
+7990150,Temba Unit 1,Temba,TSH_8
+7990151,Die Hoewes,Centurion,TSH_78
+7990152,Amberfield Heights,Centurion,TSH_48
+7990153,Lynnwood Park,Pretoria,TSH_46
+7990154,Arcadia,Pretoria,TSH_92
+7990155,Newlands,Pretoria,TSH_82
+7990156,Faerie Glen,Pretoria,TSH_44
+7990157,Monavoni,Centurion,TSH_48
+7990158,Strubenkop Security Village,Pretoria,TSH_82
+7990159,Clubview,Centurion,TSH_66
+7990160,La Montagne,Pretoria,TSH_41
+7990161,Centurion Central,Centurion,TSH_78
+7990162,Wallmannsthal Army Base,Wallmannsthal,TSH_96
+7990163,Equestria,Pretoria,TSH_85
+7990164,Blue Valley Golf Estate,Centurion,TSH_77
+7990165,Mamelodi Ext 6,Mamelodi,TSH_10
+7990166,Highveld,Centurion,TSH_65
+7990167,Pretoria SP,Pretoria,TSH_51
+7990168,Highveld,Centurion,TSH_65
+7990169,The Wilds,Pretoria,TSH_101
+7990170,Wonderboom South,Pretoria,TSH_54
+7990171,Murrayfield Ext1,Pretoria,TSH_46
+7990172,"The Reeds Ext 6,19,20",Centurion,TSH_64
+7990173,Waterkloof Glen,Pretoria,TSH_83
+7990174,Kameeldrift SH,Kameeldrift,TSH_87
+7990175,Moreleta Park,Pretoria,TSH_91
+7990176,Hillcrest,Pretoria,TSH_56
+7990177,Winternest AH,Akasia,TSH_98
+7990178,Monument Park,Pretoria,TSH_42
+7990179,Equestria,Pretoria,TSH_85
+7990180,Magalieskruin,Pretoria,TSH_5
+7990181,Winterveld AH,Winterveld,TSH_24
+7990182,Sunnyside,Pretoria,TSH_59
+7990183,Die Hoewes,Centurion,TSH_57
+7990184,Theresapark,Akasia,TSH_98
+7990185,Annlin,Pretoria,TSH_50
+7990186,Murrayfield Ext1,Pretoria,TSH_46
+7990187,Ekangala SP,Ekangala,TSH_104
+7990188,Philip Nel Park,Pretoria,TSH_60
+7990189,Constantia Park,Pretoria,TSH_83
+7990190,Nieuw Muckleneuk,Pretoria,TSH_56
+7990191,Raslou AH,Centurion,TSH_70
+7990192,Raslou AH,Centurion,TSH_70
+7990193,Centurion Central,Centurion,TSH_78
+7990194,Lynnwood Ridge,Pretoria,TSH_46
+7990195,Eersterust Ext 2,Eersterust,TSH_43
+7990196,Sinoville,Pretoria,TSH_96
+7990197,Arcadia,Pretoria,TSH_92
+7990198,Pretoria West,Pretoria,TSH_3
+7990199,Annlin,Pretoria,TSH_50
+7990200,Soshanguve A,Soshanguve,TSH_90
+7990201,Amberfield Heights,Centurion,TSH_48
+7990202,Wapadrand,Pretoria,TSH_85
+7990203,Loftus Stadium,Pretoria,TSH_92
+7990204,Magalieskruin,Pretoria,TSH_5
+7990205,Garsfontein,Pretoria,TSH_45
+7990206,Waterkloof Ridge,Pretoria,TSH_42
+7990207,Mooikloof Ridge,Pretoria,TSH_91
+7990208,Equestria,Pretoria,TSH_85
+7990209,Thaba Tshwane,Pretoria,TSH_51
+7990210,Arcadia,Pretoria,TSH_92
+7990211,Eldoraigne,Centurion,TSH_70
+7990212,Vergenoeg,Saulsville,TSH_107
+7990213,Equestria,Pretoria,TSH_85
+7990214,Faerie Glen,Pretoria,TSH_46
+7990215,Elarduspark,Pretoria,TSH_47
+7990216,Centurion SP3,Centurion,TSH_48
+7990217,Winternest AH,Akasia,TSH_98
+7990218,Brummeria,Pretoria,TSH_46
+7990219,The Wilds,Pretoria,TSH_101
+7990220,Mamelodi Ext 6,Mamelodi,TSH_10
+7990221,Refilwe SP,Refilwe,TSH_99
+7990222,Arcadia,Pretoria,TSH_92
+7990223,Silverton,Pretoria,TSH_41
+7990224,Pierre van Ryneveld,Centurion,TSH_79
+7990225,Brooklyn,Pretoria,TSH_56
+7990226,Lewzene Estate,Cullinan,TSH_100
+7990227,Waterkloof Ridge,Pretoria,TSH_42
+7990228,Pretoria Central,Pretoria,TSH_58
+7990229,Die Hoewes,Centurion,TSH_57
+7990230,Mooiplaas SH,Mooiplaas,TSH_101
+7990231,Pretoria West,Pretoria,TSH_3
+7990232,Leeuwfontein SH,Leeufontein,TSH_87
+7990233,Elarduspark,Pretoria,TSH_79
+7990234,Pretoriuspark,Pretoria,TSH_45
+7990235,Arathorn Estate,Kungwini Part 2,TSH_101
+7990236,Wonderboom South,Pretoria,TSH_54
+7990237,Zithobeni SP,Zithobeni,TSH_105
+7990238,Rayton SP,Rayton,TSH_100
+7990239,Faerie Glen,Pretoria,TSH_44
+7990240,Soshanguve MM,Soshanguve,TSH_33
+7990241,The Reeds Ext 5,Centurion,TSH_64
+7990242,Donkerhoek SH,Donkerhoek,TSH_101
+7990243,Winterveld AH,Winterveld,TSH_24
+7990244,Equestria,Pretoria,TSH_85
+7990245,Pretoria Central,Pretoria,TSH_80
+7990246,Amberfield Glen,Centurion,TSH_48
+7990247,Temba Unit 1,Temba,TSH_8
+7990248,Equestria,Pretoria,TSH_85
+7990249,Wonderboom South,Pretoria,TSH_54
+7990250,Amberfield Crest,Centurion,TSH_48
+7990251,Mamelodi SP,Mamelodi,TSH_40
+7990252,Die Hoewes,Centurion,TSH_57
+7990253,Refilwe SP,Refilwe,TSH_99
+7990254,Equestria,Pretoria,TSH_85
+7990255,Silverton,Pretoria,TSH_46
+7990256,Rooihuiskraal Noord,Centurion,TSH_48
+7990257,Soshanguve East,Soshanguve,TSH_90
+7990258,Bashewa SH,Bashewa,TSH_102
+7990259,Die Wilgers,Pretoria,TSH_46
+7990260,Pretoria Central,Pretoria,TSH_80
+7990261,Constantia Park,Pretoria,TSH_83
+7990262,Silver Lakes Golf Estate,Pretoria,TSH_101
+7990263,Die Hoewes,Centurion,TSH_78
+7990264,Sterrewag Estate,Pretoria,TSH_59
+7990265,Mamelodi SP,Mamelodi,TSH_40
+7990266,Roodepoort SH,Roodepoort,TSH_105
+7990267,Pretoria Central,Pretoria,TSH_58
+7990268,Silver Lakes Golf Estate,Pretoria,TSH_101
+7990269,Equestria,Pretoria,TSH_85
+7990270,Lyttelton,Centurion,TSH_57
+7990271,Kameeldrift SH,Kameeldrift,TSH_87
+7990272,Montana Park,Pretoria,TSH_5
+7990273,Waterkloof Glen,Pretoria,TSH_83
+7990274,Sunnyside,Pretoria,TSH_92
+7990275,Bailey's Muckleneuk,Pretoria,TSH_56
+7990276,Mabopane M,Mabopane,TSH_20
+7990277,Queenswood,Pretoria,TSH_84
+7990278,Heuwelsig Estate,Centurion,TSH_48
+7990279,Equestria,Pretoria,TSH_85
+7990280,Die Hoewes,Centurion,TSH_78
+7990281,Siahlala,Saulsville,TSH_107
+7990282,Brummeria,Pretoria,TSH_46
+7990283,La Montagne,Pretoria,TSH_41
+7990284,Winterveld AH,Winterveld,TSH_24
+7990285,Asiatic Bazaar,Pretoria,TSH_58
+7990286,Die Wilgers,Pretoria,TSH_85
+7990287,Soshanguve KK,Soshanguve,TSH_26
+7990288,Wallmannsthal SH,Wallmannsthal,TSH_99
+7990289,Soshanguve L,Soshanguve,TSH_36
+7990290,Doornpoort,Pretoria,TSH_96
+7990291,"The Reeds Ext 2, 10, 43",Centurion,TSH_64
+7990292,Arcadia,Pretoria,TSH_92
+7990293,Claremont,Pretoria,TSH_1
+7990294,Kameeldrift SH,Kameeldrift,TSH_87
+7990295,Klerksoord,Akasia,TSH_98
+7990296,Erasmuskloof,Pretoria,TSH_83
+7990297,Die Hoewes,Centurion,TSH_57
+7990298,Refilwe SP,Refilwe,TSH_99
+7990299,Raslou AH,Centurion,TSH_70
+7990300,Soshanguve S,Soshanguve,TSH_26
+7990301,Koedoespoort,Pretoria,TSH_52
+7990302,Doornpoort,Pretoria,TSH_96
+7990303,Arcadia,Pretoria,TSH_92
+7990304,Equestria,Pretoria,TSH_85
+7990305,Annlin,Pretoria,TSH_50
+7990306,Dilopye SP,Dilopye,TSH_8
+7990307,Boschkop SH,Boschkop,TSH_102
+7990308,Soshanguve Ext 13,Soshanguve,TSH_32
+7990309,Annlin,Pretoria,TSH_50
+7990310,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990311,Winterveld Ext 1,Winterveld,TSH_24
+7990312,Soshanguve M,Soshanguve,TSH_35
+7990313,Pretoria Central,Pretoria,TSH_80
+7990314,Equestria,Pretoria,TSH_85
+7990315,Montana,Pretoria,TSH_5
+7990316,Leeufontein Estate,Leeufontein,TSH_87
+7990317,Die Wilgers,Pretoria,TSH_85
+7990318,Chantelle,Akasia,TSH_4
+7990319,Winterveld Ext 3,Winterveld,TSH_19
+7990320,Garsfontein,Pretoria,TSH_45
+7990321,Wapadrand,Pretoria,TSH_85
+7990322,Arcadia,Pretoria,TSH_92
+7990323,The Wilds,Pretoria,TSH_101
+7990324,Die Hoewes,Centurion,TSH_57
+7990325,Muckleneuk,Pretoria,TSH_59
+7990326,Heuwelsig Estate,Centurion,TSH_48
+7990327,Kleinfontein SH,Kleinfontein,TSH_102
+7990328,Rayton SH,Rayton,TSH_100
+7990329,Elarduspark,Pretoria,TSH_47
+7990330,Sunnyside,Pretoria,TSH_81
+7990331,Vergenoeg,Saulsville,TSH_107
+7990332,Equestria,Pretoria,TSH_85
+7990333,Faerie Glen,Pretoria,TSH_44
+7990334,Amberfield Glen,Centurion,TSH_48
+7990335,Heatherdale AH,Akasia,TSH_98
+7990336,Doornpoort,Pretoria,TSH_96
+7990337,Wonderboom,Pretoria,TSH_50
+7990338,Willow Glen AH,Pretoria,TSH_41
+7990339,Die Hoewes,Centurion,TSH_78
+7990340,Kekana Garden SP,Kekana Garden,TSH_73
+7990341,Claremont,Pretoria,TSH_55
+7990342,Lynnwood Ridge,Pretoria,TSH_44
+7990343,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7990344,Amberfield Glen,Centurion,TSH_48
+7990345,Dorandia,Pretoria,TSH_2
+7990346,Sunnyside,Pretoria,TSH_81
+7990347,Mamelodi Ext 6,Mamelodi,TSH_10
+7990348,Monument Park,Pretoria,TSH_42
+7990349,Weavind Park,Pretoria,TSH_84
+7990350,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990351,Waterkloof Ridge,Pretoria,TSH_42
+7990352,Mamelodi SP,Mamelodi,TSH_40
+7990353,Monument Park,Pretoria,TSH_42
+7990354,Equestria,Pretoria,TSH_85
+7990355,Garsfontein,Pretoria,TSH_45
+7990356,Zambezi Courty Estate,Pretoria,TSH_5
+7990357,Winterveld AH,Winterveld,TSH_24
+7990358,Mamelodi Ext 6,Mamelodi,TSH_10
+7990359,Reitvlei,Pretoria,TSH_47
+7990360,Garsfontein,Pretoria,TSH_45
+7990361,Cullinan SP,Cullinan,TSH_100
+7990362,Proclamation Hill,Pretoria,TSH_3
+7990363,Mamelodi FB3,Mamelodi,TSH_38
+7990364,Saulsville SP,Saulsville,TSH_63
+7990365,Soshanguve A,Soshanguve,TSH_90
+7990366,Die Hoewes,Centurion,TSH_78
+7990367,Dilopye SP,Dilopye,TSH_8
+7990368,Saulsville SP,Saulsville,TSH_63
+7990369,Winterveld AH,Winterveld,TSH_24
+7990370,Elarduspark,Pretoria,TSH_79
+7990371,Pretoria Central,Pretoria,TSH_80
+7990372,Clarina,Akasia,TSH_98
+7990373,Die Hoewes,Centurion,TSH_57
+7990374,Highveld,Centurion,TSH_65
+7990375,Lyttelton,Centurion,TSH_79
+7990376,Muckleneuk,Pretoria,TSH_59
+7990377,Sinoville,Pretoria,TSH_50
+7990378,Winterveld Ext 1,Winterveld,TSH_24
+7990379,Capital Park,Pretoria,TSH_1
+7990380,The Reeds Ext 9,Centurion,TSH_64
+7990381,Eldo Park,Centurion,TSH_70
+7990382,Pebble Rock Village & Burkea Park Golf Estate,Pebble Rock Golf Village,TSH_99
+7990383,Faerie Glen,Pretoria,TSH_44
+7990384,Monument Park,Pretoria,TSH_42
+7990385,Faerie Glen,Pretoria,TSH_44
+7990386,Roodepoort SH,Roodepoort,TSH_105
+7990387,Muckleneuk,Pretoria,TSH_80
+7990388,Irene Security Estate,Centurion,TSH_65
+7990389,Soshanguve South Ext 1,Soshanguve,TSH_39
+7990390,Mamelodi Ext 6,Mamelodi,TSH_100
+7990391,Refilwe SP,Refilwe,TSH_99
+7990392,Kloofzicht,Centurion,TSH_79
+7990393,Garsfontein,Pretoria,TSH_45
+7990394,Garsfontein,Pretoria,TSH_45
+7990395,Faerie Glen,Pretoria,TSH_44
+7990396,Sunnyside,Pretoria,TSH_92
+7990397,Nieuw Muckleneuk,Pretoria,TSH_56
+7990398,Lynnwood Glen,Pretoria,TSH_46
+7990399,Die Hoewes,Centurion,TSH_57
+7990400,Soshanguve KK,Soshanguve,TSH_26
+7990401,Faerie Glen,Pretoria,TSH_44
+7990402,Winternest AH,Akasia,TSH_98
+7990403,Mamelodi FB3,Mamelodi,TSH_38
+7990404,Raslou AH,Centurion,TSH_70
+7990405,Kanana,Hammanskraal,TSH_49
+7990406,Doornpoort,Pretoria,TSH_96
+7990407,Die Wilgers,Pretoria,TSH_85
+7990408,Pierre van Ryneveld,Centurion,TSH_79
+7990409,Roodeplaat SH,Roodeplaat,TSH_99
+7990410,Zithobeni SP,Zithobeni,TSH_105
+7990411,Pierre van Ryneveld,Centurion,TSH_79
+7990412,Montana,Pretoria,TSH_96
+7990413,Moreleta Park,Pretoria,TSH_47
+7990414,Irene Farm Villages,Centurion,TSH_79
+7990415,Faerie Glen,Pretoria,TSH_44
+7990416,Pretoria North,Pretoria,TSH_2
+7990417,Gezina,Pretoria,TSH_53
+7990418,Lynnwood Manor,Pretoria,TSH_46
+7990419,Boadwalk,Kungwini Part 2,TSH_101
+7990420,Wonderboom,Pretoria,TSH_50
+7990421,Kanana,Hammanskraal,TSH_49
+7990422,Mooiplaas SH,Mooiplaas,TSH_101
+7990423,Mamelodi SP,Mamelodi,TSH_40
+7990424,Prinshof,Pretoria,TSH_58
+7990425,Tweedracht AH,Tweedracht,TSH_102
+7990426,Waterkloof Ridge,Pretoria,TSH_42
+7990427,Murrayfield Ext1,Pretoria,TSH_46
+7990428,Annlin,Pretoria,TSH_50
+7990429,Moreleta Park,Pretoria,TSH_91
+7990430,Die Hoewes,Centurion,TSH_57
+7990431,Mashemong SP,Mashemong,TSH_76
+7990432,Faerie Glen,Pretoria,TSH_46
+7990433,Hazelwood,Pretoria,TSH_82
+7990434,Doornpoort,Pretoria,TSH_96
+7990435,Moreleta Park,Pretoria,TSH_91
+7990436,Faerie Glen,Pretoria,TSH_44
+7990437,Doornkraal SH,Doornkraal,TSH_100
+7990438,Equestria,Pretoria,TSH_85
+7990439,Moreleta Park,Pretoria,TSH_91
+7990440,Die Hoewes,Centurion,TSH_57
+7990441,Mabopane U Ext 1,Mabopane,TSH_22
+7990442,Newlands,Pretoria,TSH_82
+7990443,Mamelodi Ext 10,Mamelodi,TSH_93
+7990444,Saulsville SP,Saulsville,TSH_63
+7990445,Cullinan SP,Cullinan,TSH_100
+7990446,Boadwalk,Kungwini Part 2,TSH_101
+7990447,Moreleta Park,Pretoria,TSH_91
+7990448,Moreleta Park,Pretoria,TSH_91
+7990449,Wonderboom South,Pretoria,TSH_54
+7990450,Ramotse SP,Ramotse,TSH_73
+7990451,Doornpoort,Pretoria,TSH_96
+7990452,Rooihuiskraal,Centurion,TSH_64
+7990453,Eastwood 2,Pretoria,TSH_92
+7990454,Amberfield Heights,Centurion,TSH_48
+7990455,Bultfontein AH,Bultfontein,TSH_49
+7990456,Pretoria West,Pretoria,TSH_3
+7990457,Newlands,Pretoria,TSH_83
+7990458,Wapadrand,Pretoria,TSH_85
+7990459,Refilwe SP,Refilwe,TSH_99
+7990460,Irene Glen Private Estate,Centurion,TSH_65
+7990461,Pretoria West,Pretoria,TSH_58
+7990462,The Orchards Ext 11,Akasia,TSH_4
+7990463,Mamelodi SP,Mamelodi,TSH_40
+7990464,Dorandia,Pretoria,TSH_2
+7990465,Silverton,Pretoria,TSH_46
+7990466,Lynnwood Glen,Pretoria,TSH_46
+7990467,Mabopane U Ext 1,Mabopane,TSH_22
+7990468,Pierre van Ryneveld,Centurion,TSH_79
+7990469,Eldoraigne,Centurion,TSH_70
+7990470,Moregloed,Pretoria,TSH_84
+7990471,Pierre van Ryneveld,Centurion,TSH_79
+7990472,Muckleneuk,Pretoria,TSH_59
+7990473,Val De Grace,Pretoria,TSH_46
+7990474,Woodlands Lifestyle Estate,Pretoria,TSH_45
+7990475,Die Hoewes,Centurion,TSH_78
+7990476,Faerie Glen,Pretoria,TSH_44
+7990477,Amberfield Heights,Centurion,TSH_48
+7990478,Ekangala SP,Ekangala,TSH_104
+7990479,Mamelodi Ext 18,Mamelodi,TSH_97
+7990480,Fortina Landbouhoewes,Pretoria,TSH_31
+7990481,Riamar park,Bronkhorstspruit,TSH_105
+7990482,Schurwe Plaas Mine,Centurion,TSH_61
+7990483,Moreleta Park,Pretoria,TSH_91
+7990484,Queenswood,Pretoria,TSH_84
+7990485,Wierda Park,Centurion,TSH_70
+7990486,Gezina,Pretoria,TSH_53
+7990487,Zwavelpoort AH,Zwavelpoort,TSH_101
+7990488,Downbern SH,Downbern,TSH_99
+7990489,Faerie Glen,Pretoria,TSH_46
+7990490,Mamelodi Ext 10,Mamelodi,TSH_93
+7990491,Refilwe SP,Refilwe,TSH_99
+7990492,Equestria,Pretoria,TSH_85
+7990493,Sunnyside,Pretoria,TSH_81
+7990494,Soshanguve South Ext 10,Soshanguve,TSH_37
+7990495,Mamelodi SP,Mamelodi,TSH_40
+7990496,Mamelodi SP,Mamelodi,TSH_40
+7990497,Mamelodi FB3,Mamelodi,TSH_38
+7990498,Centurion SP3,Centurion,TSH_70
+7990499,Sinoville,Pretoria,TSH_50
+7990500,Wierda Park,Centurion,TSH_70
+7990501,Soshanguve A,Soshanguve,TSH_90
+7990502,Sinoville,Pretoria,TSH_5
+7990503,Rietfontein,Pretoria,TSH_53
+7990504,Soshanguve East,Soshanguve,TSH_90
+7990505,Waterkloof Glen,Pretoria,TSH_83
+7990506,Die Hoewes,Centurion,TSH_57
+7990507,Mamelodi SP,Mamelodi,TSH_40
+7990508,Mamelodi SP,Mamelodi,TSH_40
+7990509,Mamelodi Ext 11,Mamelodi,TSH_97
+7990510,Pretoria Central,Pretoria,TSH_58
+7990511,Pretoria Central,Pretoria,TSH_58
+7990512,Pretoria Central,Pretoria,TSH_58
+7990513,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7990514,Waterkloof Ridge,Pretoria,TSH_42
+7990515,Eco-Park Estate,Centurion,TSH_65
+7990516,Moreleta Park,Pretoria,TSH_91
+7990517,Stanza Bopape,Mamelodi,TSH_93
+7990518,Winterveld AH,Winterveld,TSH_24
+7990519,Zithobeni SP,Zithobeni,TSH_102
+7990520,Montana Tuine,Pretoria,TSH_96
+7990521,Waterkloof Ridge,Pretoria,TSH_42
+7990522,Willow Park Manor,Pretoria,TSH_41
+7990523,Mabopane M,Mabopane,TSH_20
+7990524,Mooikloof Ridge,Pretoria,TSH_91
+7990525,Die Hoewes,Centurion,TSH_57
+7990526,Newmark Estate,Pretoria,TSH_101
+7990527,Die Hoewes,Centurion,TSH_57
+7990528,Montana Park,Pretoria,TSH_5
+7990529,Erasmuskloof,Pretoria,TSH_79
+7990530,Faerie Glen,Pretoria,TSH_44
+7990531,Plastic View,Soshanguve,TSH_90
+7990532,Mamelodi SP,Mamelodi,TSH_40
+7990533,Refilwe SP,Refilwe,TSH_99
+7990534,Leeuwfontein SH,Leeufontein,TSH_87
+7990535,Mamelodi SP,Mamelodi,TSH_40
+7990536,Salvokop,Pretoria,TSH_80
+7990537,Hesteapark,Akasia,TSH_98
+7990538,Die Hoewes,Centurion,TSH_57
+7990539,Moreleta Park,Pretoria,TSH_83
+7990540,Amandasig,Akasia,TSH_98
+7990541,Lynnwood,Pretoria,TSH_82
+7990542,Queenswood,Pretoria,TSH_84
+7990543,Mamelodi SP,Mamelodi,TSH_40
+7990544,Willow Acres Estate,Pretoria,TSH_101
+7990545,Garsfontein,Pretoria,TSH_45
+7990546,La Montagne,Pretoria,TSH_41
+7990547,Soshanguve A,Soshanguve,TSH_90
+7990548,Saulsville SP,Saulsville,TSH_63
+7990549,Tierpoort SH,Tierpoort,TSH_102
+7990550,Zwavelpoort AH,Zwavelpoort,TSH_101
+7990551,Arcadia,Pretoria,TSH_58
+7990552,Winterveld Ext 3,Winterveld,TSH_19
+7990553,La Montagne,Pretoria,TSH_41
+7990554,Karenpark,Akasia,TSH_4
+7990555,Moreleta Park,Pretoria,TSH_47
+7990556,Hazelwood,Pretoria,TSH_82
+7990557,La Montagne,Pretoria,TSH_41
+7990558,Magalieskruin,Pretoria,TSH_5
+7990559,Sinoville,Pretoria,TSH_5
+7990560,Silver Lakes Golf Estate,Pretoria,TSH_101
+7990561,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990562,Irene Farm Villages,Centurion,TSH_79
+7990563,Botshabelo,Mabopane,TSH_22
+7990564,Mamelodi Ext 6,Mamelodi,TSH_10
+7990565,Ramotse SP,Ramotse,TSH_73
+7990566,Dorandia,Pretoria,TSH_98
+7990567,Equestria,Pretoria,TSH_85
+7990568,Soshanguve Ext 13,Soshanguve,TSH_32
+7990569,Sunnyside,Pretoria,TSH_81
+7990570,Arcadia,Pretoria,TSH_92
+7990571,Arcadia,Pretoria,TSH_92
+7990572,Faerie Glen,Pretoria,TSH_44
+7990573,Pretoria Central,Pretoria,TSH_58
+7990574,Siahlala,Saulsville,TSH_107
+7990575,Eldoraigne Ext 1,Centurion,TSH_69
+7990576,Moreleta Park,Pretoria,TSH_91
+7990577,Clubview,Centurion,TSH_66
+7990578,Equestria,Pretoria,TSH_85
+7990579,Itsoseng,Mabopane,TSH_20
+7990580,Centurion SP4,Centurion,TSH_65
+7990581,Mamelodi SP,Mamelodi,TSH_40
+7990582,Pretoriuspark,Pretoria,TSH_45
+7990583,Rietfontein,Pretoria,TSH_52
+7990584,Erasmuskloof,Pretoria,TSH_83
+7990585,Soshanguve A,Soshanguve,TSH_90
+7990586,Faerie Glen,Pretoria,TSH_44
+7990587,Sunnyside,Pretoria,TSH_59
+7990588,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990589,Lyttelton,Centurion,TSH_79
+7990590,Thaba Tshwane,Pretoria,TSH_59
+7990591,Gerardsville AH,Centurion,TSH_61
+7990592,Sunnyside,Pretoria,TSH_59
+7990593,Equestria,Pretoria,TSH_85
+7990594,Faerie Glen,Pretoria,TSH_44
+7990595,Glen Lauriston,Centurion,TSH_66
+7990596,Moreleta Park,Pretoria,TSH_83
+7990597,Hennopspark,Centurion,TSH_66
+7990598,Colbyn,Pretoria,TSH_92
+7990599,Pierre van Ryneveld,Centurion,TSH_79
+7990600,Mamelodi Ext 6,Mamelodi,TSH_10
+7990601,Stanza Bopape,Mamelodi,TSH_93
+7990602,Mamelodi Ext 6,Mamelodi,TSH_10
+7990603,Tshwane NU,Tshwane NU,TSH_48
+7990604,Val De Grace,Pretoria,TSH_41
+7990605,Moreleta Park,Pretoria,TSH_91
+7990606,Mamelodi SP,Mamelodi,TSH_40
+7990607,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7990608,Faerie Glen,Pretoria,TSH_44
+7990609,Pretoria Gardens,Pretoria,TSH_55
+7990610,Claremont,Pretoria,TSH_1
+7990611,Soshanguve CC,Soshanguve,TSH_33
+7990612,Waterkloof Ridge,Pretoria,TSH_42
+7990613,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7990614,Kudube Unit 11,Temba,TSH_75
+7990615,Deltoidia SH,Centurion,TSH_70
+7990616,Mamelodi Ext 6,Mamelodi,TSH_10
+7990617,Sunnyside,Pretoria,TSH_81
+7990618,Waterkloof,Pretoria,TSH_82
+7990619,Winterveld Ext 3,Winterveld,TSH_19
+7990620,Magalieskruin,Pretoria,TSH_5
+7990621,Zithobeni SP,Zithobeni,TSH_102
+7990622,Zambezi Courty Estate,Pretoria,TSH_5
+7990623,The Reeds Ext 5,Centurion,TSH_64
+7990624,Laudium Ext 2,Laudium,TSH_61
+7990625,Mamelodi Ext 22,Mamelodi,TSH_10
+7990626,Schurwe Plaas Mine,Centurion,TSH_61
+7990627,Pierre van Ryneveld,Centurion,TSH_79
+7990628,Annlin,Pretoria,TSH_2
+7990629,Murrayfield Ext1,Pretoria,TSH_46
+7990630,Rooihuiskraal Noord,Centurion,TSH_69
+7990631,Spruit,Mooiplaas,TSH_70
+7990632,Philip Nel Park,Pretoria,TSH_3
+7990633,Villieria,Pretoria,TSH_53
+7990634,Eldoraigne Ext 6,Centurion,TSH_69
+7990635,Garsfontein,Pretoria,TSH_45
+7990636,Waverley,Pretoria,TSH_52
+7990637,Lady Selborne,Pretoria,TSH_55
+7990638,Valley View Estate,Centurion,TSH_77
+7990639,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7990640,Mamelodi SP,Mamelodi,TSH_40
+7990641,Mamelodi SP,Mamelodi,TSH_40
+7990642,Die Hoewes,Centurion,TSH_57
+7990643,Ga-Rankuwa Unit 17,Ga-Rankuwa,TSH_30
+7990644,Woodhill,Pretoria,TSH_45
+7990645,Pierre van Ryneveld,Centurion,TSH_79
+7990646,Die Hoewes,Centurion,TSH_57
+7990647,Silverton,Pretoria,TSH_41
+7990648,Lynnwood,Pretoria,TSH_82
+7990649,Moreleta Park,Pretoria,TSH_91
+7990650,Hatfield,Pretoria,TSH_92
+7990651,Lynnwood,Pretoria,TSH_82
+7990652,Mamelodi Ext 11,Mamelodi,TSH_97
+7990653,Winterveld Ext 1,Winterveld,TSH_24
+7990654,Mamelodi SP,Mamelodi,TSH_40
+7990655,Mamelodi SP,Mamelodi,TSH_40
+7990656,Gezina,Pretoria,TSH_53
+7990657,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7990658,Zwartkop,Centurion,TSH_78
+7990659,Rayton SP,Rayton,TSH_100
+7990660,Faerie Glen,Pretoria,TSH_44
+7990661,Soshanguve South,Soshanguve,TSH_39
+7990662,Soshanguve Ext 13,Soshanguve,TSH_32
+7990663,Soshanguve MM,Soshanguve,TSH_33
+7990664,Montana Park,Pretoria,TSH_87
+7990665,Faerie Glen,Pretoria,TSH_44
+7990666,Pretoria West,Pretoria,TSH_58
+7990667,Equestria,Pretoria,TSH_85
+7990668,Kudube Unit 11,Temba,TSH_75
+7990669,Eldo Park,Centurion,TSH_70
+7990670,Philip Nel Park,Pretoria,TSH_3
+7990671,Moreleta Park,Pretoria,TSH_83
+7990672,Rooihuiskraal,Centurion,TSH_64
+7990673,Botshabelo,Mabopane,TSH_22
+7990674,Muckleneuk,Pretoria,TSH_59
+7990675,Die Hoewes,Centurion,TSH_57
+7990676,Mamelodi Ext 10,Mamelodi,TSH_93
+7990677,Soshanguve A,Soshanguve,TSH_90
+7990678,Die Hoewes,Centurion,TSH_78
+7990679,Wonderboom,Pretoria,TSH_50
+7990680,Chantelle,Akasia,TSH_4
+7990681,Zithobeni SP,Zithobeni,TSH_102
+7990682,Zithobeni SP,Zithobeni,TSH_102
+7990683,Pierre van Ryneveld,Centurion,TSH_79
+7990684,Woodhill,Pretoria,TSH_101
+7990685,Winterveld AH,Winterveld,TSH_24
+7990686,Soshanguve M,Soshanguve,TSH_34
+7990687,Monument Park,Pretoria,TSH_42
+7990688,Garsfontein,Pretoria,TSH_44
+7990689,Doornpoort,Pretoria,TSH_96
+7990690,Mamelodi SP,Mamelodi,TSH_40
+7990691,Mamelodi SP,Mamelodi,TSH_40
+7990692,Doringkloof,Centurion,TSH_78
+7990693,Bailey's Muckleneuk,Pretoria,TSH_56
+7990694,Zwartkop,Centurion,TSH_78
+7990695,Amandasig,Akasia,TSH_98
+7990696,Arcadia,Pretoria,TSH_81
+7990697,The Orchards Ext 11,Akasia,TSH_4
+7990698,Jeffersville,Saulsville,TSH_71
+7990699,Raslou AH,Centurion,TSH_48
+7990700,Mamelodi SP,Mamelodi,TSH_40
+7990701,The Wilds,Pretoria,TSH_101
+7990702,Shere SH,Kungwini Part 2,TSH_101
+7990703,Refilwe SP,Refilwe,TSH_99
+7990704,Waterkloof Ridge,Pretoria,TSH_42
+7990705,Wonderboom South,Pretoria,TSH_54
+7990706,Soshanguve X,Soshanguve,TSH_27
+7990707,Mabopane U,Mabopane,TSH_22
+7990708,Pretoria North,Pretoria,TSH_2
+7990709,Faerie Glen,Pretoria,TSH_44
+7990710,Mamelodi SP,Mamelodi,TSH_40
+7990711,Montana,Pretoria,TSH_96
+7990712,Winterveld Ext 3,Winterveld,TSH_12
+7990713,Mamelodi FB3,Mamelodi,TSH_38
+7990714,Garsfontein,Pretoria,TSH_45
+7990715,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7990716,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990717,Lyttelton,Centurion,TSH_57
+7990718,Clubview,Centurion,TSH_66
+7990719,Raslou AH,Centurion,TSH_70
+7990720,Arathorn Estate,Kungwini Part 2,TSH_101
+7990721,Wapadrand,Pretoria,TSH_85
+7990722,Hebron SP,Hebron,TSH_30
+7990723,Arathorn Estate,Kungwini Part 2,TSH_101
+7990724,Mamelodi Ext 6,Mamelodi,TSH_10
+7990725,Stanza Bopape,Mamelodi,TSH_93
+7990726,Mamelodi SP,Mamelodi,TSH_40
+7990727,Prinshof,Pretoria,TSH_58
+7990728,Waterkloof Ridge,Pretoria,TSH_42
+7990729,La Montagne,Pretoria,TSH_41
+7990730,Muckleneuk,Pretoria,TSH_80
+7990731,Phumulamcashi Buffer Zone,Mamelodi,TSH_28
+7990732,The Orchards Ext 11,Akasia,TSH_4
+7990733,Centurion Golf Eastate,Centurion,TSH_65
+7990734,Sunnyside,Pretoria,TSH_59
+7990735,Brookelands Lifestyle Estate,Centurion,TSH_77
+7990736,Equestria,Pretoria,TSH_85
+7990737,Pierre van Ryneveld,Centurion,TSH_79
+7990738,Erasmuskloof,Pretoria,TSH_83
+7990739,Vergenoeg,Saulsville,TSH_107
+7990740,Eldoraigne,Centurion,TSH_70
+7990741,The Reeds Ext 15,Centurion,TSH_64
+7990742,Lynnwood,Pretoria,TSH_82
+7990743,Siahlala,Saulsville,TSH_107
+7990744,Mamelodi Ext 18,Mamelodi,TSH_97
+7990745,Mamelodi SP,Mamelodi,TSH_40
+7990746,Honingnestkrans SH,Haakdoornboom,TSH_96
+7990747,Mayville,Pretoria,TSH_53
+7990748,Moreleta Park,Pretoria,TSH_91
+7990749,Karenpark,Akasia,TSH_4
+7990750,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7990751,Winterveld Ext 3,Winterveld,TSH_19
+7990752,Hennopspark,Centurion,TSH_66
+7990753,Sunnyside,Pretoria,TSH_92
+7990754,Die Wilgers,Pretoria,TSH_46
+7990755,Montana Tuine,Pretoria,TSH_5
+7990756,Mamelodi SP,Mamelodi,TSH_40
+7990757,Soshanguve Ext 13,Soshanguve,TSH_32
+7990758,Arcadia,Pretoria,TSH_92
+7990759,Pretoria Central,Pretoria,TSH_58
+7990760,Die Hoewes,Centurion,TSH_57
+7990761,Tsebe SP,Tsebe,TSH_22
+7990762,Magalieskruin,Pretoria,TSH_5
+7990763,Centurion Central,Centurion,TSH_78
+7990764,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7990765,Mooikloof Ridge,Pretoria,TSH_91
+7990766,Mamelodi Ext 10,Mamelodi,TSH_93
+7990767,Arcadia,Pretoria,TSH_92
+7990768,Hesteapark,Akasia,TSH_98
+7990769,Florauna,Pretoria,TSH_2
+7990770,Rietfontein,Pretoria,TSH_54
+7990771,Pretoria Central,Pretoria,TSH_58
+7990772,Winterveld Ext 1,Winterveld,TSH_29
+7990773,Eldoraigne Ext 1,Centurion,TSH_69
+7990774,Muckleneuk,Pretoria,TSH_80
+7990775,Hillcrest,Pretoria,TSH_56
+7990776,Mabopane U Ext 1,Mabopane,TSH_22
+7990777,Mabopane U Ext 1,Mabopane,TSH_22
+7990778,Winterveld Ext 3,Winterveld,TSH_19
+7990779,Ekangala SP,Ekangala,TSH_104
+7990780,Soshanguve South Ext 1,Soshanguve,TSH_39
+7990781,Doornpoort,Pretoria,TSH_96
+7990782,Lynnwood Ridge,Pretoria,TSH_46
+7990783,Itsoseng,Mabopane,TSH_20
+7990784,Silverton,Pretoria,TSH_41
+7990785,Silverton,Pretoria,TSH_41
+7990786,Refilwe SP,Refilwe,TSH_99
+7990787,Silverton,Pretoria,TSH_41
+7990788,Suiderberg,Pretoria,TSH_55
+7990789,Erasmuskloof,Pretoria,TSH_83
+7990790,Itsoseng,Mabopane,TSH_20
+7990791,Florauna,Pretoria,TSH_2
+7990792,Kanana,Hammanskraal,TSH_49
+7990793,Zithobeni SP,Zithobeni,TSH_102
+7990794,Amberfield Glen,Centurion,TSH_48
+7990795,Valhalla,Centurion,TSH_66
+7990796,Montana Park,Pretoria,TSH_5
+7990797,Fortina Landbouhoewes,Pretoria,TSH_55
+7990798,Sunnyside,Pretoria,TSH_81
+7990799,Equestria,Pretoria,TSH_85
+7990800,Faerie Glen,Pretoria,TSH_44
+7990801,Dorandia,Pretoria,TSH_2
+7990802,Stanza Bopape,Mamelodi,TSH_93
+7990803,Sunnyside,Pretoria,TSH_80
+7990804,Elarduspark,Pretoria,TSH_47
+7990805,Mahube Valley Ext 1,Mamelodi,TSH_93
+7990806,Arcadia,Pretoria,TSH_92
+7990807,Wonderboom South,Pretoria,TSH_54
+7990808,Mabopane U,Mabopane,TSH_22
+7990809,Mamelodi SP,Mamelodi,TSH_40
+7990810,Siahlala,Saulsville,TSH_107
+7990811,Sunnyside,Pretoria,TSH_92
+7990812,Sunnyside,Pretoria,TSH_81
+7990813,Mamelodi Ext 10,Mamelodi,TSH_17
+7990814,Mamelodi SP,Mamelodi,TSH_40
+7990815,Arathorn Estate,Kungwini Part 2,TSH_101
+7990816,Moreleta Park,Pretoria,TSH_91
+7990817,Dorandia,Pretoria,TSH_2
+7990818,Moreleta Park,Pretoria,TSH_91
+7990819,Pretoria Central,Pretoria,TSH_80
+7990820,Sunnyside,Pretoria,TSH_81
+7990821,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990822,Mamelodi SP,Mamelodi,TSH_40
+7990823,Arcadia,Pretoria,TSH_92
+7990824,Sinoville,Pretoria,TSH_5
+7990825,Sunnyside,Pretoria,TSH_81
+7990826,Kudube Unit D,Temba,TSH_75
+7990827,Soshanguve K,Soshanguve,TSH_35
+7990828,La Montagne,Pretoria,TSH_41
+7990829,Ga-Rankuwa Unit 8,Ga-Rankuwa,TSH_32
+7990830,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7990831,Sinoville,Pretoria,TSH_50
+7990832,Tshwane NU,Tshwane NU,TSH_99
+7990833,Erasmusrand,Pretoria,TSH_42
+7990834,Sunnyside,Pretoria,TSH_92
+7990835,Queenswood,Pretoria,TSH_84
+7990836,Wonderboom South,Pretoria,TSH_54
+7990837,Mabopane U Ext 1,Mabopane,TSH_22
+7990838,Mamelodi SP,Mamelodi,TSH_40
+7990839,Wingate Park,Pretoria,TSH_47
+7990840,Lukasrand,Pretoria,TSH_59
+7990841,"Eldoraigne Ext 11,  27",Centurion,TSH_69
+7990842,Soshanguve MM,Soshanguve,TSH_33
+7990843,Waterkloof Ridge,Pretoria,TSH_42
+7990844,Lynnwood Manor,Pretoria,TSH_46
+7990845,Elarduspark,Pretoria,TSH_47
+7990846,Mamelodi SP,Mamelodi,TSH_40
+7990847,Refilwe SP,Refilwe,TSH_99
+7990848,Winterveld Ext 1,Winterveld,TSH_24
+7990849,Montana,Pretoria,TSH_5
+7990850,Soshanguve VV,Soshanguve,TSH_36
+7990851,Hennopspark,Centurion,TSH_66
+7990852,Lynnwood Glen,Pretoria,TSH_46
+7990853,Pretoria Central,Pretoria,TSH_58
+7990854,Wierda Park Ext 1,Centurion,TSH_70
+7990855,Siahlala,Saulsville,TSH_107
+7990856,Lynnwood Ridge,Pretoria,TSH_46
+7990857,Murrayfield Ext1,Pretoria,TSH_46
+7990858,Lynnwood Ridge,Pretoria,TSH_46
+7990859,Riamar park,Bronkhorstspruit,TSH_105
+7990860,Soshanguve M,Soshanguve,TSH_35
+7990861,Kungwini Country Estate,Bronkhorstspruit,TSH_105
+7990862,Kilner Park,Pretoria,TSH_84
+7990863,Proclamation Hill,Pretoria,TSH_3
+7990864,Mabopane R,Mabopane,TSH_22
+7990865,Mamelodi Ext 10,Mamelodi,TSH_93
+7990866,Clubview,Centurion,TSH_66
+7990867,Trevenna,Pretoria,TSH_81
+7990868,Lynnwood Manor,Pretoria,TSH_46
+7990869,Mabopane U Ext 1,Mabopane,TSH_22
+7990870,Soshanguve East,Soshanguve,TSH_90
+7990871,Montana Park,Pretoria,TSH_87
+7990872,Zwartkop,Centurion,TSH_78
+7990873,Park Town Estate,Pretoria,TSH_54
+7990874,Ga-Rankuwa Unit 5,Ga-Rankuwa,TSH_31
+7990875,Queenswood,Pretoria,TSH_84
+7990876,Sunnyside,Pretoria,TSH_92
+7990877,Pretoria Central,Pretoria,TSH_80
+7990878,Lyttelton,Centurion,TSH_57
+7990879,Mamelodi SP,Mamelodi,TSH_40
+7990880,Amberfield Crest,Centurion,TSH_48
+7990881,Soshanguve L Ext 1,Soshanguve,TSH_35
+7990882,Ekangala Section C,Ekangala,TSH_103
+7990883,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7990884,Lebanon,Winterveld,TSH_19
+7990885,Premier Diamond Mine,Cullinan,TSH_100
+7990886,Amberfield Crest,Centurion,TSH_48
+7990887,Moregloed,Pretoria,TSH_84
+7990888,Garsfontein,Pretoria,TSH_45
+7990889,Sunnyside,Pretoria,TSH_92
+7990890,Monavoni,Centurion,TSH_48
+7990891,Mamelodi Ext 10,Mamelodi,TSH_17
+7990892,Montana Park,Pretoria,TSH_5
+7990893,Doornpoort,Pretoria,TSH_96
+7990894,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7990895,Sunnyside,Pretoria,TSH_81
+7990896,Menlo Park,Pretoria,TSH_82
+7990897,Groenkloof,Pretoria,TSH_59
+7990898,Wierda Park Ext 1,Centurion,TSH_70
+7990899,Sunnyside,Pretoria,TSH_59
+7990900,Mahube Valley Ext 1,Mamelodi,TSH_93
+7990901,Sinoville,Pretoria,TSH_50
+7990902,Arcadia,Pretoria,TSH_92
+7990903,Mamelodi SP,Mamelodi,TSH_40
+7990904,Equestria,Pretoria,TSH_85
+7990905,Mahube Valley Ext 1,Mamelodi,TSH_93
+7990906,Highveld,Centurion,TSH_65
+7990907,Tshwane NU,Tshwane NU,TSH_105
+7990908,Equestria,Pretoria,TSH_85
+7990909,Atteridgeville SP,Atteridgeville,TSH_63
+7990910,Equestria,Pretoria,TSH_85
+7990911,Vergenoeg,Saulsville,TSH_107
+7990912,Eldoraigne,Centurion,TSH_69
+7990913,Clarina,Akasia,TSH_98
+7990914,Dilopye SP,Dilopye,TSH_8
+7990915,Theresapark,Akasia,TSH_98
+7990916,Eldoraigne Ext 45,Centurion,TSH_69
+7990917,Wonderboom South,Pretoria,TSH_54
+7990918,Garsfontein,Pretoria,TSH_45
+7990919,Mabopane CV,Mabopane,TSH_29
+7990920,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7990921,Onverwacht SP,Onverwacht,TSH_100
+7990922,Die Hoewes,Centurion,TSH_57
+7990923,Dorandia,Pretoria,TSH_98
+7990924,Sunnyside,Pretoria,TSH_81
+7990925,Wierda Park Ext 2,Centurion,TSH_69
+7990926,Soshanguve CC,Soshanguve,TSH_33
+7990927,Lynnwood,Pretoria,TSH_82
+7990928,Colbyn,Pretoria,TSH_92
+7990929,Amberfield Glen,Centurion,TSH_48
+7990930,Montana Tuine,Pretoria,TSH_5
+7990931,Waterkloof Ridge,Pretoria,TSH_42
+7990932,Magalieskruin,Pretoria,TSH_5
+7990933,Amandasig,Akasia,TSH_4
+7990934,Die Hoewes,Centurion,TSH_57
+7990935,Karenpark,Akasia,TSH_4
+7990936,Wierda Park,Centurion,TSH_70
+7990937,Irene Security Estate,Centurion,TSH_65
+7990938,Ekangala SP,Ekangala,TSH_104
+7990939,Botshabelo,Mabopane,TSH_22
+7990940,Booysens,Pretoria,TSH_55
+7990941,Faerie Glen,Pretoria,TSH_44
+7990942,Doornpoort,Pretoria,TSH_96
+7990943,Soshanguve South Ext 10,Soshanguve,TSH_37
+7990944,Wierda Park Ext 1,Centurion,TSH_70
+7990945,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7990946,Nellmapius Ext 9,Nellmapius,TSH_86
+7990947,Dorandia,Pretoria,TSH_98
+7990948,Kanana,Hammanskraal,TSH_49
+7990949,Mamelodi SP,Mamelodi,TSH_40
+7990950,Monavoni,Centurion,TSH_48
+7990951,Queenswood,Pretoria,TSH_84
+7990952,Riamar park,Bronkhorstspruit,TSH_105
+7990953,Sunnyside,Pretoria,TSH_59
+7990954,Sinoville,Pretoria,TSH_50
+7990955,Siahlala,Saulsville,TSH_107
+7990956,Ramotse SP,Ramotse,TSH_73
+7990957,Die Wilgers,Pretoria,TSH_85
+7990958,Valley View Estate,Centurion,TSH_77
+7990959,Karenpark,Akasia,TSH_4
+7990960,Rooihuiskraal,Centurion,TSH_64
+7990961,Pretoria West,Pretoria,TSH_58
+7990962,Mamelodi Ext 10,Mamelodi,TSH_17
+7990963,Slovo,Winterveld,TSH_19
+7990964,Sunnyside,Pretoria,TSH_59
+7990965,Karenpark,Akasia,TSH_4
+7990966,Theresapark,Akasia,TSH_98
+7990967,Sunnyside,Pretoria,TSH_81
+7990968,Menlo Park,Pretoria,TSH_82
+7990969,Theresapark,Akasia,TSH_98
+7990970,Mamelodi SP,Mamelodi,TSH_40
+7990971,Vergenoeg,Saulsville,TSH_107
+7990972,Garsfontein,Pretoria,TSH_44
+7990973,Mooikloof Ridge,Pretoria,TSH_91
+7990974,Waterkloof Ridge,Pretoria,TSH_42
+7990975,Mamelodi SP,Mamelodi,TSH_40
+7990976,Kekana Garden SP,Kekana Garden,TSH_73
+7990977,Soshanguve South Ext 5,Soshanguve,TSH_89
+7990978,Mamelodi SP,Mamelodi,TSH_40
+7990979,La Montagne,Pretoria,TSH_41
+7990980,Bronberrik,Centurion,TSH_66
+7990981,Temba Unit 1,Temba,TSH_74
+7990982,Highveld,Centurion,TSH_65
+7990983,Arcadia,Pretoria,TSH_92
+7990984,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7990985,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7990986,Meyerspark,Pretoria,TSH_41
+7990987,Die Hoewes,Centurion,TSH_57
+7990988,The Orchards,Akasia,TSH_4
+7990989,Florauna,Pretoria,TSH_2
+7990990,The Reeds Ext 9,Centurion,TSH_64
+7990991,Nellmapius Ext 9,Nellmapius,TSH_86
+7990992,Soshanguve HH,Soshanguve,TSH_11
+7990993,Lyttelton,Centurion,TSH_79
+7990994,Vergenoeg,Saulsville,TSH_107
+7990995,Garsfontein,Pretoria,TSH_45
+7990996,Heuweloord,Centurion,TSH_48
+7990997,Eldo Meadows,Centurion,TSH_70
+7990998,Erasmuskloof,Pretoria,TSH_83
+7990999,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7991000,Theresapark,Akasia,TSH_98
+7991001,Lyttelton,Centurion,TSH_79
+7991002,Mabopane M,Mabopane,TSH_20
+7991003,Vergenoeg,Saulsville,TSH_107
+7991004,Centurion Central,Centurion,TSH_78
+7991005,Garsfontein,Pretoria,TSH_45
+7991006,Mamelodi SP,Mamelodi,TSH_40
+7991007,Pretoria North,Pretoria,TSH_2
+7991008,Villieria,Pretoria,TSH_84
+7991009,Lebanon,Winterveld,TSH_12
+7991010,Sunnyside,Pretoria,TSH_81
+7991011,Zithobeni SP,Zithobeni,TSH_102
+7991012,Mabopane Unit E,Mabopane,TSH_29
+7991013,Valhalla,Centurion,TSH_66
+7991014,Sable Hills Waterfront Estate SP,Sable Hills Waterfront Estate,TSH_99
+7991015,Ninapark,Akasia,TSH_98
+7991016,Country Lane Estate,Pretoria,TSH_47
+7991017,Mamelodi SP,Mamelodi,TSH_40
+7991018,Garsfontein,Pretoria,TSH_44
+7991019,Sunnyside,Pretoria,TSH_92
+7991020,Slovo,Winterveld,TSH_19
+7991021,Sunnyside,Pretoria,TSH_81
+7991022,Soshanguve H Ext 1,Soshanguve,TSH_34
+7991023,Sunnyside,Pretoria,TSH_59
+7991024,Sunnyside,Pretoria,TSH_81
+7991025,Mabopane R,Mabopane,TSH_22
+7991026,Mamelodi SP,Mamelodi,TSH_40
+7991027,Mamelodi SP,Mamelodi,TSH_40
+7991028,Stanza Bopape,Mamelodi,TSH_93
+7991029,Vergenoeg,Saulsville,TSH_107
+7991030,Silverton,Pretoria,TSH_41
+7991031,Groenkloof,Pretoria,TSH_59
+7991032,Annlin,Pretoria,TSH_50
+7991033,Mabopane U Ext 1,Mabopane,TSH_22
+7991034,Waterkloof,Pretoria,TSH_42
+7991035,Elarduspark,Pretoria,TSH_79
+7991036,Cullinan SP,Cullinan,TSH_100
+7991037,Ekangala Section B,Ekangala,TSH_104
+7991038,Soshanguve Ext 13,Soshanguve,TSH_32
+7991039,Waterkloof,Pretoria,TSH_42
+7991040,Die Wilgers,Pretoria,TSH_85
+7991041,Zithobeni SP,Zithobeni,TSH_102
+7991042,Mabopane R,Mabopane,TSH_22
+7991043,Annlin,Pretoria,TSH_2
+7991044,Centurion Golf Eastate,Centurion,TSH_65
+7991045,Mamelodi Ext 11,Mamelodi,TSH_97
+7991046,Garsfontein,Pretoria,TSH_45
+7991047,Pretoria North,Pretoria,TSH_2
+7991048,Theresapark,Akasia,TSH_98
+7991049,Soshanguve South Ext 1,Soshanguve,TSH_39
+7991050,Soshanguve South Ext 5,Soshanguve,TSH_90
+7991051,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7991052,Groenkloof,Pretoria,TSH_59
+7991053,Valhalla,Centurion,TSH_66
+7991054,Moreleta Park,Pretoria,TSH_91
+7991055,Wapadrand,Pretoria,TSH_85
+7991056,Ekangala Section B,Ekangala,TSH_104
+7991057,Rietfontein,Pretoria,TSH_54
+7991058,Mabopane U Ext 1,Mabopane,TSH_22
+7991059,Muckleneuk,Pretoria,TSH_59
+7991060,Wonderboom,Pretoria,TSH_50
+7991061,Winterveld AH,Winterveld,TSH_24
+7991062,Matejoane,Saulsville,TSH_72
+7991063,Brooklyn,Pretoria,TSH_56
+7991064,Stinkwater SP,Stinkwater,TSH_13
+7991065,Zithobeni SP,Zithobeni,TSH_102
+7991066,Garsfontein,Pretoria,TSH_45
+7991067,Garsfontein,Pretoria,TSH_44
+7991068,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991069,Sunnyside,Pretoria,TSH_81
+7991070,Sunnyside,Pretoria,TSH_59
+7991071,Wierda Park Ext 2,Centurion,TSH_69
+7991072,Clubview,Centurion,TSH_66
+7991073,Villieria,Pretoria,TSH_52
+7991074,Moreleta Park,Pretoria,TSH_47
+7991075,Garsfontein,Pretoria,TSH_45
+7991076,Die Hoewes,Centurion,TSH_57
+7991077,Montana,Pretoria,TSH_5
+7991078,Stanza Bopape,Mamelodi,TSH_93
+7991079,Lyttelton,Centurion,TSH_79
+7991080,Kanana,Hammanskraal,TSH_49
+7991081,Garsfontein,Pretoria,TSH_45
+7991082,Eldoraigne Ext 1,Centurion,TSH_69
+7991083,Beirut,Winterveld,TSH_12
+7991084,Montana Park,Pretoria,TSH_5
+7991085,Soshanguve Ext 13,Soshanguve,TSH_32
+7991086,Faerie Glen,Pretoria,TSH_44
+7991087,Lynnwood Ridge,Pretoria,TSH_46
+7991088,Doringkloof,Centurion,TSH_78
+7991089,Doornpoort,Pretoria,TSH_96
+7991090,Moreleta Park,Pretoria,TSH_47
+7991091,Wierda Park,Centurion,TSH_70
+7991092,Waterkloof Glen,Pretoria,TSH_83
+7991093,Nellmapius Ext 8,Nellmapius,TSH_15
+7991094,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7991095,Lynnwood Manor,Pretoria,TSH_46
+7991096,Kekana Garden SP,Kekana Garden,TSH_73
+7991097,Rooihuiskraal,Centurion,TSH_64
+7991098,Winterveld Ext 3,Winterveld,TSH_19
+7991099,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7991100,Queenswood,Pretoria,TSH_84
+7991101,Monavoni,Centurion,TSH_48
+7991102,Amberfield Glen,Centurion,TSH_48
+7991103,Glen Lauriston,Centurion,TSH_66
+7991104,Plastic View,Soshanguve,TSH_90
+7991105,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7991106,Mabopane M,Mabopane,TSH_20
+7991107,The Orchards,Akasia,TSH_4
+7991108,Monument Park,Pretoria,TSH_42
+7991109,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991110,Heuweloord,Centurion,TSH_48
+7991111,Wingate Park,Pretoria,TSH_47
+7991112,Soshanguve South Ext 5,Soshanguve,TSH_90
+7991113,Raslou AH,Centurion,TSH_70
+7991114,Vergenoeg,Saulsville,TSH_107
+7991115,Moreleta Park,Pretoria,TSH_91
+7991116,Vergenoeg,Saulsville,TSH_107
+7991117,Die Wilgers,Pretoria,TSH_85
+7991118,Monument Park,Pretoria,TSH_42
+7991119,Silver Lakes Golf Estate,Pretoria,TSH_101
+7991120,Southdowns Irene Country Farm,Centurion,TSH_65
+7991121,Mamelodi Ext 11,Mamelodi,TSH_97
+7991122,Waterval AH,Waterval,TSH_96
+7991123,Boadwalk,Kungwini Part 2,TSH_101
+7991124,Murrayfield,Pretoria,TSH_41
+7991125,Refilwe SP,Refilwe,TSH_99
+7991126,Villieria,Pretoria,TSH_53
+7991127,Faerie Glen,Pretoria,TSH_44
+7991128,Lynnwood,Pretoria,TSH_82
+7991129,Mamelodi SP,Mamelodi,TSH_40
+7991130,Zithobeni SP,Zithobeni,TSH_105
+7991131,Dilopye SP,Dilopye,TSH_13
+7991132,Eldoraigne Ext 6,Centurion,TSH_69
+7991133,Ekangala Section E,Ekangala,TSH_103
+7991134,Wierda Park,Centurion,TSH_70
+7991135,Lynnwood,Pretoria,TSH_82
+7991136,Muckleneuk,Pretoria,TSH_59
+7991137,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991138,Soshanguve South Ext 8,Soshanguve,TSH_37
+7991139,Matejoane,Saulsville,TSH_72
+7991140,Hennopspark,Centurion,TSH_66
+7991141,Suiderberg,Pretoria,TSH_55
+7991142,Arcadia,Pretoria,TSH_92
+7991143,Waterkloof Ridge,Pretoria,TSH_42
+7991144,Soshanguve A,Soshanguve,TSH_90
+7991145,Moreleta Park,Pretoria,TSH_91
+7991146,Eldo View,Centurion,TSH_70
+7991147,Annlin,Pretoria,TSH_50
+7991148,Zwartkop,Centurion,TSH_78
+7991149,Botshabelo,Mabopane,TSH_22
+7991150,Rethabiseng SP,Rethabiseng,TSH_103
+7991151,Soshanguve KK,Soshanguve,TSH_26
+7991152,Wapadrand,Pretoria,TSH_85
+7991153,Itsoseng,Mabopane,TSH_20
+7991154,Pretoria Central,Pretoria,TSH_58
+7991155,Hatfield,Pretoria,TSH_56
+7991156,Kilner Park,Pretoria,TSH_84
+7991157,Reitvlei,Pretoria,TSH_47
+7991158,Zwartkop,Centurion,TSH_78
+7991159,Mamelodi Ext 11,Mamelodi,TSH_97
+7991160,Magalieskruin,Pretoria,TSH_5
+7991161,Kudube Unit 2,Temba,TSH_75
+7991162,Soshanguve East,Soshanguve,TSH_90
+7991163,Vergenoeg,Saulsville,TSH_107
+7991164,La Montagne,Pretoria,TSH_41
+7991165,Arcadia,Pretoria,TSH_92
+7991166,Wingate Park,Pretoria,TSH_47
+7991167,Kanana,Hammanskraal,TSH_49
+7991168,Doringkloof,Centurion,TSH_78
+7991169,Rethabiseng SP,Rethabiseng,TSH_103
+7991170,The Orchards Ext 11,Akasia,TSH_4
+7991171,Pretoria West,Pretoria,TSH_58
+7991172,Pierre van Ryneveld,Centurion,TSH_79
+7991173,Faerie Glen,Pretoria,TSH_46
+7991174,Arcadia,Pretoria,TSH_92
+7991175,Silverton,Pretoria,TSH_41
+7991176,Kanana,Hammanskraal,TSH_49
+7991177,Rietondale,Pretoria,TSH_84
+7991178,Soshanguve JJ,Soshanguve,TSH_11
+7991179,Montana Park,Pretoria,TSH_5
+7991180,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991181,Pretoria North,Pretoria,TSH_2
+7991182,Montana,Pretoria,TSH_96
+7991183,Brookelands Lifestyle Estate,Centurion,TSH_77
+7991184,Bon Accord AH,Bon Accord,TSH_96
+7991185,Capital Park,Pretoria,TSH_53
+7991186,Wierda Park Ext 1,Centurion,TSH_70
+7991187,Soshanguve VV,Soshanguve,TSH_36
+7991188,Elarduspark,Pretoria,TSH_47
+7991189,Pretoria North,Pretoria,TSH_2
+7991190,Garsfontein,Pretoria,TSH_45
+7991191,Mabopane Unit S,Mabopane,TSH_20
+7991192,Mamelodi Ext 6,Mamelodi,TSH_10
+7991193,Mamelodi SP,Mamelodi,TSH_40
+7991194,Pretoria North,Pretoria,TSH_2
+7991195,Annlin,Pretoria,TSH_50
+7991196,Winterveld AH,Winterveld,TSH_24
+7991197,Garsfontein,Pretoria,TSH_45
+7991198,Itsoseng,Mabopane,TSH_20
+7991199,Soshanguve M,Soshanguve,TSH_35
+7991200,Doringkloof,Centurion,TSH_78
+7991201,Ga-Rankuwa Unit 8,Ga-Rankuwa,TSH_32
+7991202,Constantia Park,Pretoria,TSH_83
+7991203,Masada,Bronkhorstspruit,TSH_105
+7991204,Amandasig,Akasia,TSH_98
+7991205,Mamelodi Ext 6,Mamelodi,TSH_100
+7991206,Mamelodi SP,Mamelodi,TSH_40
+7991207,Mamelodi SP,Mamelodi,TSH_40
+7991208,Tshwane NU,Tshwane NU,TSH_99
+7991209,Soshanguve South Ext 8,Soshanguve,TSH_39
+7991210,"The Reeds Ext 6,19,20",Centurion,TSH_64
+7991211,Pretoria North,Pretoria,TSH_2
+7991212,Nellmapius Ext 8,Nellmapius,TSH_15
+7991213,Pierre van Ryneveld,Centurion,TSH_79
+7991214,Faerie Glen,Pretoria,TSH_44
+7991215,Monavoni,Centurion,TSH_48
+7991216,Stanza Bopape,Mamelodi,TSH_93
+7991217,Leoka Villa AH,Pretoria,TSH_55
+7991218,Soshanguve M,Soshanguve,TSH_35
+7991219,Caltura Park,Bronkhorstspruit,TSH_105
+7991220,Moreleta Park,Pretoria,TSH_91
+7991221,Faerie Glen,Pretoria,TSH_44
+7991222,Stinkwater SP,Stinkwater,TSH_13
+7991223,Kanana,Hammanskraal,TSH_49
+7991224,Boadwalk,Kungwini Part 2,TSH_101
+7991225,Garsfontein,Pretoria,TSH_45
+7991226,Refilwe SP,Refilwe,TSH_99
+7991227,Kekana Garden SP,Kekana Garden,TSH_73
+7991228,Winterveld Ext 3,Winterveld,TSH_19
+7991229,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7991230,Garsfontein,Pretoria,TSH_45
+7991231,Mamelodi Ext 6,Mamelodi,TSH_10
+7991232,Stanza Bopape,Mamelodi,TSH_93
+7991233,Magalieskruin,Pretoria,TSH_5
+7991234,Wierda Park Ext 1,Centurion,TSH_70
+7991235,Meyerspark,Pretoria,TSH_41
+7991236,Wapadrand,Pretoria,TSH_85
+7991237,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991238,Ninapark,Akasia,TSH_98
+7991239,Raslou AH,Centurion,TSH_70
+7991240,Montana Tuine,Pretoria,TSH_5
+7991241,Wageenbietjieskop SH,Wageenbietjieskop,TSH_105
+7991242,Heuwelsig Estate,Centurion,TSH_48
+7991243,Faerie Glen,Pretoria,TSH_85
+7991244,Botshabelo,Mabopane,TSH_22
+7991245,The Orchards Ext 11,Akasia,TSH_4
+7991246,Pierre van Ryneveld,Centurion,TSH_79
+7991247,Hennopspark,Centurion,TSH_66
+7991248,Theresapark,Akasia,TSH_98
+7991249,Marokolong SP,Marokolong,TSH_74
+7991250,Mamelodi SP,Mamelodi,TSH_40
+7991251,Equestria,Pretoria,TSH_85
+7991252,Kudube Unit 11,Temba,TSH_75
+7991253,Menlyn,Pretoria,TSH_83
+7991254,Wonderboom,Pretoria,TSH_50
+7991255,Elarduspark,Pretoria,TSH_47
+7991256,"The Reeds Ext 6,19,20",Centurion,TSH_64
+7991257,Meyerspark,Pretoria,TSH_41
+7991258,Waterkloof Park,Pretoria,TSH_42
+7991259,Winterveld AH,Winterveld,TSH_24
+7991260,Wierdaglen Estate,Centurion,TSH_69
+7991261,Faerie Glen,Pretoria,TSH_44
+7991262,Soshanguve South Ext 3,Soshanguve,TSH_37
+7991263,Proclamation Hill,Pretoria,TSH_3
+7991264,Mountain View,Pretoria,TSH_54
+7991265,Karenpark,Akasia,TSH_4
+7991266,Soshanguve South Ext 1,Soshanguve,TSH_39
+7991267,Zwartkop,Centurion,TSH_78
+7991268,Mamelodi SP,Mamelodi,TSH_40
+7991269,Pierre van Ryneveld,Centurion,TSH_79
+7991270,Danville Ext 3,Pretoria,TSH_60
+7991271,Lynnwood,Pretoria,TSH_82
+7991272,Mamelodi SP,Mamelodi,TSH_40
+7991273,Sekampaneng,Temba,TSH_8
+7991274,Grootvlei SH,Grootvlei,TSH_49
+7991275,Sinoville,Pretoria,TSH_50
+7991276,Queenswood,Pretoria,TSH_84
+7991277,Mabopane Unit E,Mabopane,TSH_29
+7991278,Constantia Park,Pretoria,TSH_83
+7991279,Pierre van Ryneveld,Centurion,TSH_79
+7991280,Die Wilgers,Pretoria,TSH_85
+7991281,Faerie Glen,Pretoria,TSH_44
+7991282,Soutpan SP,Soutpan,TSH_13
+7991283,Mamelodi Ext 11,Mamelodi,TSH_97
+7991284,Mashemong SP,Mashemong,TSH_76
+7991285,Soshanguve K,Soshanguve,TSH_35
+7991286,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7991287,Arcadia,Pretoria,TSH_92
+7991288,Winterveld AH,Winterveld,TSH_24
+7991289,Pretoria Central,Pretoria,TSH_80
+7991290,Hillcrest,Pretoria,TSH_82
+7991291,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991292,Proclamation Hill,Pretoria,TSH_3
+7991293,Lynnwood Ridge,Pretoria,TSH_46
+7991294,Villieria,Pretoria,TSH_53
+7991295,Phumolong,Saulsville,TSH_71
+7991296,Kudube Unit D,Temba,TSH_75
+7991297,Winterveld Ext 1,Winterveld,TSH_9
+7991298,Brooklyn,Pretoria,TSH_56
+7991299,Nellmapius Ext 9,Nellmapius,TSH_86
+7991300,Soshanguve South Ext 10,Soshanguve,TSH_37
+7991301,Sunnyside,Pretoria,TSH_59
+7991302,Soshanguve WW,Soshanguve,TSH_36
+7991303,Lebanon,Winterveld,TSH_19
+7991304,Theresapark,Akasia,TSH_98
+7991305,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991306,Faerie Glen,Pretoria,TSH_44
+7991307,Zithobeni SP,Zithobeni,TSH_102
+7991308,Kudube Unit D,Temba,TSH_75
+7991309,Cullinan SP,Cullinan,TSH_100
+7991310,The Orchards,Akasia,TSH_4
+7991311,Pretoria North,Pretoria,TSH_2
+7991312,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991313,Villieria,Pretoria,TSH_52
+7991314,Winterveld AH,Winterveld,TSH_24
+7991315,Laudium Ext 2,Laudium,TSH_61
+7991316,Botshabelo,Mabopane,TSH_22
+7991317,Lyttelton,Centurion,TSH_57
+7991318,Capital Park,Pretoria,TSH_53
+7991319,Karenpark,Akasia,TSH_4
+7991320,Eldoraigne,Centurion,TSH_69
+7991321,Waterkloof,Pretoria,TSH_56
+7991322,Suiderberg,Pretoria,TSH_55
+7991323,Menlo Park,Pretoria,TSH_82
+7991324,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7991325,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7991326,Vergenoeg,Saulsville,TSH_71
+7991327,Doornpoort,Pretoria,TSH_96
+7991328,Stanza Bopape,Mamelodi,TSH_93
+7991329,Mamelodi SP,Mamelodi,TSH_40
+7991330,Stanza Bopape,Mamelodi,TSH_93
+7991331,Mamelodi Ext 18,Mamelodi,TSH_97
+7991332,Winterveld Ext 1,Winterveld,TSH_9
+7991333,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991334,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7991335,Soshanguve KK,Soshanguve,TSH_26
+7991336,Kilner Park,Pretoria,TSH_84
+7991337,Refilwe SP,Refilwe,TSH_99
+7991338,Eldoraigne,Centurion,TSH_69
+7991339,Highveld,Centurion,TSH_65
+7991340,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7991341,Moreleta Park,Pretoria,TSH_47
+7991342,Faerie Glen,Pretoria,TSH_46
+7991343,Arcadia,Pretoria,TSH_92
+7991344,Kekana Garden SP,Kekana Garden,TSH_73
+7991345,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7991346,Pretoria Central,Pretoria,TSH_80
+7991347,Mabopane M,Mabopane,TSH_20
+7991348,Rooihuiskraal Noord,Centurion,TSH_69
+7991349,Philip Nel Park,Pretoria,TSH_3
+7991350,Moreleta Park,Pretoria,TSH_91
+7991351,Danville,Pretoria,TSH_60
+7991352,Derdepoort,Pretoria,TSH_87
+7991353,Danville Ext 3,Pretoria,TSH_60
+7991354,Kloofzicht,Centurion,TSH_79
+7991355,Lynnwood Glen,Pretoria,TSH_46
+7991356,Mabopane X,Mabopane,TSH_21
+7991357,Rooihuiskraal,Centurion,TSH_65
+7991358,Gezina,Pretoria,TSH_53
+7991359,Capital Park,Pretoria,TSH_1
+7991360,Bronberrik,Centurion,TSH_66
+7991361,Stanza Bopape,Mamelodi,TSH_93
+7991362,Magalieskruin,Pretoria,TSH_5
+7991363,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7991364,Rietfontein,Pretoria,TSH_53
+7991365,Refilwe SP,Refilwe,TSH_99
+7991366,Mabopane U,Mabopane,TSH_22
+7991367,Wierda Park Ext 2,Centurion,TSH_69
+7991368,Moreleta Park,Pretoria,TSH_47
+7991369,Rietfontein,Pretoria,TSH_54
+7991370,Soshanguve XX,Soshanguve,TSH_90
+7991371,Soshanguve M Ext 1,Soshanguve,TSH_36
+7991372,Six Fountains Residential Estate,Pretoria,TSH_101
+7991373,Slovo,Winterveld,TSH_19
+7991374,Waterkloof Glen,Pretoria,TSH_83
+7991375,Silverton,Pretoria,TSH_41
+7991376,Irene Farm Villages,Centurion,TSH_79
+7991377,Montana Tuine,Pretoria,TSH_96
+7991378,Soshanguve V Ext 1,Soshanguve,TSH_25
+7991379,Winterveld AH,Winterveld,TSH_24
+7991380,Rosslyn,Akasia,TSH_37
+7991381,Soshanguve South,Soshanguve,TSH_39
+7991382,Booysens,Pretoria,TSH_55
+7991383,Soshanguve East,Soshanguve,TSH_90
+7991384,Sunnyside,Pretoria,TSH_59
+7991385,Rooihuiskraal,Centurion,TSH_64
+7991386,Pierre van Ryneveld,Centurion,TSH_79
+7991387,Montana Tuine,Pretoria,TSH_5
+7991388,Mamelodi Ext 11,Mamelodi,TSH_97
+7991389,Schurwe Plaas Mine,Centurion,TSH_61
+7991390,Soshanguve FF,Soshanguve,TSH_26
+7991391,Soshanguve South Ext 9,Soshanguve,TSH_37
+7991392,Winterveld Ext 3,Winterveld,TSH_19
+7991393,Theresapark,Akasia,TSH_98
+7991394,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991395,Tsebe SP,Tsebe,TSH_22
+7991396,Dilopye SP,Dilopye,TSH_8
+7991397,Garsfontein,Pretoria,TSH_45
+7991398,Montana AH,Pretoria,TSH_5
+7991399,Pretoria Central,Pretoria,TSH_58
+7991400,Mamelodi Ext 11,Mamelodi,TSH_97
+7991401,Pretoria West,Pretoria,TSH_3
+7991402,Mamelodi Ext 2,Mamelodi,TSH_18
+7991403,Menlo Park,Pretoria,TSH_82
+7991404,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991405,Weavind Park,Pretoria,TSH_46
+7991406,Zambezi Courty Estate,Pretoria,TSH_5
+7991407,Val De Grace,Pretoria,TSH_41
+7991408,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991409,Rietvalleirand,Pretoria,TSH_47
+7991410,Sunnyside,Pretoria,TSH_80
+7991411,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991412,Mamelodi Ext 10,Mamelodi,TSH_93
+7991413,Botshabelo,Mabopane,TSH_22
+7991414,Sinoville,Pretoria,TSH_50
+7991415,Daspoort Estate,Pretoria,TSH_1
+7991416,Mamelodi SP,Mamelodi,TSH_40
+7991417,Atteridgeville SP,Atteridgeville,TSH_63
+7991418,Eldo Glen,Centurion,TSH_70
+7991419,Faerie Glen,Pretoria,TSH_44
+7991420,Refilwe SP,Refilwe,TSH_99
+7991421,Nellmapius Ext 8,Nellmapius,TSH_15
+7991422,Lyttelton,Centurion,TSH_57
+7991423,Erasmuskloof,Pretoria,TSH_83
+7991424,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991425,Matejoane,Saulsville,TSH_72
+7991426,Les Marais,Pretoria,TSH_53
+7991427,Mamelodi Ext 6,Mamelodi,TSH_10
+7991428,Hebron SP,Hebron,TSH_30
+7991429,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7991430,Eldoraigne Ext 1,Centurion,TSH_69
+7991431,Soshanguve GG,Soshanguve,TSH_94
+7991432,Moreleta Park,Pretoria,TSH_91
+7991433,Sinoville,Pretoria,TSH_50
+7991434,Sunnyside,Pretoria,TSH_81
+7991435,Magalieskruin,Pretoria,TSH_5
+7991436,Baviaanspoort SH,Baviaanspoort,TSH_87
+7991437,Vergenoeg,Saulsville,TSH_107
+7991438,Mamelodi Ext 11,Mamelodi,TSH_97
+7991439,Brooklyn,Pretoria,TSH_56
+7991440,Ga-Rankuwa Unit 5,Ga-Rankuwa,TSH_31
+7991441,Atteridgeville SP,Atteridgeville,TSH_7
+7991442,Mabopane U Ext 1,Mabopane,TSH_22
+7991443,Mayville,Pretoria,TSH_54
+7991444,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7991445,Hesteapark,Akasia,TSH_98
+7991446,Onverwacht SP,Onverwacht,TSH_100
+7991447,Mamelodi Ext 10,Mamelodi,TSH_93
+7991448,Muckleneuk,Pretoria,TSH_59
+7991449,Masada,Bronkhorstspruit,TSH_105
+7991450,Faerie Glen,Pretoria,TSH_44
+7991451,The Reeds Ext 9,Centurion,TSH_64
+7991452,Winterveld Ext 3,Winterveld,TSH_19
+7991453,Faerie Glen,Pretoria,TSH_44
+7991454,Winterveld Ext 3,Winterveld,TSH_19
+7991455,Soshanguve A,Soshanguve,TSH_90
+7991456,Zithobeni SP,Zithobeni,TSH_105
+7991457,La Montagne,Pretoria,TSH_41
+7991458,Soshanguve H,Soshanguve,TSH_34
+7991459,Rooihuiskraal Noord,Centurion,TSH_69
+7991460,Groenkloof,Pretoria,TSH_59
+7991461,Montana,Pretoria,TSH_5
+7991462,Vergenoeg,Saulsville,TSH_71
+7991463,Pretoria Gardens,Pretoria,TSH_55
+7991464,Villieria,Pretoria,TSH_53
+7991465,Moreleta Park,Pretoria,TSH_91
+7991466,Refilwe SP,Refilwe,TSH_99
+7991467,Faerie Glen,Pretoria,TSH_44
+7991468,Faerie Glen,Pretoria,TSH_46
+7991469,Kekana Garden SP,Kekana Garden,TSH_73
+7991470,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7991471,Die Hoewes,Centurion,TSH_78
+7991472,Lyttelton,Centurion,TSH_57
+7991473,Soshanguve X,Soshanguve,TSH_27
+7991474,Sunnyside,Pretoria,TSH_81
+7991475,Vergenoeg,Saulsville,TSH_107
+7991476,Arcadia,Pretoria,TSH_92
+7991477,Waterkloof,Pretoria,TSH_42
+7991478,Soshanguve IA,Soshanguve,TSH_29
+7991479,Menlo Park,Pretoria,TSH_82
+7991480,Mabopane Unit S,Mabopane,TSH_20
+7991481,Lyttelton,Centurion,TSH_79
+7991482,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7991483,Andeon AH,Pretoria,TSH_55
+7991484,Sunnyside,Pretoria,TSH_59
+7991485,Muckleneuk,Pretoria,TSH_59
+7991486,Soshanguve South Ext 8,Soshanguve,TSH_37
+7991487,Elarduspark,Pretoria,TSH_79
+7991488,Irene,Centurion,TSH_65
+7991489,Sinoville,Pretoria,TSH_50
+7991490,Makanyaneng SP,Makanyaneng,TSH_22
+7991491,Mahube Valley Ext 3,Mamelodi,TSH_17
+7991492,Pierre van Ryneveld,Centurion,TSH_79
+7991493,Winterveld Ext 3,Winterveld,TSH_19
+7991494,Mamelodi SP,Mamelodi,TSH_40
+7991495,Equestria,Pretoria,TSH_85
+7991496,Magalieskruin,Pretoria,TSH_5
+7991497,Rosslyn,Akasia,TSH_37
+7991498,Doornpoort,Pretoria,TSH_96
+7991499,Rethabiseng SP,Rethabiseng,TSH_103
+7991500,Garsfontein,Pretoria,TSH_45
+7991501,Ekangala Section B,Ekangala,TSH_104
+7991502,Annlin,Pretoria,TSH_50
+7991503,Montana Tuine,Pretoria,TSH_5
+7991504,Siahlala,Saulsville,TSH_107
+7991505,Villieria,Pretoria,TSH_84
+7991506,Die Hoewes,Centurion,TSH_78
+7991507,Silver Lakes Golf Estate,Pretoria,TSH_101
+7991508,Claremont,Pretoria,TSH_55
+7991509,Montana Tuine,Pretoria,TSH_96
+7991510,Mamelodi SP,Mamelodi,TSH_40
+7991511,Rayton SH,Rayton,TSH_100
+7991512,Mahube Valley Ext 1,Mamelodi,TSH_93
+7991513,The Orchards,Akasia,TSH_4
+7991514,Mahube Valley Ext 1,Mamelodi,TSH_93
+7991515,Lynnwood Manor,Pretoria,TSH_46
+7991516,Brooklyn,Pretoria,TSH_56
+7991517,Moreleta Park,Pretoria,TSH_47
+7991518,Mabopane M,Mabopane,TSH_20
+7991519,Nellmapius Ext 6,Nellmapius,TSH_15
+7991520,Waterval AH,Waterval,TSH_96
+7991521,Kudube Unit 11,Temba,TSH_8
+7991522,Mabopane U Ext 1,Mabopane,TSH_22
+7991523,Soshanguve M Ext 1,Soshanguve,TSH_36
+7991524,Moreleta Park,Pretoria,TSH_91
+7991525,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7991526,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7991527,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7991528,Lynnwood Ridge,Pretoria,TSH_46
+7991529,Heuweloord,Centurion,TSH_48
+7991530,Stinkwater SP,Stinkwater,TSH_13
+7991531,Eldo Glen,Centurion,TSH_70
+7991532,Pierre van Ryneveld,Centurion,TSH_79
+7991533,Moreleta Park,Pretoria,TSH_83
+7991534,Silver Stream Estate,Pretoria,TSH_101
+7991535,Brooklyn,Pretoria,TSH_56
+7991536,Kilner Park,Pretoria,TSH_84
+7991537,Stanza Bopape,Mamelodi,TSH_93
+7991538,Die Hoewes,Centurion,TSH_78
+7991539,Soutpan SP,Soutpan,TSH_13
+7991540,Mamelodi FB3,Mamelodi,TSH_38
+7991541,Silverton,Pretoria,TSH_41
+7991542,The Orchards Ext 11,Akasia,TSH_4
+7991543,Rooihuiskraal,Centurion,TSH_64
+7991544,The Orchards Ext 11,Akasia,TSH_4
+7991545,Kilner Park,Pretoria,TSH_84
+7991546,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991547,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7991548,Ramotse SP,Ramotse,TSH_73
+7991549,Booysens,Pretoria,TSH_55
+7991550,Soshanguve K,Soshanguve,TSH_34
+7991551,Villieria,Pretoria,TSH_84
+7991552,Soshanguve V,Soshanguve,TSH_25
+7991553,Karenpark,Akasia,TSH_4
+7991554,Menlo Park,Pretoria,TSH_82
+7991555,Mamelodi SP,Mamelodi,TSH_40
+7991556,Mamelodi Ext 10,Mamelodi,TSH_93
+7991557,Mamelodi SP,Mamelodi,TSH_40
+7991558,Doornpoort,Pretoria,TSH_96
+7991559,Nellmapius Ext 7,Nellmapius,TSH_15
+7991560,Die Hoewes,Centurion,TSH_57
+7991561,Riviera,Pretoria,TSH_53
+7991562,Mabopane M,Mabopane,TSH_20
+7991563,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991564,Soshanguve MM,Soshanguve,TSH_33
+7991565,Elarduspark,Pretoria,TSH_47
+7991566,Itsoseng,Mabopane,TSH_20
+7991567,Silverton,Pretoria,TSH_41
+7991568,Moreleta Park,Pretoria,TSH_91
+7991569,Soshanguve South,Soshanguve,TSH_39
+7991570,Soshanguve IA,Soshanguve,TSH_29
+7991571,Itsoseng,Mabopane,TSH_20
+7991572,Heuweloord,Centurion,TSH_48
+7991573,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7991574,Rooihuiskraal,Centurion,TSH_65
+7991575,Stinkwater SP,Stinkwater,TSH_13
+7991576,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7991577,Winterveld AH,Winterveld,TSH_24
+7991578,Mabopane U,Mabopane,TSH_22
+7991579,Silverton Ext 7,Pretoria,TSH_41
+7991580,Doornpoort,Pretoria,TSH_96
+7991581,Sinoville,Pretoria,TSH_5
+7991582,Die Hoewes,Centurion,TSH_57
+7991583,Lotus Gardens,Pretoria,TSH_7
+7991584,Highveld,Centurion,TSH_65
+7991585,Lyttelton,Centurion,TSH_57
+7991586,Spruit,Mooiplaas,TSH_70
+7991587,Mamelodi SP,Mamelodi,TSH_40
+7991588,Mamelodi Ext 6,Mamelodi,TSH_10
+7991589,Temba Unit D,Temba,TSH_75
+7991590,Danville Ext 3,Pretoria,TSH_60
+7991591,Elarduspark,Pretoria,TSH_47
+7991592,Soshanguve PP 1,Soshanguve,TSH_25
+7991593,New Eersterus SP,New Eersterus,TSH_14
+7991594,Cullinan SP,Cullinan,TSH_100
+7991595,Garsfontein,Pretoria,TSH_45
+7991596,Soshanguve East,Soshanguve,TSH_90
+7991597,Eloffsdal,Pretoria,TSH_53
+7991598,Die Hoewes,Centurion,TSH_57
+7991599,Soshanguve PP 2,Soshanguve,TSH_25
+7991600,Wingate Park,Pretoria,TSH_47
+7991601,Silverton,Pretoria,TSH_41
+7991602,Itsoseng,Mabopane,TSH_20
+7991603,Arcadia,Pretoria,TSH_92
+7991604,Mabopane M,Mabopane,TSH_20
+7991605,Faerie Glen,Pretoria,TSH_44
+7991606,Doornpoort,Pretoria,TSH_96
+7991607,Soshanguve KK,Soshanguve,TSH_26
+7991608,Moreleta Park,Pretoria,TSH_91
+7991609,Erasmuskloof,Pretoria,TSH_83
+7991610,Doornpoort,Pretoria,TSH_96
+7991611,Valhalla,Centurion,TSH_66
+7991612,Irene Security Estate,Centurion,TSH_65
+7991613,Irene Farm Villages,Centurion,TSH_79
+7991614,Mamelodi FB3,Mamelodi,TSH_38
+7991615,Ga-Rankuwa Unit 20,Ga-Rankuwa,TSH_30
+7991616,Soshanguve V Ext 1,Soshanguve,TSH_25
+7991617,Eldoraigne,Centurion,TSH_69
+7991618,Refilwe SP,Refilwe,TSH_99
+7991619,Villieria,Pretoria,TSH_84
+7991620,Temba Unit 1,Temba,TSH_74
+7991621,Constantia Park,Pretoria,TSH_83
+7991622,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7991623,Nellmapius Ext 6,Nellmapius,TSH_15
+7991624,Mabopane R,Mabopane,TSH_22
+7991625,Stanza Bopape,Mamelodi,TSH_93
+7991626,Kilner Park,Pretoria,TSH_84
+7991627,Kanana,Hammanskraal,TSH_49
+7991628,Meyerspark,Pretoria,TSH_41
+7991629,Temba Unit D,Temba,TSH_75
+7991630,Montana Park,Pretoria,TSH_5
+7991631,Rayton SP,Rayton,TSH_100
+7991632,Moregloed,Pretoria,TSH_84
+7991633,Refilwe SP,Refilwe,TSH_99
+7991634,Nellmapius Ext 7,Nellmapius,TSH_15
+7991635,Nellmapius Ext 8,Nellmapius,TSH_15
+7991636,Marokolong SP,Marokolong,TSH_74
+7991637,Zithobeni SP,Zithobeni,TSH_102
+7991638,Mamelodi Ext 6,Mamelodi,TSH_10
+7991639,Kanana,Hammanskraal,TSH_49
+7991640,Mabopane X,Mabopane,TSH_21
+7991641,Centurion Golf Eastate,Centurion,TSH_65
+7991642,Weavind Park,Pretoria,TSH_84
+7991643,Waterkloof,Pretoria,TSH_82
+7991644,Botshabelo,Mabopane,TSH_22
+7991645,Faerie Glen,Pretoria,TSH_44
+7991646,Soshanguve South Ext 3,Soshanguve,TSH_37
+7991647,Stinkwater SP,Stinkwater,TSH_13
+7991648,Arcadia,Pretoria,TSH_92
+7991649,Mabopane Unit S,Mabopane,TSH_20
+7991650,Kanana,Hammanskraal,TSH_49
+7991651,Garsfontein,Pretoria,TSH_45
+7991652,Bailey's Muckleneuk,Pretoria,TSH_56
+7991653,Doornpoort,Pretoria,TSH_96
+7991654,Itsoseng,Mabopane,TSH_20
+7991655,Ga-Rankuwa Unit 8,Ga-Rankuwa,TSH_32
+7991656,Claremont,Pretoria,TSH_1
+7991657,Mamelodi Ext 10,Mamelodi,TSH_17
+7991658,Pierre van Ryneveld,Centurion,TSH_79
+7991659,Soshanguve East,Soshanguve,TSH_90
+7991660,Rooihuiskraal Noord,Centurion,TSH_69
+7991661,Sunnyside,Pretoria,TSH_81
+7991662,Murrayfield,Pretoria,TSH_41
+7991663,La Montagne,Pretoria,TSH_41
+7991664,Kudube Unit D,Temba,TSH_75
+7991665,Kanana,Hammanskraal,TSH_49
+7991666,The Orchards Ext 24,Akasia,TSH_4
+7991667,Garsfontein,Pretoria,TSH_45
+7991668,Kekana Garden SP,Kekana Garden,TSH_73
+7991669,Waterkloof Ridge,Pretoria,TSH_42
+7991670,Silverton,Pretoria,TSH_41
+7991671,Mashemong SP,Mashemong,TSH_76
+7991672,Stanza Bopape,Mamelodi,TSH_93
+7991673,Montana Park,Pretoria,TSH_5
+7991674,Annlin,Pretoria,TSH_50
+7991675,Silver Lakes Golf Estate,Pretoria,TSH_101
+7991676,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7991677,Mabopane M,Mabopane,TSH_20
+7991678,Mamelodi Ext 3,Mamelodi,TSH_15
+7991679,Doornpoort,Pretoria,TSH_96
+7991680,Kwaggasrand,Pretoria,TSH_3
+7991681,Mashemong SP,Mashemong,TSH_76
+7991682,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7991683,Lynnwood Glen,Pretoria,TSH_46
+7991684,Mabopane Unit B,Mabopane,TSH_21
+7991685,Heuweloord,Centurion,TSH_48
+7991686,Sunnyside,Pretoria,TSH_92
+7991687,Mabopane X,Mabopane,TSH_21
+7991688,Pierre van Ryneveld,Centurion,TSH_79
+7991689,Soshanguve X,Soshanguve,TSH_27
+7991690,Rietfontein,Pretoria,TSH_54
+7991691,The Orchards Ext 11,Akasia,TSH_4
+7991692,Rosslyn,Akasia,TSH_37
+7991693,Laezonia AH,Centurion,TSH_48
+7991694,Sunnyside,Pretoria,TSH_59
+7991695,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7991696,Doornpoort,Pretoria,TSH_96
+7991697,Lebanon,Winterveld,TSH_19
+7991698,Wonderboom South,Pretoria,TSH_54
+7991699,Kekana Garden SP,Kekana Garden,TSH_73
+7991700,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991701,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7991702,Willow Park Manor,Pretoria,TSH_41
+7991703,Mamelodi SP,Mamelodi,TSH_40
+7991704,Pretoria Central,Pretoria,TSH_58
+7991705,Ekangala Section B,Ekangala,TSH_104
+7991706,Riviera,Pretoria,TSH_53
+7991707,Eldoraigne Ext 1,Centurion,TSH_69
+7991708,Sunnyside,Pretoria,TSH_81
+7991709,Mabopane R,Mabopane,TSH_22
+7991710,Nellmapius Ext 6,Nellmapius,TSH_15
+7991711,Ga-Rankuwa Unit 8,Ga-Rankuwa,TSH_32
+7991712,Sunnyside,Pretoria,TSH_81
+7991713,Mamelodi Ext 11,Mamelodi,TSH_97
+7991714,Winterveld AH,Winterveld,TSH_24
+7991715,Doornkloof SH,Centurion,TSH_65
+7991716,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991717,Refilwe SP,Refilwe,TSH_99
+7991718,Lotus Gardens Ext 2,Pretoria,TSH_7
+7991719,Mabopane X,Mabopane,TSH_21
+7991720,Sunnyside,Pretoria,TSH_59
+7991721,Ramotse SP,Ramotse,TSH_73
+7991722,Ekangala SP,Ekangala,TSH_104
+7991723,Ekangala Section B,Ekangala,TSH_104
+7991724,Mabopane X,Mabopane,TSH_21
+7991725,Moreleta Park,Pretoria,TSH_47
+7991726,Kekana Garden SP,Kekana Garden,TSH_73
+7991727,Eldoraigne,Centurion,TSH_69
+7991728,Danville Ext 1,Pretoria,TSH_60
+7991729,Roseville,Pretoria,TSH_1
+7991730,Dilopye SP,Dilopye,TSH_8
+7991731,Montana,Pretoria,TSH_5
+7991732,Erasmuskloof,Pretoria,TSH_83
+7991733,Soshanguve M Ext 1,Soshanguve,TSH_36
+7991734,Garsfontein,Pretoria,TSH_45
+7991735,Muckleneuk,Pretoria,TSH_59
+7991736,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7991737,Soshanguve BB,Soshanguve,TSH_33
+7991738,Mamelodi SP,Mamelodi,TSH_40
+7991739,Saulsville SP,Saulsville,TSH_63
+7991740,Wingate Park,Pretoria,TSH_47
+7991741,Soshanguve LL,Soshanguve,TSH_11
+7991742,Meyerspark,Pretoria,TSH_41
+7991743,The Orchards Ext 11,Akasia,TSH_4
+7991744,Sunnyside,Pretoria,TSH_81
+7991745,Mamelodi SP,Mamelodi,TSH_40
+7991746,Florauna,Pretoria,TSH_2
+7991747,Winterveld Ext 3,Winterveld,TSH_19
+7991748,Ekangala Section B,Ekangala,TSH_104
+7991749,Eloffsdal,Pretoria,TSH_1
+7991750,Lyttelton,Centurion,TSH_79
+7991751,Soshanguve UU,Soshanguve,TSH_36
+7991752,Stinkwater SP,Stinkwater,TSH_13
+7991753,Suiderberg,Pretoria,TSH_55
+7991754,West Park,Pretoria,TSH_3
+7991755,Mahube Valley Ext 3,Mamelodi,TSH_17
+7991756,Pierre van Ryneveld,Centurion,TSH_79
+7991757,Elarduspark,Pretoria,TSH_47
+7991758,Mamelodi S&S,Mamelodi,TSH_23
+7991759,Clubview,Centurion,TSH_66
+7991760,Villieria,Pretoria,TSH_52
+7991761,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991762,Winterveld Ext 3,Winterveld,TSH_19
+7991763,Kilner Park,Pretoria,TSH_84
+7991764,Soshanguve PP 1,Soshanguve,TSH_25
+7991765,Soshanguve IA,Soshanguve,TSH_29
+7991766,Mashemong SP,Mashemong,TSH_76
+7991767,Soutpan SP,Soutpan,TSH_13
+7991768,Booysens,Pretoria,TSH_55
+7991769,Soshanguve K,Soshanguve,TSH_34
+7991770,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7991771,Meyerspark,Pretoria,TSH_41
+7991772,Mamelodi SP,Mamelodi,TSH_40
+7991773,Stanza Bopape,Mamelodi,TSH_93
+7991774,Lynnwood Glen,Pretoria,TSH_46
+7991775,Moreleta Park,Pretoria,TSH_91
+7991776,Mabopane U,Mabopane,TSH_22
+7991777,Temba Unit 1,Temba,TSH_74
+7991778,Valhalla,Centurion,TSH_66
+7991779,Ninapark,Akasia,TSH_98
+7991780,Monument Park,Pretoria,TSH_42
+7991781,Sunnyside,Pretoria,TSH_81
+7991782,Winterveld AH,Winterveld,TSH_24
+7991783,Winterveld Ext 3,Winterveld,TSH_19
+7991784,Mabopane X,Mabopane,TSH_21
+7991785,Magalieskruin,Pretoria,TSH_5
+7991786,Ekangala Section B,Ekangala,TSH_104
+7991787,Queenswood Ext 2,Pretoria,TSH_84
+7991788,Rooihuiskraal Noord,Centurion,TSH_69
+7991789,Thaba Tshwane,Pretoria,TSH_51
+7991790,Mamelodi Ext 11,Mamelodi,TSH_97
+7991791,Mamelodi SP,Mamelodi,TSH_40
+7991792,Onverwacht SP,Onverwacht,TSH_100
+7991793,Garsfontein,Pretoria,TSH_45
+7991794,Lyttelton,Centurion,TSH_57
+7991795,Garsfontein,Pretoria,TSH_45
+7991796,Waterkloof Heights,Pretoria,TSH_42
+7991797,Kudube Unit D,Temba,TSH_76
+7991798,Wonderboom,Pretoria,TSH_50
+7991799,Lebanon,Winterveld,TSH_12
+7991800,Dorandia,Pretoria,TSH_2
+7991801,Kekana Garden SP,Kekana Garden,TSH_73
+7991802,Waterkloof Glen,Pretoria,TSH_83
+7991803,Mabopane Unit E,Mabopane,TSH_29
+7991804,Soshanguve MM,Soshanguve,TSH_33
+7991805,Stinkwater A,Stinkwater,TSH_13
+7991806,Cullinan SP,Cullinan,TSH_100
+7991807,Fortina Landbouhoewes,Pretoria,TSH_55
+7991808,Mabopane M,Mabopane,TSH_20
+7991809,Moregloed,Pretoria,TSH_84
+7991810,Elarduspark,Pretoria,TSH_47
+7991811,Zwartkop,Centurion,TSH_78
+7991812,Zithobeni SP,Zithobeni,TSH_105
+7991813,Ramotse SP,Ramotse,TSH_73
+7991814,Die Wilgers,Pretoria,TSH_46
+7991815,Soshanguve WW,Soshanguve,TSH_36
+7991816,Wonderboom South,Pretoria,TSH_54
+7991817,Ekangala Section B,Ekangala,TSH_104
+7991818,Zwartkop,Centurion,TSH_78
+7991819,Wolmer,Pretoria,TSH_2
+7991820,Queenswood Ext 2,Pretoria,TSH_84
+7991821,Wapadrand,Pretoria,TSH_85
+7991822,Ninapark,Akasia,TSH_98
+7991823,Rietfontein,Pretoria,TSH_54
+7991824,Queenswood,Pretoria,TSH_84
+7991825,Rens Town,Hammanskraal,TSH_49
+7991826,Kekana Garden SP,Kekana Garden,TSH_73
+7991827,Pretoria Central,Pretoria,TSH_58
+7991828,Stinkwater SP,Stinkwater,TSH_13
+7991829,Phumolong,Saulsville,TSH_71
+7991830,Vergenoeg,Saulsville,TSH_107
+7991831,Vergenoeg,Saulsville,TSH_107
+7991832,Wierda Park,Centurion,TSH_70
+7991833,Waterkloof Ridge,Pretoria,TSH_42
+7991834,Zithobeni SP,Zithobeni,TSH_102
+7991835,Eco-Park Estate,Centurion,TSH_65
+7991836,Amberfield Manor,Centurion,TSH_48
+7991837,Mooikloof Ridge,Pretoria,TSH_91
+7991838,Eco-Park Estate,Centurion,TSH_65
+7991839,Rietfontein,Pretoria,TSH_53
+7991840,Mabopane X,Mabopane,TSH_21
+7991841,Magalieskruin,Pretoria,TSH_5
+7991842,Doornpoort,Pretoria,TSH_96
+7991843,Queenswood,Pretoria,TSH_84
+7991844,Doringkloof,Centurion,TSH_78
+7991845,Spruit,Mooiplaas,TSH_70
+7991846,Refilwe SP,Refilwe,TSH_99
+7991847,Soshanguve South Ext 8,Soshanguve,TSH_39
+7991848,Menlo Park,Pretoria,TSH_82
+7991849,Montana Tuine,Pretoria,TSH_96
+7991850,Philip Nel Park,Pretoria,TSH_3
+7991851,Refilwe SP,Refilwe,TSH_99
+7991852,Wierda Park Ext 2,Centurion,TSH_69
+7991853,Nellmapius Ext 8,Nellmapius,TSH_15
+7991854,Cullinan SP,Cullinan,TSH_100
+7991855,Mabopane X,Mabopane,TSH_21
+7991856,Mabopane X,Mabopane,TSH_21
+7991857,Matejoane,Saulsville,TSH_72
+7991858,Waverley,Pretoria,TSH_52
+7991859,Sinoville,Pretoria,TSH_50
+7991860,Soshanguve UU,Soshanguve,TSH_36
+7991861,Rooihuiskraal,Centurion,TSH_64
+7991862,Soshanguve South Ext 2,Soshanguve,TSH_89
+7991863,Soshanguve HH,Soshanguve,TSH_11
+7991864,West Park,Pretoria,TSH_3
+7991865,Kudube Unit D,Temba,TSH_75
+7991866,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7991867,Mamelodi Ext 3,Mamelodi,TSH_15
+7991868,Mabopane M,Mabopane,TSH_20
+7991869,Sunnyside,Pretoria,TSH_81
+7991870,Moreleta Park,Pretoria,TSH_47
+7991871,Mahube Valley Ext 1,Mamelodi,TSH_93
+7991872,Lebanon,Winterveld,TSH_12
+7991873,Nellmapius Ext 7,Nellmapius,TSH_15
+7991874,Soshanguve XX,Soshanguve,TSH_90
+7991875,Tsebe SP,Tsebe,TSH_22
+7991876,Mamelodi SP,Mamelodi,TSH_40
+7991877,Phumolong,Saulsville,TSH_71
+7991878,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7991879,Gezina,Pretoria,TSH_53
+7991880,Khutsong,Mamelodi,TSH_18
+7991881,Pierre van Ryneveld,Centurion,TSH_79
+7991882,Soshanguve V Ext 1,Soshanguve,TSH_25
+7991883,Die Hoewes,Centurion,TSH_57
+7991884,Ga-Rankuwa Unit 21,Ga-Rankuwa,TSH_32
+7991885,Theresapark,Akasia,TSH_98
+7991886,Kudube Unit D,Temba,TSH_75
+7991887,Trevenna,Pretoria,TSH_81
+7991888,Riamar park,Bronkhorstspruit,TSH_102
+7991889,Ekangala Section B,Ekangala,TSH_103
+7991890,Eldoraigne Ext 1,Centurion,TSH_69
+7991891,Rietondale,Pretoria,TSH_53
+7991892,Mamelodi Ext 18,Mamelodi,TSH_97
+7991893,Soshanguve NN,Soshanguve,TSH_11
+7991894,Ga-Rankuwa Unit 17,Ga-Rankuwa,TSH_30
+7991895,"Eldoraigne Ext 11, 27",Centurion,TSH_69
+7991896,Newlands,Pretoria,TSH_83
+7991897,Ekangala Section E,Ekangala,TSH_103
+7991898,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7991899,Mabopane Unit B,Mabopane,TSH_21
+7991900,Temba Unit 7,Temba,TSH_75
+7991901,Mountain View,Pretoria,TSH_1
+7991902,Nellmapius Ext 8,Nellmapius,TSH_15
+7991903,Rooihuiskraal,Centurion,TSH_64
+7991904,Kanana,Hammanskraal,TSH_49
+7991905,Thatchfield,Centurion,TSH_64
+7991906,Stinkwater SP,Stinkwater,TSH_13
+7991907,Midas,Mabopane,TSH_22
+7991908,Sunnyside,Pretoria,TSH_81
+7991909,Kudube Unit 10,Temba,TSH_75
+7991910,Leboneng,Temba,TSH_75
+7991911,The Orchards Ext 21,Akasia,TSH_4
+7991912,Marokolong SP,Marokolong,TSH_49
+7991913,Rethabiseng SP,Rethabiseng,TSH_103
+7991914,"The Reeds Ext 2, 10, 43",Centurion,TSH_64
+7991915,Roseville,Pretoria,TSH_1
+7991916,Doringkloof,Centurion,TSH_78
+7991917,Nellmapius Ext 7,Nellmapius,TSH_15
+7991918,Wierda Park Ext 2,Centurion,TSH_69
+7991919,Hennopspark,Centurion,TSH_66
+7991920,Sunnyside,Pretoria,TSH_59
+7991921,Suurman SP,Suurman,TSH_8
+7991922,Dilopye SP,Dilopye,TSH_8
+7991923,Woodlands Lifestyle Estate,Pretoria,TSH_45
+7991924,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7991925,Soshanguve F,Soshanguve,TSH_29
+7991926,Soshanguve South Ext 8,Soshanguve,TSH_37
+7991927,Moreleta Park,Pretoria,TSH_91
+7991928,Kekana Garden SP,Kekana Garden,TSH_73
+7991929,Newlands,Pretoria,TSH_83
+7991930,Rayton SP,Rayton,TSH_100
+7991931,Jan Niemand Park,Pretoria,TSH_43
+7991932,Pretoria Central,Pretoria,TSH_81
+7991933,Pierre van Ryneveld,Centurion,TSH_79
+7991934,Mamelodi FB3,Mamelodi,TSH_38
+7991935,Waterkloof,Pretoria,TSH_82
+7991936,Kekana Garden SP,Kekana Garden,TSH_73
+7991937,Meyerspark,Pretoria,TSH_41
+7991938,Ekangala Section B,Ekangala,TSH_104
+7991939,Ga-Rankuwa Unit 17,Ga-Rankuwa,TSH_30
+7991940,Montana Park,Pretoria,TSH_87
+7991941,Stinkwater SP,Stinkwater,TSH_13
+7991942,Mamelodi SP,Mamelodi,TSH_40
+7991943,Lynnwood,Pretoria,TSH_82
+7991944,Ekangala Section D,Ekangala,TSH_103
+7991945,Capital Park,Pretoria,TSH_53
+7991946,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7991947,Silverton Ext 5,Pretoria,TSH_41
+7991948,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_30
+7991949,Daspoort Estate,Pretoria,TSH_1
+7991950,Soshanguve TT,Soshanguve,TSH_89
+7991951,Amandasig,Akasia,TSH_4
+7991952,Montana AH,Pretoria,TSH_5
+7991953,Sinoville,Pretoria,TSH_5
+7991954,Mabopane X,Mabopane,TSH_21
+7991955,Soshanguve M,Soshanguve,TSH_35
+7991956,Heuweloord,Centurion,TSH_48
+7991957,Chris Hani,Soshanguve,TSH_25
+7991958,Mabopane R,Mabopane,TSH_22
+7991959,Botshabelo,Mabopane,TSH_22
+7991960,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7991961,Rooihuiskraal Noord,Centurion,TSH_48
+7991962,Mamelodi SP,Mamelodi,TSH_40
+7991963,Mamelodi Ext 11,Mamelodi,TSH_97
+7991964,Muckleneuk,Pretoria,TSH_80
+7991965,Winterveld Ext 1,Winterveld,TSH_29
+7991966,Waterkloof Ridge,Pretoria,TSH_42
+7991967,The Reeds Ext 5,Centurion,TSH_64
+7991968,Capital Park,Pretoria,TSH_1
+7991969,Montana,Pretoria,TSH_96
+7991970,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7991971,Jan Niemand Park,Pretoria,TSH_43
+7991972,Sinoville,Pretoria,TSH_50
+7991973,Suurman SP,Suurman,TSH_8
+7991974,Suurman SP,Suurman,TSH_8
+7991975,Kanana,Hammanskraal,TSH_49
+7991976,Kekana Garden SP,Kekana Garden,TSH_73
+7991977,The Wilds,Pretoria,TSH_101
+7991978,Irene Farm Villages,Centurion,TSH_79
+7991979,Rietondale,Pretoria,TSH_84
+7991980,Mahube Valley Ext 3,Mamelodi,TSH_17
+7991981,Soshanguve Ext 13,Soshanguve,TSH_37
+7991982,Rooihuiskraal,Centurion,TSH_64
+7991983,Monavoni,Centurion,TSH_48
+7991984,Mashemong SP,Mashemong,TSH_76
+7991985,Mashemong SP,Mashemong,TSH_76
+7991986,Rooihuiskraal,Centurion,TSH_64
+7991987,Soshanguve M Ext 1,Soshanguve,TSH_36
+7991988,Waterkloof,Pretoria,TSH_82
+7991989,Weavind Park,Pretoria,TSH_84
+7991990,Eastwood 2,Pretoria,TSH_92
+7991991,Claremont,Pretoria,TSH_55
+7991992,Jeffersville,Saulsville,TSH_71
+7991993,Soutpan SP,Soutpan,TSH_13
+7991994,Mamelodi Ext 11,Mamelodi,TSH_97
+7991995,Soshanguve A,Soshanguve,TSH_90
+7991996,Moreleta Park,Pretoria,TSH_47
+7991997,Soshanguve JJ,Soshanguve,TSH_11
+7991998,Lyttelton,Centurion,TSH_57
+7991999,Mamelodi SP,Mamelodi,TSH_40
+7992000,Refilwe SP,Refilwe,TSH_99
+7992001,Spruit,Mooiplaas,TSH_70
+7992002,Winterveld Ext 1,Winterveld,TSH_9
+7992003,Winterveld Ext 1,Winterveld,TSH_24
+7992004,Lyttelton,Centurion,TSH_57
+7992005,Soshanguve Y,Soshanguve,TSH_88
+7992006,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992007,Pretoria Central,Pretoria,TSH_80
+7992008,Elandspoort,Pretoria,TSH_60
+7992009,Mabopane U,Mabopane,TSH_22
+7992010,Refilwe SP,Refilwe,TSH_99
+7992011,Soshanguve R,Soshanguve,TSH_26
+7992012,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7992013,Eersterust Ext 5,Eersterust,TSH_43
+7992014,Moreleta Park,Pretoria,TSH_91
+7992015,Rietfontein,Pretoria,TSH_53
+7992016,Lotus Gardens,Pretoria,TSH_7
+7992017,Eersterust Ext 2,Eersterust,TSH_43
+7992018,Die Hoewes,Centurion,TSH_57
+7992019,Pretoria Central,Pretoria,TSH_80
+7992020,Amberfield Heights,Centurion,TSH_48
+7992021,Mamelodi SP,Mamelodi,TSH_40
+7992022,Kameelkraal SP,Kameelkraal,TSH_102
+7992023,Roodepoort SH,Roodepoort,TSH_105
+7992024,Ekangala SP,Ekangala,TSH_104
+7992025,Proclamation Hill,Pretoria,TSH_3
+7992026,Doornpoort,Pretoria,TSH_96
+7992027,Val De Grace,Pretoria,TSH_46
+7992028,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7992029,Pretoria West,Pretoria,TSH_3
+7992030,Mamelodi SP,Mamelodi,TSH_40
+7992031,Mashemong SP,Mashemong,TSH_76
+7992032,Sekampaneng SP,Temba,TSH_8
+7992033,Raslou AH,Centurion,TSH_70
+7992034,Slovo,Winterveld,TSH_19
+7992035,Mabopane X,Mabopane,TSH_21
+7992036,Kudube Unit 11,Temba,TSH_75
+7992037,Temba Unit 1,Temba,TSH_74
+7992038,Temba Unit 1,Temba,TSH_74
+7992039,Mayville,Pretoria,TSH_54
+7992040,Leboneng,Temba,TSH_75
+7992041,Stinkwater SP,Stinkwater,TSH_13
+7992042,Ramotse SP,Ramotse,TSH_73
+7992043,Soshanguve South Ext 5,Soshanguve,TSH_90
+7992044,Mamelodi Ext 10,Mamelodi,TSH_17
+7992045,Claremont,Pretoria,TSH_1
+7992046,Slovo,Winterveld,TSH_19
+7992047,Moreleta Park,Pretoria,TSH_91
+7992048,Soshanguve South Ext 11,Soshanguve,TSH_39
+7992049,Soshanguve T,Soshanguve,TSH_25
+7992050,Soshanguve AA,Soshanguve,TSH_33
+7992051,Kekana Garden SP,Kekana Garden,TSH_73
+7992052,Soshanguve UU,Soshanguve,TSH_36
+7992053,Mabopane Unit S,Mabopane,TSH_20
+7992054,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992055,Winterveld Ext 3,Winterveld,TSH_19
+7992056,Silverton,Pretoria,TSH_46
+7992057,"The Reeds Ext 2, 10, 43",Centurion,TSH_64
+7992058,Waverley,Pretoria,TSH_52
+7992059,Mabopane U,Mabopane,TSH_22
+7992060,Moreleta Park,Pretoria,TSH_91
+7992061,Slovo,Winterveld,TSH_19
+7992062,Eersterust Ext 6,Eersterust,TSH_43
+7992063,The Meadows,Pretoria,TSH_101
+7992064,Kanana,Hammanskraal,TSH_49
+7992065,Suurman SP,Suurman,TSH_8
+7992066,Kudube Unit D,Temba,TSH_75
+7992067,The Orchards,Akasia,TSH_4
+7992068,Reitvlei,Pretoria,TSH_47
+7992069,Vergenoeg,Saulsville,TSH_107
+7992070,Zithobeni SP,Zithobeni,TSH_102
+7992071,Kudube Unit D,Temba,TSH_75
+7992072,Rietfontein,Pretoria,TSH_53
+7992073,Zithobeni SP,Zithobeni,TSH_102
+7992074,Lyttelton,Centurion,TSH_57
+7992075,Kanana,Hammanskraal,TSH_49
+7992076,Soshanguve East,Soshanguve,TSH_90
+7992077,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7992078,Die Wilgers,Pretoria,TSH_46
+7992079,Soshanguve South Ext 10,Soshanguve,TSH_37
+7992080,Garsfontein,Pretoria,TSH_45
+7992081,Theresapark,Akasia,TSH_98
+7992082,Lyttelton,Centurion,TSH_79
+7992083,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7992084,Elandspoort,Pretoria,TSH_60
+7992085,Pretoria Gardens,Pretoria,TSH_1
+7992086,Marokolong SP,Marokolong,TSH_73
+7992087,Ga-Rankuwa SP,Ga-Rankuwa,TSH_39
+7992088,Moreleta Park,Pretoria,TSH_83
+7992089,Soshanguve P,Soshanguve,TSH_88
+7992090,Lynnwood Glen,Pretoria,TSH_46
+7992091,Mabopane Unit E,Mabopane,TSH_29
+7992092,Soshanguve K,Soshanguve,TSH_34
+7992093,Mabopane X,Mabopane,TSH_21
+7992094,Equestria,Pretoria,TSH_85
+7992095,Philip Nel Park,Pretoria,TSH_3
+7992096,Soshanguve South Ext 3,Soshanguve,TSH_89
+7992097,Olievenhoutbos,Olievenhoutbos,TSH_106
+7992098,Mashemong SP,Mashemong,TSH_76
+7992099,Stinkwater SP,Stinkwater,TSH_13
+7992100,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7992101,Winterveld Ext 3,Winterveld,TSH_19
+7992102,Nellmapius Ext 8,Nellmapius,TSH_15
+7992103,Soshanguve BB,Soshanguve,TSH_33
+7992104,Garsfontein,Pretoria,TSH_45
+7992105,Chris Hani,Soshanguve,TSH_25
+7992106,Mamelodi Ext 6,Mamelodi,TSH_10
+7992107,Phumolong,Saulsville,TSH_71
+7992108,Phumolong,Saulsville,TSH_71
+7992109,Zithobeni SP,Zithobeni,TSH_105
+7992110,Winterveld AH,Winterveld,TSH_24
+7992111,Sunnyside,Pretoria,TSH_81
+7992112,Arcadia,Pretoria,TSH_92
+7992113,Kanana,Hammanskraal,TSH_49
+7992114,Newlands,Pretoria,TSH_83
+7992115,Sunnyside,Pretoria,TSH_92
+7992116,Sunnyside,Pretoria,TSH_59
+7992117,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7992118,Woodhill,Pretoria,TSH_101
+7992119,Mamelodi Ext 11,Mamelodi,TSH_97
+7992120,Mamelodi Ext 10,Mamelodi,TSH_93
+7992121,Vergenoeg,Saulsville,TSH_107
+7992122,Nellmapius SP,Nellmapius,TSH_86
+7992123,Gezina,Pretoria,TSH_53
+7992124,Wonderboom South,Pretoria,TSH_54
+7992125,Ekangala Section B,Ekangala,TSH_104
+7992126,Slovo,Winterveld,TSH_19
+7992127,Moreleta Park,Pretoria,TSH_83
+7992128,Mabopane X,Mabopane,TSH_21
+7992129,Wierda Park,Centurion,TSH_70
+7992130,Pretoria Gardens,Pretoria,TSH_1
+7992131,Highveld,Centurion,TSH_65
+7992132,Leboneng,Temba,TSH_75
+7992133,Wierda Park,Centurion,TSH_70
+7992134,Clubview,Centurion,TSH_66
+7992135,Eldo View,Centurion,TSH_70
+7992136,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7992137,"Danville Ext 8, 9, 11, 12, 13 & 15",Pretoria,TSH_60
+7992138,Villieria,Pretoria,TSH_53
+7992139,Ramotse SP,Ramotse,TSH_73
+7992140,Rooihuiskraal,Centurion,TSH_64
+7992141,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7992142,Soshanguve UU,Soshanguve,TSH_36
+7992143,Soshanguve H Ext 1,Soshanguve,TSH_34
+7992144,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992145,Winterveld Ext 1,Winterveld,TSH_24
+7992146,Mamelodi Ext 18,Mamelodi,TSH_97
+7992147,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7992148,Lebanon,Winterveld,TSH_12
+7992149,Refilwe SP,Refilwe,TSH_99
+7992150,Slovo,Winterveld,TSH_19
+7992151,Wonderboom South,Pretoria,TSH_54
+7992152,Rietfontein SH,Rietfontein,TSH_91
+7992153,Vergenoeg,Saulsville,TSH_107
+7992154,Marokolong SP,Marokolong,TSH_74
+7992155,Laudium Ext 2,Laudium,TSH_61
+7992156,Mabopane M,Mabopane,TSH_20
+7992157,Arcadia,Pretoria,TSH_92
+7992158,Refilwe SP,Refilwe,TSH_99
+7992159,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7992160,Saulsville SP,Saulsville,TSH_68
+7992161,Ga-Rankuwa Unit 23,Ga-Rankuwa,TSH_30
+7992162,Monument Park,Pretoria,TSH_42
+7992163,Ekangala Section D,Ekangala,TSH_103
+7992164,Elarduspark,Pretoria,TSH_47
+7992165,Monument Park,Pretoria,TSH_42
+7992166,Pretoria North,Pretoria,TSH_2
+7992167,Ekangala SP,Ekangala,TSH_104
+7992168,Mayville,Pretoria,TSH_54
+7992169,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992170,Capital Park,Pretoria,TSH_58
+7992171,Sunnyside,Pretoria,TSH_92
+7992172,Kudube Unit 11,Temba,TSH_8
+7992173,Villieria,Pretoria,TSH_53
+7992174,Woodhill,Pretoria,TSH_101
+7992175,Mabopane CV,Mabopane,TSH_29
+7992176,Nellmapius SP,Nellmapius,TSH_86
+7992177,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7992178,Eco-Park Estate,Centurion,TSH_65
+7992179,Ekangala SP,Ekangala,TSH_104
+7992180,Mabopane U,Mabopane,TSH_22
+7992181,Ekangala SP,Ekangala,TSH_104
+7992182,Park Town Estate,Pretoria,TSH_54
+7992183,Soshanguve UU,Soshanguve,TSH_36
+7992184,Sunnyside,Pretoria,TSH_59
+7992185,Sunnyside,Pretoria,TSH_80
+7992186,The Reeds Ext 15,Centurion,TSH_64
+7992187,Caltura Park,Bronkhorstspruit,TSH_105
+7992188,Silver Lakes Golf Estate,Pretoria,TSH_101
+7992189,Ga-Rankuwa Unit 9,Ga-Rankuwa,TSH_32
+7992190,Karenpark,Akasia,TSH_4
+7992191,Rietondale,Pretoria,TSH_84
+7992192,Mahube Valley Ext 3,Mamelodi,TSH_17
+7992193,Silverton,Pretoria,TSH_41
+7992194,Slovo,Winterveld,TSH_19
+7992195,Ninapark,Akasia,TSH_98
+7992196,Stinkwater A,Stinkwater,TSH_13
+7992197,Booysens,Pretoria,TSH_55
+7992198,Soshanguve KK,Soshanguve,TSH_26
+7992199,Pretoria Gardens,Pretoria,TSH_1
+7992200,Silverton Ext 7,Pretoria,TSH_41
+7992201,Itsoseng,Mabopane,TSH_20
+7992202,Elarduspark,Pretoria,TSH_47
+7992203,Midstream Estate,Centurion,TSH_65
+7992204,Soshanguve M,Soshanguve,TSH_35
+7992205,Rietfontein,Pretoria,TSH_52
+7992206,Gezina,Pretoria,TSH_53
+7992207,Moreleta Park,Pretoria,TSH_47
+7992208,Temba Unit 1,Temba,TSH_74
+7992209,Soshanguve VV,Soshanguve,TSH_36
+7992210,Constantia Park,Pretoria,TSH_83
+7992211,Wierda Park,Centurion,TSH_70
+7992212,Silver Lakes,Pretoria,TSH_101
+7992213,Sunnyside,Pretoria,TSH_59
+7992214,Ekangala Section B,Ekangala,TSH_103
+7992215,New Eersterus SP,New Eersterus,TSH_14
+7992216,Mashemong SP,Mashemong,TSH_76
+7992217,Ekangala SP,Ekangala,TSH_104
+7992218,Capital Park,Pretoria,TSH_58
+7992219,Lebanon,Winterveld,TSH_12
+7992220,Soshanguve L,Soshanguve,TSH_35
+7992221,Hennopspark,Centurion,TSH_66
+7992222,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992223,Moreleta Park,Pretoria,TSH_91
+7992224,Chantelle,Akasia,TSH_4
+7992225,Sterrewag Estate,Pretoria,TSH_42
+7992226,Irene,Centurion,TSH_65
+7992227,Schurwe Plaas Mine,Centurion,TSH_61
+7992228,Vergenoeg,Saulsville,TSH_107
+7992229,Zwartkop SANDF,Centurion,TSH_66
+7992230,Soshanguve G,Soshanguve,TSH_33
+7992231,Die Hoewes,Centurion,TSH_57
+7992232,Spruit,Mooiplaas,TSH_70
+7992233,Ga-Rankuwa Unit 9,Ga-Rankuwa,TSH_32
+7992234,Itsoseng,Mabopane,TSH_20
+7992235,Kekana Garden SP,Kekana Garden,TSH_73
+7992236,"Eldoraigne Ext 11, 27",Centurion,TSH_69
+7992237,Zithobeni SP,Zithobeni,TSH_105
+7992238,Spruit,Mooiplaas,TSH_70
+7992239,Chantelle,Akasia,TSH_4
+7992240,Ga-Rankuwa Unit 5,Ga-Rankuwa,TSH_30
+7992241,Bronkhorstspruit SP,Bronkhorstspruit,TSH_105
+7992242,Monument Park,Pretoria,TSH_42
+7992243,Clubview,Centurion,TSH_66
+7992244,Montana,Pretoria,TSH_96
+7992245,New Eersterus SP,New Eersterus,TSH_14
+7992246,Roseville,Pretoria,TSH_53
+7992247,Nellmapius Ext 6,Nellmapius,TSH_15
+7992248,Soshanguve XX,Soshanguve,TSH_90
+7992249,Silverton,Pretoria,TSH_46
+7992250,Soshanguve KK,Soshanguve,TSH_26
+7992251,Villieria,Pretoria,TSH_52
+7992252,Arcadia,Pretoria,TSH_92
+7992253,Savannah Country Estate,Pretoria,TSH_15
+7992254,The Orchards,Akasia,TSH_4
+7992255,Mabopane X,Mabopane,TSH_21
+7992256,Heatherdale AH,Akasia,TSH_98
+7992257,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7992258,Garsfontein,Pretoria,TSH_45
+7992259,Raslou AH,Centurion,TSH_70
+7992260,Phumolong,Saulsville,TSH_71
+7992261,Mashemong SP,Mashemong,TSH_76
+7992262,Winterveld Ext 3,Winterveld,TSH_19
+7992263,Kekana Garden SP,Kekana Garden,TSH_73
+7992264,Danville Ext 5,Pretoria,TSH_60
+7992265,Zithobeni SP,Zithobeni,TSH_102
+7992266,White City,Mamelodi,TSH_23
+7992267,Erasmusrand,Pretoria,TSH_42
+7992268,Silver Lakes Golf Estate,Pretoria,TSH_101
+7992269,Die Hoewes,Centurion,TSH_57
+7992270,Winterveld Ext 3,Winterveld,TSH_9
+7992271,Ekangala Section B,Ekangala,TSH_104
+7992272,Soshanguve M,Soshanguve,TSH_35
+7992273,Die Hoewes,Centurion,TSH_57
+7992274,Booysens,Pretoria,TSH_55
+7992275,The Orchards Ext 11,Akasia,TSH_4
+7992276,Mooikloof Ridge,Pretoria,TSH_91
+7992277,Soshanguve BB,Soshanguve,TSH_94
+7992278,Mabopane U,Mabopane,TSH_22
+7992279,Soshanguve DD,Soshanguve,TSH_88
+7992280,Soshanguve GG,Soshanguve,TSH_94
+7992281,Eldoraigne Ext 45,Centurion,TSH_69
+7992282,Soshanguve X,Soshanguve,TSH_27
+7992283,Rayton SH,Rayton,TSH_100
+7992284,Kudube Unit D,Temba,TSH_75
+7992285,Pretoria North,Pretoria,TSH_2
+7992286,Atteridgeville SP,Atteridgeville,TSH_51
+7992287,Kudube Unit 10,Temba,TSH_75
+7992288,Soshanguve L,Soshanguve,TSH_35
+7992289,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992290,Grootvlei SH,Grootvlei,TSH_49
+7992291,Refilwe SP,Refilwe,TSH_99
+7992292,Makanyaneng SP,Makanyaneng,TSH_22
+7992293,Ekangala Section D,Ekangala,TSH_103
+7992294,Refilwe SP,Refilwe,TSH_99
+7992295,The Orchards,Akasia,TSH_4
+7992296,Villieria,Pretoria,TSH_53
+7992297,Mamelodi Ext 2,Mamelodi,TSH_16
+7992298,Boadwalk,Kungwini Part 2,TSH_101
+7992299,Kekana Garden SP,Kekana Garden,TSH_73
+7992300,Sinoville,Pretoria,TSH_5
+7992301,Soshanguve South Ext 10,Soshanguve,TSH_37
+7992302,Winterveld Ext 3,Winterveld,TSH_12
+7992303,Pretoria Central,Pretoria,TSH_58
+7992304,Slovo,Winterveld,TSH_19
+7992305,Pretoria Gardens,Pretoria,TSH_55
+7992306,Nellmapius Ext 7,Nellmapius,TSH_15
+7992307,Amberfield Manor,Centurion,TSH_48
+7992308,Mabopane Unit C,Mabopane,TSH_22
+7992309,Rayton SP,Rayton,TSH_100
+7992310,Daspoort Estate,Pretoria,TSH_1
+7992311,Lydiana,Pretoria,TSH_46
+7992312,Lotus Gardens,Pretoria,TSH_7
+7992313,Elarduspark,Pretoria,TSH_47
+7992314,Nellmapius Ext 8,Nellmapius,TSH_15
+7992315,Moreleta Park,Pretoria,TSH_47
+7992316,Moreleta Park,Pretoria,TSH_83
+7992317,Temba Unit 1,Temba,TSH_74
+7992318,Soshanguve Ext 13,Soshanguve,TSH_37
+7992319,Zithobeni SP,Zithobeni,TSH_105
+7992320,Marokolong SP,Marokolong,TSH_74
+7992321,Brookelands Lifestyle Estate,Centurion,TSH_77
+7992322,Moreleta Park,Pretoria,TSH_83
+7992323,Monument Park,Pretoria,TSH_42
+7992324,Mashemong SP,Mashemong,TSH_76
+7992325,Rethabiseng SP,Rethabiseng,TSH_103
+7992326,New Eersterus SP,New Eersterus,TSH_14
+7992327,New Eersterus SP,New Eersterus,TSH_95
+7992328,Soshanguve XX,Soshanguve,TSH_90
+7992329,Nieuw Muckleneuk,Pretoria,TSH_56
+7992330,Mabopane Unit B,Mabopane,TSH_21
+7992331,Arcadia,Pretoria,TSH_92
+7992332,Soshanguve NN,Soshanguve,TSH_11
+7992333,Sunnyside,Pretoria,TSH_92
+7992334,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7992335,Rooihuiskraal,Centurion,TSH_64
+7992336,Eco-Park Estate,Centurion,TSH_65
+7992337,Die Wilgers,Pretoria,TSH_85
+7992338,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992339,Wierda Park,Centurion,TSH_70
+7992340,Soshanguve P,Soshanguve,TSH_88
+7992341,Wierda Park,Centurion,TSH_70
+7992342,Mamelodi Ext 8,Mamelodi,TSH_17
+7992343,Mabopane X,Mabopane,TSH_21
+7992344,Soshanguve Ext 13,Soshanguve,TSH_37
+7992345,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7992346,Mashemong SP,Mashemong,TSH_76
+7992347,Thaba Tshwane,Pretoria,TSH_59
+7992348,Rethabiseng SP,Rethabiseng,TSH_103
+7992349,Annlin,Pretoria,TSH_50
+7992350,Pretoria North,Pretoria,TSH_2
+7992351,Rens Town,Hammanskraal,TSH_49
+7992352,Ninapark,Akasia,TSH_98
+7992353,Rosslyn,Akasia,TSH_37
+7992354,Clarina,Akasia,TSH_98
+7992355,Annlin,Pretoria,TSH_50
+7992356,Roodepoort SH,Roodepoort,TSH_105
+7992357,Mountain View,Pretoria,TSH_1
+7992358,Sunnyside,Pretoria,TSH_92
+7992359,Soshanguve FF,Soshanguve,TSH_26
+7992360,"The Reeds Ext 2, 10, 43",Centurion,TSH_64
+7992361,Doornpoort,Pretoria,TSH_96
+7992362,Kudube Unit 11,Temba,TSH_8
+7992363,Soshanguve BB,Soshanguve,TSH_94
+7992364,Temba Unit 1,Temba,TSH_74
+7992365,Zwartkop,Centurion,TSH_78
+7992366,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992367,Zithobeni SP,Zithobeni,TSH_102
+7992368,Itsoseng,Mabopane,TSH_20
+7992369,Annlin,Pretoria,TSH_50
+7992370,Doornpoort,Pretoria,TSH_96
+7992371,Soshanguve XX,Soshanguve,TSH_90
+7992372,Soshanguve XX,Soshanguve,TSH_90
+7992373,Zwartkop,Centurion,TSH_78
+7992374,Rethabiseng SP,Rethabiseng,TSH_103
+7992375,Mahube Valley Ext 2,Mamelodi,TSH_17
+7992376,Claudius,Centurion,TSH_61
+7992377,Wierda Park,Centurion,TSH_70
+7992378,Zithobeni SP,Zithobeni,TSH_102
+7992379,Mountain View,Pretoria,TSH_1
+7992380,Lotus Gardens,Pretoria,TSH_7
+7992381,Kudube Unit 2,Temba,TSH_75
+7992382,Clubview,Centurion,TSH_66
+7992383,Kudube Unit D,Temba,TSH_75
+7992384,Zwartkop,Centurion,TSH_78
+7992385,Mabopane X,Mabopane,TSH_21
+7992386,Clearwater Flyfishing Estate,Pretoria,TSH_47
+7992387,Wingate Park,Pretoria,TSH_47
+7992388,Thaba Tshwane,Pretoria,TSH_59
+7992389,New Eersterus SP,New Eersterus,TSH_14
+7992390,Mabopane R,Mabopane,TSH_22
+7992391,Lynnwood,Pretoria,TSH_82
+7992392,Doornpoort,Pretoria,TSH_96
+7992393,Kudube Unit 10,Temba,TSH_75
+7992394,Eersterust Ext 6,Eersterust,TSH_43
+7992395,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992396,Mabopane Unit C,Mabopane,TSH_22
+7992397,Pretoria West,Pretoria,TSH_58
+7992398,Nellmapius Ext 7,Nellmapius,TSH_15
+7992399,Chris Hani,Soshanguve,TSH_25
+7992400,Mashemong SP,Mashemong,TSH_76
+7992401,Schurwe Plaas Mine,Centurion,TSH_61
+7992402,Kanana,Hammanskraal,TSH_49
+7992403,Soshanguve HH,Soshanguve,TSH_11
+7992404,Mayville,Pretoria,TSH_54
+7992405,Karenpark,Akasia,TSH_4
+7992406,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7992407,Erasmuskloof,Pretoria,TSH_83
+7992408,Irene Security Estate,Centurion,TSH_65
+7992409,Mahube Valley Ext 3,Mamelodi,TSH_17
+7992410,Marokolong SP,Marokolong,TSH_74
+7992411,Soshanguve M,Soshanguve,TSH_35
+7992412,Zithobeni SP,Zithobeni,TSH_102
+7992413,Doringkloof,Centurion,TSH_78
+7992414,The Reeds,Centurion,TSH_64
+7992415,Garsfontein,Pretoria,TSH_44
+7992416,Centurion Golf Eastate,Centurion,TSH_65
+7992417,Wonderboom,Pretoria,TSH_50
+7992418,Lebanon,Winterveld,TSH_12
+7992419,Capital Park,Pretoria,TSH_53
+7992420,Montana,Pretoria,TSH_96
+7992421,Mashemong SP,Mashemong,TSH_76
+7992422,Stinkwater A,Stinkwater,TSH_13
+7992423,Soshanguve V Ext 1,Soshanguve,TSH_13
+7992424,Temba Unit 1,Temba,TSH_74
+7992425,The Orchards,Akasia,TSH_4
+7992426,Khutsong,Mamelodi,TSH_18
+7992427,Rethabiseng SP,Rethabiseng,TSH_103
+7992428,Soshanguve MM,Soshanguve,TSH_33
+7992429,Waverley,Pretoria,TSH_52
+7992430,Vergenoeg,Saulsville,TSH_71
+7992431,Lebanon,Winterveld,TSH_12
+7992432,Riamar park,Bronkhorstspruit,TSH_105
+7992433,Philip Nel Park,Pretoria,TSH_60
+7992434,Soshanguve South Ext 11,Soshanguve,TSH_39
+7992435,Moregloed,Pretoria,TSH_84
+7992436,Pretoria Central,Pretoria,TSH_81
+7992437,Spruit,Mooiplaas,TSH_70
+7992438,Dilopye SP,Dilopye,TSH_8
+7992439,Cornwall Hill,Centurion,TSH_65
+7992440,Soshanguve L,Soshanguve,TSH_34
+7992441,Winterveld Ext 3,Winterveld,TSH_19
+7992442,Doornpoort,Pretoria,TSH_96
+7992443,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7992444,Suiderberg,Pretoria,TSH_55
+7992445,Boadwalk,Kungwini Part 2,TSH_101
+7992446,Winterveld AH,Winterveld,TSH_24
+7992447,Zithobeni SP,Zithobeni,TSH_105
+7992448,Mashemong SP,Mashemong,TSH_8
+7992449,Soshanguve K,Soshanguve,TSH_34
+7992450,Hennopspark,Centurion,TSH_66
+7992451,Soshanguve UU,Soshanguve,TSH_36
+7992452,Highveld,Centurion,TSH_65
+7992453,Montana,Pretoria,TSH_96
+7992454,Kanana,Hammanskraal,TSH_49
+7992455,Temba Unit 7,Temba,TSH_8
+7992456,Mahube Valley Ext 3,Mamelodi,TSH_17
+7992457,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7992458,Temba Unit 7,Temba,TSH_8
+7992459,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992460,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992461,Rooihuiskraal,Centurion,TSH_64
+7992462,Soshanguve XX,Soshanguve,TSH_90
+7992463,Karenpark,Akasia,TSH_4
+7992464,Karenpark,Akasia,TSH_4
+7992465,East Lynne,Pretoria,TSH_52
+7992466,Mamelodi Ext 10,Mamelodi,TSH_17
+7992467,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992468,Rooihuiskraal,Centurion,TSH_64
+7992469,Soshanguve PP 1,Soshanguve,TSH_25
+7992470,Waterkloof Ridge,Pretoria,TSH_42
+7992471,Waverley,Pretoria,TSH_52
+7992472,Doringkloof,Centurion,TSH_78
+7992473,Beirut,Winterveld,TSH_12
+7992474,Mabopane CV,Mabopane,TSH_29
+7992475,New Eersterus SP,New Eersterus,TSH_14
+7992476,Mamelodi FB3,Mamelodi,TSH_38
+7992477,Mabopane M,Mabopane,TSH_20
+7992478,Heuwelsig Estate,Centurion,TSH_48
+7992479,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992480,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7992481,Temba Unit 1,Temba,TSH_74
+7992482,Ekangala Section B,Ekangala,TSH_103
+7992483,Soshanguve TT,Soshanguve,TSH_89
+7992484,Eldo Glen,Centurion,TSH_70
+7992485,Phumolong,Saulsville,TSH_71
+7992486,Winterveld Ext 1,Winterveld,TSH_9
+7992487,Valhalla,Centurion,TSH_66
+7992488,Kudube Unit D,Temba,TSH_75
+7992489,Mabopane Unit B,Mabopane,TSH_21
+7992490,Atteridgeville SP,Atteridgeville,TSH_51
+7992491,Mabopane U,Mabopane,TSH_22
+7992492,Wierda Park Ext 2,Centurion,TSH_69
+7992493,Refilwe SP,Refilwe,TSH_99
+7992494,Soshanguve South Ext 11,Soshanguve,TSH_39
+7992495,Winterveld Ext 1,Winterveld,TSH_29
+7992496,Mashemong SP,Mashemong,TSH_8
+7992497,Kanana,Hammanskraal,TSH_49
+7992498,Rietfontein,Pretoria,TSH_52
+7992499,Mabopane Unit C,Mabopane,TSH_20
+7992500,The Orchards,Akasia,TSH_4
+7992501,Jeffersville,Saulsville,TSH_71
+7992502,Masada,Bronkhorstspruit,TSH_105
+7992503,Waterkloof Heights,Pretoria,TSH_42
+7992504,Elandspoort,Pretoria,TSH_60
+7992505,Majaneng SP,Majaneng,TSH_76
+7992506,Vergenoeg,Saulsville,TSH_107
+7992507,Nellmapius SP,Nellmapius,TSH_86
+7992508,Winterveld Ext 1,Winterveld,TSH_9
+7992509,Majaneng SP,Majaneng,TSH_76
+7992510,Pretoria Central,Pretoria,TSH_80
+7992511,Ga-Rankuwa Unit 5,Ga-Rankuwa,TSH_31
+7992512,The Orchards,Akasia,TSH_4
+7992513,Mabopane CV,Mabopane,TSH_29
+7992514,Ekangala SP,Ekangala,TSH_104
+7992515,Kudube Unit 2,Temba,TSH_74
+7992516,Soshanguve South Ext 5,Soshanguve,TSH_89
+7992517,Clearwater Flyfishing Estate,Pretoria,TSH_47
+7992518,Temba Unit 7,Temba,TSH_8
+7992519,Stinkwater SP,Stinkwater,TSH_13
+7992520,Kameeldrift SH,Kameeldrift,TSH_87
+7992521,Marokolong SP,Marokolong,TSH_74
+7992522,Jeffersville,Saulsville,TSH_71
+7992523,Ekangala Section D,Ekangala,TSH_103
+7992524,Mountain View,Pretoria,TSH_54
+7992525,Capital Park,Pretoria,TSH_1
+7992526,Villieria,Pretoria,TSH_52
+7992527,Kudube Unit D,Temba,TSH_75
+7992528,Sekampaneng,Temba,TSH_8
+7992529,New Eersterus SP,New Eersterus,TSH_14
+7992530,New Eersterus SP,New Eersterus,TSH_14
+7992531,Kudube Unit 2,Temba,TSH_75
+7992532,Silver Lakes Golf Estate,Pretoria,TSH_101
+7992533,Soshanguve K,Soshanguve,TSH_34
+7992534,Slovo,Winterveld,TSH_19
+7992535,Danville Ext 2,Pretoria,TSH_60
+7992536,Brooklyn,Pretoria,TSH_56
+7992537,Villieria,Pretoria,TSH_52
+7992538,Winterveld Ext 1,Winterveld,TSH_29
+7992539,Soshanguve F,Soshanguve,TSH_29
+7992540,Jeffersville,Saulsville,TSH_72
+7992541,Ekangala Section B,Ekangala,TSH_104
+7992542,Ekangala Section B,Ekangala,TSH_103
+7992543,Soshanguve DD,Soshanguve,TSH_88
+7992544,Mabopane M,Mabopane,TSH_20
+7992545,Mabopane Unit B,Mabopane,TSH_21
+7992546,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7992547,Grootfontein Country Estates,Grootfontein,TSH_91
+7992548,Kameelkraal,Kameelkraal,TSH_102
+7992549,Soshanguve South Ext 4,Soshanguve,TSH_89
+7992550,Pretoria Central,Pretoria,TSH_80
+7992551,Kudube Unit D,Temba,TSH_75
+7992552,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992553,Ekangala Section D,Ekangala,TSH_103
+7992554,Ekangala Section B,Ekangala,TSH_103
+7992555,Soshanguve Y,Soshanguve,TSH_88
+7992556,Moregloed,Pretoria,TSH_84
+7992557,Soshanguve NN,Soshanguve,TSH_11
+7992558,Ninapark,Akasia,TSH_98
+7992559,New Eersterus SP,New Eersterus,TSH_14
+7992560,Tshwane NU,Tshwane NU,TSH_105
+7992561,Waterkloof Ridge,Pretoria,TSH_42
+7992562,Soshanguve K,Soshanguve,TSH_34
+7992563,Saulsville SP,Saulsville,TSH_63
+7992564,Kanana,Hammanskraal,TSH_49
+7992565,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_31
+7992566,Moreleta Park,Pretoria,TSH_83
+7992567,Slovo,Winterveld,TSH_19
+7992568,Elandspoort,Pretoria,TSH_60
+7992569,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7992570,Moregloed,Pretoria,TSH_84
+7992571,Waverley,Pretoria,TSH_52
+7992572,Garsfontein,Pretoria,TSH_45
+7992573,Sunnyside,Pretoria,TSH_59
+7992574,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992575,Soshanguve G,Soshanguve,TSH_33
+7992576,Phumolong,Saulsville,TSH_71
+7992577,Marokolong SP,Marokolong,TSH_49
+7992578,Ekangala Section D,Ekangala,TSH_103
+7992579,Nellmapius SP,Nellmapius,TSH_86
+7992580,Soshanguve XX,Soshanguve,TSH_90
+7992581,Eersterust Ext 5,Eersterust,TSH_43
+7992582,Winterveld Ext 3,Winterveld,TSH_12
+7992583,Mabopane Unit C,Mabopane,TSH_20
+7992584,Mamelodi Ext 3,Mamelodi,TSH_15
+7992585,Soshanguve UU,Soshanguve,TSH_36
+7992586,Refilwe SP,Refilwe,TSH_99
+7992587,Mabopane Unit B,Mabopane,TSH_21
+7992588,Temba Unit D,Temba,TSH_75
+7992589,Lyttelton,Centurion,TSH_57
+7992590,Soshanguve R,Soshanguve,TSH_26
+7992591,Marokolong SP,Marokolong,TSH_49
+7992592,Soshanguve V,Soshanguve,TSH_25
+7992593,Daspoort,Pretoria,TSH_1
+7992594,Mabopane M,Mabopane,TSH_20
+7992595,Soshanguve K,Soshanguve,TSH_35
+7992596,Pretoria Central,Pretoria,TSH_80
+7992597,Mabopane Unit B,Mabopane,TSH_21
+7992598,Mamelodi FB3,Mamelodi,TSH_38
+7992599,The Reeds Ext 15,Centurion,TSH_64
+7992600,Soshanguve East,Soshanguve,TSH_90
+7992601,Zwartkop,Centurion,TSH_78
+7992602,Saulsville SP,Saulsville,TSH_68
+7992603,Zithobeni SP,Zithobeni,TSH_105
+7992604,New Eersterus SP,New Eersterus,TSH_14
+7992605,Philip Nel Park,Pretoria,TSH_3
+7992606,Atteridgeville SP,Atteridgeville,TSH_51
+7992607,Jan Niemand Park,Pretoria,TSH_87
+7992608,Menlo Park,Pretoria,TSH_82
+7992609,Mabopane X,Mabopane,TSH_21
+7992610,Soshanguve NN,Soshanguve,TSH_11
+7992611,Queenswood,Pretoria,TSH_84
+7992612,Mooikloof Ridge,Pretoria,TSH_91
+7992613,Mamelodi Ext 10,Mamelodi,TSH_17
+7992614,Majaneng SP,Majaneng,TSH_76
+7992615,Soshanguve DD,Soshanguve,TSH_88
+7992616,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7992617,Amberfield Ridge,Centurion,TSH_48
+7992618,Kekana Garden SP,Kekana Garden,TSH_73
+7992619,Six Fountains Residential Estate,Pretoria,TSH_101
+7992620,Winterveld Ext 3,Winterveld,TSH_12
+7992621,Suurman SP,Suurman,TSH_76
+7992622,Lebanon,Winterveld,TSH_19
+7992623,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7992624,Philip Nel Park,Pretoria,TSH_60
+7992625,Soshanguve V Ext 1,Soshanguve,TSH_13
+7992626,Riamar park,Bronkhorstspruit,TSH_102
+7992627,Suurman SP,Suurman,TSH_8
+7992628,Amberfield Crest,Centurion,TSH_48
+7992629,New Eersterus SP,New Eersterus,TSH_14
+7992630,New Eersterus SP,New Eersterus,TSH_14
+7992631,Waverley,Pretoria,TSH_52
+7992632,Karenpark,Akasia,TSH_4
+7992633,Soshanguve DD,Soshanguve,TSH_88
+7992634,Queenswood,Pretoria,TSH_84
+7992635,Soshanguve TT,Soshanguve,TSH_89
+7992636,New Eersterus SP,New Eersterus,TSH_14
+7992637,Kudube Unit 2,Temba,TSH_75
+7992638,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7992639,Lynnwood,Pretoria,TSH_82
+7992640,Temba Unit 1,Temba,TSH_74
+7992641,Kudube Unit 2,Temba,TSH_74
+7992642,Mountain View,Pretoria,TSH_54
+7992643,Slovo,Winterveld,TSH_19
+7992644,Winterveld Ext 1,Winterveld,TSH_24
+7992645,Ramotse SP,Ramotse,TSH_73
+7992646,Mabopane Unit C,Mabopane,TSH_22
+7992647,Mabopane Unit C,Mabopane,TSH_20
+7992648,Soshanguve L,Soshanguve,TSH_35
+7992649,Moreleta Park,Pretoria,TSH_83
+7992650,Valhalla,Centurion,TSH_66
+7992651,Mamelodi Ext 2,Mamelodi,TSH_18
+7992652,Mamelodi Ext 22,Mamelodi,TSH_10
+7992653,Temba Unit 7,Temba,TSH_75
+7992654,Strubenkop Security Village,Pretoria,TSH_82
+7992655,Soshanguve JJ,Soshanguve,TSH_11
+7992656,Villieria,Pretoria,TSH_84
+7992657,Winterveld Ext 3,Winterveld,TSH_12
+7992658,Heatherdale AH,Akasia,TSH_98
+7992659,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992660,Kudube Unit 11,Temba,TSH_8
+7992661,Soshanguve WW,Soshanguve,TSH_36
+7992662,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992663,Die Wilgers,Pretoria,TSH_85
+7992664,Kekana Garden SP,Kekana Garden,TSH_73
+7992665,Mamelodi Ext 18,Mamelodi,TSH_97
+7992666,Soshanguve TT,Soshanguve,TSH_89
+7992667,Mamelodi Ext 4,Mamelodi,TSH_16
+7992668,Elarduspark,Pretoria,TSH_79
+7992669,Bon Accord AH,Bon Accord,TSH_96
+7992670,Proclamation Hill,Pretoria,TSH_3
+7992671,Soshanguve KK,Soshanguve,TSH_26
+7992672,Temba Unit 7,Temba,TSH_75
+7992673,Pretoria North,Pretoria,TSH_2
+7992674,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7992675,Sunnyside,Pretoria,TSH_81
+7992676,Rooihuiskraal Noord,Centurion,TSH_69
+7992677,Soshanguve VV,Soshanguve,TSH_36
+7992678,Ramotse SP,Ramotse,TSH_73
+7992679,Stanza Bopape,Mamelodi,TSH_93
+7992680,Stinkwater A,Stinkwater,TSH_13
+7992681,Soshanguve V,Soshanguve,TSH_25
+7992682,Soshanguve Ext 13,Soshanguve,TSH_37
+7992683,Mabopane U,Mabopane,TSH_22
+7992684,Soshanguve IA,Soshanguve,TSH_29
+7992685,Soshanguve A,Soshanguve,TSH_90
+7992686,The Orchards Ext 21,Akasia,TSH_4
+7992687,Stinkwater SP,Stinkwater,TSH_13
+7992688,Temba Unit 7,Temba,TSH_75
+7992689,Winterveld Ext 3,Winterveld,TSH_19
+7992690,Brummeria,Pretoria,TSH_46
+7992691,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992692,The Reeds Ext 15,Centurion,TSH_64
+7992693,Laudium Ext 3,Laudium,TSH_61
+7992694,Ekangala SP,Ekangala,TSH_104
+7992695,The Reeds Ext 9,Centurion,TSH_64
+7992696,Villieria,Pretoria,TSH_52
+7992697,Garsfontein,Pretoria,TSH_45
+7992698,Thaba Tshwane,Pretoria,TSH_51
+7992699,Heuwelsig Estate,Centurion,TSH_48
+7992700,Mamelodi Ext 11,Mamelodi,TSH_97
+7992701,Stanza Bopape,Mamelodi,TSH_93
+7992702,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992703,Temba Unit 7,Temba,TSH_75
+7992704,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992705,Rooihuiskraal Noord,Centurion,TSH_48
+7992706,East Lynne,Pretoria,TSH_52
+7992707,Spruit,Mooiplaas,TSH_70
+7992708,New Eersterus SP,New Eersterus,TSH_95
+7992709,Marokolong SP,Marokolong,TSH_74
+7992710,Suurman SP,Suurman,TSH_8
+7992711,Arcadia,Pretoria,TSH_92
+7992712,Wierda Park Ext 2,Centurion,TSH_69
+7992713,Soshanguve P,Soshanguve,TSH_88
+7992714,Mamelodi Ext 2,Mamelodi,TSH_18
+7992715,Doringkloof,Centurion,TSH_78
+7992716,Rethabiseng Ext 2,Rethabiseng,TSH_103
+7992717,Thatchfield,Centurion,TSH_64
+7992718,Annlin,Pretoria,TSH_50
+7992719,The Orchards Ext,Akasia,TSH_4
+7992720,Winterveld AH,Winterveld,TSH_24
+7992721,New Eersterus SP,New Eersterus,TSH_14
+7992722,Soshanguve A,Soshanguve,TSH_90
+7992723,Kanana,Hammanskraal,TSH_49
+7992724,Murrayfield,Pretoria,TSH_41
+7992725,Temba Unit 1,Temba,TSH_74
+7992726,Mabopane Unit S,Mabopane,TSH_20
+7992727,Rethabiseng SP,Rethabiseng,TSH_103
+7992728,Brookelands Lifestyle Estate,Centurion,TSH_77
+7992729,Soshanguve KK,Soshanguve,TSH_26
+7992730,Stinkwater B,Stinkwater,TSH_13
+7992731,Hatfield,Pretoria,TSH_92
+7992732,Soshanguve GG,Soshanguve,TSH_94
+7992733,Mabopane U,Mabopane,TSH_22
+7992734,Mabopane Unit B,Mabopane,TSH_21
+7992735,Soshanguve KK,Soshanguve,TSH_26
+7992736,Centurion Golf Eastate,Centurion,TSH_65
+7992737,New Eersterus SP,New Eersterus,TSH_95
+7992738,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992739,Refilwe SP,Refilwe,TSH_99
+7992740,Gezina,Pretoria,TSH_53
+7992741,Beirut,Winterveld,TSH_12
+7992742,Soshanguve GG,Soshanguve,TSH_94
+7992743,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_30
+7992744,Soshanguve G,Soshanguve,TSH_33
+7992745,Zwartkop,Centurion,TSH_78
+7992746,Soshanguve BB,Soshanguve,TSH_94
+7992747,Danville,Pretoria,TSH_60
+7992748,East Lynne,Pretoria,TSH_52
+7992749,Midas,Mabopane,TSH_22
+7992750,Winterveld Ext 1,Winterveld,TSH_24
+7992751,Winterveld Ext 3,Winterveld,TSH_12
+7992752,Winterveld Ext 1,Winterveld,TSH_9
+7992753,Winterveld Ext 1,Winterveld,TSH_24
+7992754,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992755,Phumulamcashi Buffer Zone,Mamelodi,TSH_18
+7992756,Soshanguve East,Soshanguve,TSH_90
+7992757,Eersterust Ext 6,Eersterust,TSH_43
+7992758,Wonderboom,Pretoria,TSH_50
+7992759,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7992760,Vergenoeg,Saulsville,TSH_107
+7992761,Refilwe SP,Refilwe,TSH_99
+7992762,Rooihuiskraal,Centurion,TSH_64
+7992763,Valhalla,Centurion,TSH_66
+7992764,Mamelodi Fifteens,Mamelodi,TSH_18
+7992765,Eldo Glen,Centurion,TSH_70
+7992766,Midas,Mabopane,TSH_22
+7992767,Jeffersville,Saulsville,TSH_72
+7992768,Soshanguve NN,Soshanguve,TSH_11
+7992769,Soshanguve X,Soshanguve,TSH_27
+7992770,Villieria,Pretoria,TSH_52
+7992771,Atteridgeville SP,Atteridgeville,TSH_62
+7992772,Woodhill,Pretoria,TSH_101
+7992773,Sunnyside,Pretoria,TSH_80
+7992774,Colbyn,Pretoria,TSH_82
+7992775,Mashemong SP,Mashemong,TSH_76
+7992776,Phumolong,Saulsville,TSH_71
+7992777,Arcadia,Pretoria,TSH_92
+7992778,Krauseville SH,Pretoria,TSH_55
+7992779,Soshanguve V,Soshanguve,TSH_25
+7992780,Mabopane Unit B,Mabopane,TSH_21
+7992781,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992782,Kekana Garden SP,Kekana Garden,TSH_73
+7992783,East Lynne,Pretoria,TSH_52
+7992784,Elarduspark,Pretoria,TSH_47
+7992785,Gezina,Pretoria,TSH_53
+7992786,The Reeds Ext 5,Centurion,TSH_64
+7992787,Mamelodi Ext 3,Mamelodi,TSH_15
+7992788,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992789,Pretoria Central,Pretoria,TSH_58
+7992790,Kudube Unit D,Temba,TSH_75
+7992791,Soshanguve LL,Soshanguve,TSH_11
+7992792,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992793,Jeffersville,Saulsville,TSH_71
+7992794,Mamelodi Ext 10,Mamelodi,TSH_17
+7992795,New Eersterus SP,New Eersterus,TSH_14
+7992796,Eersterust Ext 6,Eersterust,TSH_43
+7992797,Montana Park,Pretoria,TSH_87
+7992798,Soshanguve South Ext 3,Soshanguve,TSH_89
+7992799,Waverley,Pretoria,TSH_52
+7992800,Mahube Valley,Mamelodi,TSH_17
+7992801,Winterveld Ext 3,Winterveld,TSH_9
+7992802,Soshanguve P,Soshanguve,TSH_88
+7992803,Winterveld Ext 3,Winterveld,TSH_19
+7992804,Zithobeni SP,Zithobeni,TSH_105
+7992805,Faerie Glen,Pretoria,TSH_44
+7992806,Arcadia,Pretoria,TSH_92
+7992807,Soshanguve South Ext 3,Soshanguve,TSH_89
+7992808,Itsoseng,Mabopane,TSH_20
+7992809,Mamelodi Ext 8,Mamelodi,TSH_40
+7992810,Soshanguve South Ext 5,Soshanguve,TSH_90
+7992811,Tshwane NU,Tshwane NU,TSH_99
+7992812,Rietfontein,Pretoria,TSH_53
+7992813,Soshanguve H,Soshanguve,TSH_34
+7992814,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7992815,Hebron SP,Hebron,TSH_30
+7992816,Soshanguve P,Soshanguve,TSH_88
+7992817,Soshanguve W,Soshanguve,TSH_27
+7992818,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992819,Pretoria Central,Pretoria,TSH_80
+7992820,Lynnwood Manor,Pretoria,TSH_46
+7992821,Mahube Valley Ext 3,Mamelodi,TSH_17
+7992822,Winterveld Ext 1,Winterveld,TSH_9
+7992823,Siahlala,Saulsville,TSH_107
+7992824,Proclamation Hill,Pretoria,TSH_3
+7992825,Soshanguve H,Soshanguve,TSH_34
+7992826,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992827,Mabopane X,Mabopane,TSH_21
+7992828,Nellmapius Ext 6,Nellmapius,TSH_15
+7992829,New Eersterus SP,New Eersterus,TSH_14
+7992830,Wonderboom South,Pretoria,TSH_54
+7992831,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7992832,Pretoria North,Pretoria,TSH_2
+7992833,Danville Ext 5,Pretoria,TSH_60
+7992834,Amberfield Ridge,Centurion,TSH_48
+7992835,Soshanguve WW,Soshanguve,TSH_36
+7992836,Soshanguve LL,Soshanguve,TSH_11
+7992837,Kwaggasrand,Pretoria,TSH_3
+7992838,Eersterust Ext 4,Eersterust,TSH_43
+7992839,Mamelodi Ext 4,Mamelodi,TSH_16
+7992840,Rietfontein,Pretoria,TSH_53
+7992841,Ekangala Section D,Ekangala,TSH_103
+7992842,Soshanguve F,Soshanguve,TSH_29
+7992843,Rayton SH,Rayton,TSH_100
+7992844,Vergenoeg,Saulsville,TSH_107
+7992845,Ekangala Section E,Ekangala,TSH_103
+7992846,Doornpoort,Pretoria,TSH_96
+7992847,Kanana,Hammanskraal,TSH_49
+7992848,Elarduspark,Pretoria,TSH_79
+7992849,Soshanguve WW,Soshanguve,TSH_36
+7992850,Wonderboom South,Pretoria,TSH_54
+7992851,Ga-Rankuwa SP,Ga-Rankuwa,TSH_32
+7992852,Booysens,Pretoria,TSH_55
+7992853,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992854,Ga-Rankuwa View,Ga-Rankuwa,TSH_30
+7992855,Mabopane Unit E,Mabopane,TSH_29
+7992856,Marokolong SP,Marokolong,TSH_74
+7992857,Pretoria Gardens,Pretoria,TSH_1
+7992858,Soshanguve A,Soshanguve,TSH_90
+7992859,Mamelodi Ext 10,Mamelodi,TSH_17
+7992860,Kameeldrift SH,Kameeldrift,TSH_87
+7992861,Mnandi AH,Centurion,TSH_48
+7992862,Mabopane Unit B,Mabopane,TSH_21
+7992863,Florauna,Pretoria,TSH_2
+7992864,Temba Unit 7,Temba,TSH_75
+7992865,Ekangala SP,Ekangala,TSH_104
+7992866,Ekangala SP,Ekangala,TSH_104
+7992867,Soshanguve G,Soshanguve,TSH_33
+7992868,Wierdaglen Estate,Centurion,TSH_69
+7992869,Soshanguve South Ext 2,Soshanguve,TSH_89
+7992870,Soshanguve WW,Soshanguve,TSH_36
+7992871,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7992872,Kudube Unit 10,Temba,TSH_75
+7992873,Atteridgeville SP,Atteridgeville,TSH_51
+7992874,Eldo Glen,Centurion,TSH_70
+7992875,Rooihuiskraal Noord,Centurion,TSH_48
+7992876,New Eersterus SP,New Eersterus,TSH_95
+7992877,Grootvlei SH,Grootvlei,TSH_49
+7992878,Mahube Valley Ext 3,Mamelodi,TSH_17
+7992879,Soshanguve T,Soshanguve,TSH_25
+7992880,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7992881,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7992882,Winterveld Ext 1,Winterveld,TSH_9
+7992883,Mashemong SP,Mashemong,TSH_76
+7992884,Riamar park,Bronkhorstspruit,TSH_102
+7992885,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992886,Silverton,Pretoria,TSH_46
+7992887,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7992888,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992889,Ekangala SP,Ekangala,TSH_104
+7992890,Clarina,Akasia,TSH_98
+7992891,Nellmapius Ext 6,Nellmapius,TSH_15
+7992892,Mabopane R,Mabopane,TSH_22
+7992893,Silverton Ext 5,Pretoria,TSH_41
+7992894,Bultfontein AH,Bultfontein,TSH_49
+7992895,Soshanguve V Ext 1,Soshanguve,TSH_25
+7992896,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7992897,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992898,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7992899,Soshanguve South Ext 10,Soshanguve,TSH_37
+7992900,Brooklyn,Pretoria,TSH_56
+7992901,Refilwe SP,Refilwe,TSH_99
+7992902,Ekangala Section E,Ekangala,TSH_103
+7992903,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7992904,Soshanguve East,Soshanguve,TSH_90
+7992905,Atteridgeville SP,Atteridgeville,TSH_62
+7992906,Mountain View,Pretoria,TSH_1
+7992907,Mamelodi Ext 4,Mamelodi,TSH_16
+7992908,Soshanguve East,Soshanguve,TSH_90
+7992909,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7992910,Ekangala Section E,Ekangala,TSH_103
+7992911,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992912,Moreleta Park,Pretoria,TSH_91
+7992913,Kanana,Hammanskraal,TSH_49
+7992914,Beirut,Winterveld,TSH_12
+7992915,Soshanguve Y,Soshanguve,TSH_88
+7992916,Daspoort,Pretoria,TSH_1
+7992917,Soshanguve F,Soshanguve,TSH_29
+7992918,Claremont,Pretoria,TSH_55
+7992919,Queenswood,Pretoria,TSH_84
+7992920,Proclamation Hill,Pretoria,TSH_51
+7992921,Kudube Unit 10,Temba,TSH_75
+7992922,Atteridgeville SP,Atteridgeville,TSH_62
+7992923,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7992924,Rethabiseng Ext 3,Rethabiseng,TSH_103
+7992925,Soshanguve V,Soshanguve,TSH_25
+7992926,Kudube Unit 2,Temba,TSH_74
+7992927,Soshanguve South Ext 9,Soshanguve,TSH_37
+7992928,Kekana Garden SP,Kekana Garden,TSH_73
+7992929,Soshanguve MM,Soshanguve,TSH_33
+7992930,Temba Unit 1,Temba,TSH_74
+7992931,Atteridgeville SP,Atteridgeville,TSH_62
+7992932,Suurman SP,Suurman,TSH_8
+7992933,Eloffsdal,Pretoria,TSH_53
+7992934,Lotus Gardens,Pretoria,TSH_7
+7992935,Mabopane Unit D,Mabopane,TSH_20
+7992936,The Reeds Ext 5,Centurion,TSH_64
+7992937,Mashemong SP,Mashemong,TSH_76
+7992938,Danville Ext 1,Pretoria,TSH_60
+7992939,Pretoria West,Pretoria,TSH_3
+7992940,The Orchards,Akasia,TSH_4
+7992941,Majaneng SP,Majaneng,TSH_76
+7992942,Soshanguve South Ext 5,Soshanguve,TSH_89
+7992943,Soshanguve BB,Soshanguve,TSH_33
+7992944,Ekangala SP,Ekangala,TSH_104
+7992945,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992946,Sunnyside,Pretoria,TSH_81
+7992947,Soshanguve GG,Soshanguve,TSH_94
+7992948,Soshanguve R,Soshanguve,TSH_27
+7992949,Soshanguve South,Soshanguve,TSH_39
+7992950,Silver Lakes Golf Estate,Pretoria,TSH_101
+7992951,Rethabiseng Ext 3,Rethabiseng,TSH_103
+7992952,Doornpoort,Pretoria,TSH_96
+7992953,Suurman SP,Suurman,TSH_8
+7992954,Stinkwater C,Stinkwater,TSH_95
+7992955,Soshanguve FF,Soshanguve,TSH_94
+7992956,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7992957,Soshanguve X,Soshanguve,TSH_27
+7992958,The Reeds Ext 5,Centurion,TSH_64
+7992959,Nellmapius Ext 7,Nellmapius,TSH_15
+7992960,Daspoort,Pretoria,TSH_1
+7992961,Lotus Gardens Ext 2,Pretoria,TSH_7
+7992962,Mahube Valley,Mamelodi,TSH_17
+7992963,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7992964,Mamelodi Ext 2,Mamelodi,TSH_18
+7992965,Mamelodi Ext 6,Mamelodi,TSH_10
+7992966,Eco-Park Estate,Centurion,TSH_65
+7992967,Soshanguve South Ext 1,Soshanguve,TSH_39
+7992968,Highveld,Centurion,TSH_65
+7992969,Meyerspark,Pretoria,TSH_41
+7992970,Temba Unit 7,Temba,TSH_8
+7992971,Elandspoort,Pretoria,TSH_60
+7992972,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7992973,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_30
+7992974,Pretoria Gardens,Pretoria,TSH_55
+7992975,Chris Hani,Soshanguve,TSH_25
+7992976,Soshanguve BB,Soshanguve,TSH_33
+7992977,Soshanguve XX,Soshanguve,TSH_90
+7992978,Nellmapius Ext 7,Nellmapius,TSH_15
+7992979,"The Reeds Ext 2, 10, 43",Centurion,TSH_64
+7992980,Jeffersville,Saulsville,TSH_71
+7992981,Winterveld Ext 3,Winterveld,TSH_12
+7992982,Ramotse SP,Ramotse,TSH_73
+7992983,Soshanguve T,Soshanguve,TSH_25
+7992984,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7992985,Kudube Unit 2,Temba,TSH_75
+7992986,Rethabiseng Ext 1,Rethabiseng,TSH_103
+7992987,Soshanguve BB,Soshanguve,TSH_94
+7992988,Jeffersville,Saulsville,TSH_71
+7992989,Capital Park,Pretoria,TSH_58
+7992990,Soshanguve TT,Soshanguve,TSH_89
+7992991,Soshanguve L,Soshanguve,TSH_35
+7992992,Park Town Estate,Pretoria,TSH_54
+7992993,Riamar park,Bronkhorstspruit,TSH_102
+7992994,Winterveld Ext 3,Winterveld,TSH_9
+7992995,Theresapark,Akasia,TSH_98
+7992996,Phumolong,Saulsville,TSH_71
+7992997,Moreleta Park,Pretoria,TSH_47
+7992998,Kudube Unit 2,Temba,TSH_75
+7992999,Mamelodi Ext 22,Mamelodi,TSH_10
+7993000,Pretoria Gardens,Pretoria,TSH_55
+7993001,Laudium Ext 2,Laudium,TSH_61
+7993002,Suurman SP,Suurman,TSH_8
+7993003,New Eersterus SP,New Eersterus,TSH_14
+7993004,Mahube Valley Ext 2,Mamelodi,TSH_17
+7993005,Soshanguve P,Soshanguve,TSH_88
+7993006,Soshanguve HH,Soshanguve,TSH_94
+7993007,Annlin,Pretoria,TSH_50
+7993008,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993009,Soshanguve DD,Soshanguve,TSH_88
+7993010,Chantelle,Akasia,TSH_4
+7993011,Soshanguve M,Soshanguve,TSH_35
+7993012,Winterveld Ext 3,Winterveld,TSH_19
+7993013,Itsoseng,Mabopane,TSH_20
+7993014,Elandspoort,Pretoria,TSH_60
+7993015,Clubview,Centurion,TSH_66
+7993016,Ramotse SP,Ramotse,TSH_73
+7993017,Majaneng SP,Majaneng,TSH_76
+7993018,Zwartkop SANDF,Centurion,TSH_66
+7993019,Waverley,Pretoria,TSH_52
+7993020,Stinkwater D,Stinkwater,TSH_95
+7993021,Pretoria Central,Pretoria,TSH_58
+7993022,Kudube Unit 2,Temba,TSH_74
+7993023,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993024,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993025,Mamelodi Seventeens,Mamelodi,TSH_18
+7993026,Soshanguve GG,Soshanguve,TSH_94
+7993027,Zithobeni SP,Zithobeni,TSH_105
+7993028,Soshanguve F,Soshanguve,TSH_33
+7993029,Mabopane Unit B,Mabopane,TSH_21
+7993030,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993031,Soshanguve TT,Soshanguve,TSH_89
+7993032,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993033,Elarduspark,Pretoria,TSH_79
+7993034,Soshanguve South Ext 10,Soshanguve,TSH_37
+7993035,Majaneng SP,Majaneng,TSH_76
+7993036,New Eersterus SP,New Eersterus,TSH_95
+7993037,Soshanguve South Ext 11,Soshanguve,TSH_39
+7993038,Eco-Park Estate,Centurion,TSH_65
+7993039,Waverley,Pretoria,TSH_52
+7993040,Philip Nel Park,Pretoria,TSH_60
+7993041,Waverley,Pretoria,TSH_52
+7993042,Soshanguve P,Soshanguve,TSH_88
+7993043,Soshanguve South Ext 10,Soshanguve,TSH_37
+7993044,Silverton,Pretoria,TSH_41
+7993045,Vergenoeg,Saulsville,TSH_107
+7993046,Ramotse SP,Ramotse,TSH_73
+7993047,Mamelodi SA5,Mamelodi,TSH_6
+7993048,Slovo,Winterveld,TSH_19
+7993049,Mamelodi Ext 12,Mamelodi,TSH_97
+7993050,Gezina,Pretoria,TSH_53
+7993051,Mabopane Unit B,Mabopane,TSH_21
+7993052,Moreleta Park,Pretoria,TSH_91
+7993053,Soshanguve F,Soshanguve,TSH_33
+7993054,Wierdaglen Estate,Centurion,TSH_69
+7993055,Soshanguve P,Soshanguve,TSH_88
+7993056,Soshanguve GG,Soshanguve,TSH_94
+7993057,Jeffersville,Saulsville,TSH_71
+7993058,Mamelodi Ext 18,Mamelodi,TSH_97
+7993059,Zithobeni SP,Zithobeni,TSH_102
+7993060,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993061,Mamelodi Ext 11,Mamelodi,TSH_97
+7993062,Soshanguve FF,Soshanguve,TSH_94
+7993063,Eersterust Ext 6,Eersterust,TSH_43
+7993064,Soshanguve HH,Soshanguve,TSH_11
+7993065,Rethabiseng SP,Rethabiseng,TSH_103
+7993066,Atteridgeville SP,Atteridgeville,TSH_62
+7993067,Nellmapius Ext 6,Nellmapius,TSH_15
+7993068,Soshanguve P,Soshanguve,TSH_88
+7993069,Soshanguve South Ext 10,Soshanguve,TSH_37
+7993070,The Orchards,Akasia,TSH_4
+7993071,New Eersterus SP,New Eersterus,TSH_14
+7993072,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993073,Winterveld Ext 3,Winterveld,TSH_9
+7993074,Soshanguve DD,Soshanguve,TSH_88
+7993075,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993076,Ga-Rankuwa Unit 25,Ga-Rankuwa,TSH_30
+7993077,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993078,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993079,Pretoria Central,Pretoria,TSH_81
+7993080,Raslouw Lifestyle Estate,Centurion,TSH_48
+7993081,Soshanguve DD,Soshanguve,TSH_88
+7993082,Soshanguve South Ext 8,Soshanguve,TSH_39
+7993083,Soshanguve L Ext 1,Soshanguve,TSH_35
+7993084,Mabopane U,Mabopane,TSH_22
+7993085,Mountain View,Pretoria,TSH_1
+7993086,Thatchfield,Centurion,TSH_64
+7993087,Lynnwood,Pretoria,TSH_82
+7993088,Riviera,Pretoria,TSH_53
+7993089,Lotus Gardens,Pretoria,TSH_7
+7993090,Soshanguve FF,Soshanguve,TSH_26
+7993091,Jeffersville,Saulsville,TSH_71
+7993092,Mamelodi Ext 11,Mamelodi,TSH_97
+7993093,Winterveld Ext 3,Winterveld,TSH_12
+7993094,Ramotse SP,Ramotse,TSH_73
+7993095,Pretoria Central,Pretoria,TSH_80
+7993096,Stinkwater D,Stinkwater,TSH_95
+7993097,Willow Park Manor,Pretoria,TSH_41
+7993098,Mabopane Unit B,Mabopane,TSH_21
+7993099,Irene Security Estate,Centurion,TSH_65
+7993100,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993101,Lotus Gardens,Pretoria,TSH_7
+7993102,Soshanguve R,Soshanguve,TSH_26
+7993103,Winterveld Ext 1,Winterveld,TSH_24
+7993104,Schurwe Plaas Mine,Centurion,TSH_61
+7993105,Soshanguve A,Soshanguve,TSH_90
+7993106,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993107,Soshanguve WW,Soshanguve,TSH_36
+7993108,Hebron SP,Hebron,TSH_30
+7993109,Equestria,Pretoria,TSH_85
+7993110,Soshanguve L,Soshanguve,TSH_35
+7993111,Meyerspark,Pretoria,TSH_41
+7993112,Danville Ext 2,Pretoria,TSH_60
+7993113,Stinkwater D,Stinkwater,TSH_95
+7993114,Soshanguve F,Soshanguve,TSH_29
+7993115,Soshanguve East,Soshanguve,TSH_90
+7993116,Soshanguve TT,Soshanguve,TSH_89
+7993117,Ekangala Section D,Ekangala,TSH_103
+7993118,Eersterust Ext 6,Eersterust,TSH_43
+7993119,Spruit,Mooiplaas,TSH_70
+7993120,Vergenoeg,Saulsville,TSH_107
+7993121,Soshanguve X,Soshanguve,TSH_27
+7993122,Danville,Pretoria,TSH_60
+7993123,Atteridgeville SP,Atteridgeville,TSH_51
+7993124,Winterveld Ext 1,Winterveld,TSH_24
+7993125,Jan Niemand Park,Pretoria,TSH_87
+7993126,Mahube Valley Ext 2,Mamelodi,TSH_17
+7993127,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7993128,Vergenoeg,Saulsville,TSH_107
+7993129,Stinkwater A,Stinkwater,TSH_13
+7993130,Mabopane Unit B,Mabopane,TSH_21
+7993131,Soshanguve East,Soshanguve,TSH_90
+7993132,Pretoria Gardens,Pretoria,TSH_1
+7993133,Soshanguve East,Soshanguve,TSH_90
+7993134,Rethabiseng SP,Rethabiseng,TSH_103
+7993135,Phumulamcashi Buffer Zone,Mamelodi,TSH_15
+7993136,Soshanguve M,Soshanguve,TSH_35
+7993137,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993138,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993139,Kudube Unit 2,Temba,TSH_74
+7993140,East Lynne,Pretoria,TSH_52
+7993141,Kwaggasrand,Pretoria,TSH_3
+7993142,Majaneng SP,Majaneng,TSH_76
+7993143,Sekampaneng,Temba,TSH_8
+7993144,Soshanguve DD,Soshanguve,TSH_88
+7993145,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7993146,Lindopark,Pretoria,TSH_52
+7993147,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7993148,New Eersterus SP,New Eersterus,TSH_14
+7993149,The Orchards,Akasia,TSH_4
+7993150,Rethabiseng Ext 3,Rethabiseng,TSH_103
+7993151,Kanana,Hammanskraal,TSH_49
+7993152,Nellmapius SP,Nellmapius,TSH_86
+7993153,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993154,Mountain View,Pretoria,TSH_54
+7993155,Mabopane U,Mabopane,TSH_22
+7993156,Atteridgeville SP,Atteridgeville,TSH_51
+7993157,Pierre van Ryneveld,Centurion,TSH_79
+7993158,Soshanguve X,Soshanguve,TSH_27
+7993159,Gezina,Pretoria,TSH_53
+7993160,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993161,Vergenoeg,Saulsville,TSH_107
+7993162,New Eersterus SP,New Eersterus,TSH_14
+7993163,Ekangala SP,Ekangala,TSH_104
+7993164,Soshanguve H,Soshanguve,TSH_34
+7993165,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7993166,Winterveld Ext 1,Winterveld,TSH_9
+7993167,Faerie Glen,Pretoria,TSH_44
+7993168,Ekangala Section D,Ekangala,TSH_103
+7993169,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993170,"Eldoraigne Ext 3, 16, 18",Centurion,TSH_69
+7993171,Atteridgeville SP,Atteridgeville,TSH_62
+7993172,Mabopane Unit C,Mabopane,TSH_22
+7993173,New Eersterus SP,New Eersterus,TSH_14
+7993174,Mabopane Unit B,Mabopane,TSH_21
+7993175,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7993176,Temba Unit 6,Temba,TSH_75
+7993177,Naledi,Mamelodi,TSH_38
+7993178,Winterveld Ext 1,Winterveld,TSH_24
+7993179,Mashemong SP,Mashemong,TSH_76
+7993180,Suurman SP,Suurman,TSH_8
+7993181,Mooiplaas SH,Mooiplaas,TSH_101
+7993182,Soshanguve A,Soshanguve,TSH_90
+7993183,East Lynne,Pretoria,TSH_52
+7993184,Soshanguve X,Soshanguve,TSH_27
+7993185,Blue Valley Golf Estate,Centurion,TSH_77
+7993186,Pretoria North,Pretoria,TSH_2
+7993187,Soshanguve HH,Soshanguve,TSH_11
+7993188,Chantelle,Akasia,TSH_4
+7993189,Soshanguve R,Soshanguve,TSH_26
+7993190,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993191,Leeuwfontein SH,Leeufontein,TSH_93
+7993192,Mahube Valley,Mamelodi,TSH_17
+7993193,Temba Unit 1,Temba,TSH_74
+7993194,Atteridgeville SP,Atteridgeville,TSH_51
+7993195,Rietfontein,Pretoria,TSH_53
+7993196,Philip Nel Park,Pretoria,TSH_3
+7993197,Villieria,Pretoria,TSH_52
+7993198,Kanana,Hammanskraal,TSH_49
+7993199,Centurion Golf Eastate,Centurion,TSH_65
+7993200,Majaneng SP,Majaneng,TSH_76
+7993201,Botshabelo,Mabopane,TSH_22
+7993202,Mabopane Unit D,Mabopane,TSH_20
+7993203,Refilwe SP,Refilwe,TSH_99
+7993204,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993205,Soshanguve L,Soshanguve,TSH_34
+7993206,Mamelodi Ext 18,Mamelodi,TSH_97
+7993207,Hillcrest,Pretoria,TSH_56
+7993208,Danville Ext 5,Pretoria,TSH_60
+7993209,Khalambazo,Mamelodi,TSH_23
+7993210,Monavoni AH,Centurion,TSH_48
+7993211,Soshanguve South Ext 4,Soshanguve,TSH_37
+7993212,Ekangala SP,Ekangala,TSH_104
+7993213,Ga-Rankuwa Unit 5,Ga-Rankuwa,TSH_31
+7993214,Mabopane Unit B,Mabopane,TSH_21
+7993215,Danville Ext 1,Pretoria,TSH_60
+7993216,Ekangala Section D,Ekangala,TSH_103
+7993217,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7993218,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7993219,Kekana Garden SP,Kekana Garden,TSH_73
+7993220,East Lynne,Pretoria,TSH_52
+7993221,Erasmia,Centurion,TSH_61
+7993222,Winterveld Ext 3,Winterveld,TSH_12
+7993223,Soshanguve FF,Soshanguve,TSH_94
+7993224,Lyttelton,Centurion,TSH_57
+7993225,Soshanguve JJ,Soshanguve,TSH_11
+7993226,Mamelodi Sun Valley,Mamelodi,TSH_67
+7993227,Suurman SP,Suurman,TSH_8
+7993228,Valhalla,Centurion,TSH_66
+7993229,Hatfield,Pretoria,TSH_56
+7993230,Mountain View,Pretoria,TSH_1
+7993231,The Reeds,Centurion,TSH_64
+7993232,Soshanguve NN,Soshanguve,TSH_11
+7993233,Muckleneuk,Pretoria,TSH_59
+7993234,Stinkwater B,Stinkwater,TSH_13
+7993235,Soshanguve South Ext 11,Soshanguve,TSH_39
+7993236,Pretoriuspark,Pretoria,TSH_101
+7993237,Highveld,Centurion,TSH_65
+7993238,Soshanguve P,Soshanguve,TSH_88
+7993239,Soshanguve AA,Soshanguve,TSH_94
+7993240,Mabopane Unit C,Mabopane,TSH_20
+7993241,Soshanguve KK,Soshanguve,TSH_26
+7993242,Kwaggasrand,Pretoria,TSH_3
+7993243,Mahube Valley Ext 3,Mamelodi,TSH_17
+7993244,Hatfield,Pretoria,TSH_56
+7993245,Mamelodi Ext 4,Mamelodi,TSH_16
+7993246,Soshanguve L Ext 1,Soshanguve,TSH_35
+7993247,Zwartkop,Centurion,TSH_78
+7993248,Villieria,Pretoria,TSH_52
+7993249,Vergenoeg,Saulsville,TSH_107
+7993250,Winterveld Ext 3,Winterveld,TSH_12
+7993251,Lyttelton,Centurion,TSH_57
+7993252,Soshanguve TT,Soshanguve,TSH_89
+7993253,Mamelodi Sun Valley,Mamelodi,TSH_38
+7993254,Pretoria West,Pretoria,TSH_3
+7993255,Marokolong SP,Marokolong,TSH_73
+7993256,Rooihuiskraal,Centurion,TSH_65
+7993257,Sinoville,Pretoria,TSH_96
+7993258,Soshanguve South Ext 5,Soshanguve,TSH_89
+7993259,Soshanguve X,Soshanguve,TSH_27
+7993260,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993261,Muckleneuk,Pretoria,TSH_80
+7993262,Atteridgeville SP,Atteridgeville,TSH_62
+7993263,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7993264,Claremont,Pretoria,TSH_55
+7993265,Mabopane Unit C,Mabopane,TSH_22
+7993266,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7993267,Boadwalk,Kungwini Part 2,TSH_101
+7993268,Arcadia,Pretoria,TSH_92
+7993269,Jeffersville,Saulsville,TSH_72
+7993270,Proclamation Hill,Pretoria,TSH_3
+7993271,Soshanguve PP3,Soshanguve,TSH_25
+7993272,Ekklesia,Pretoria,TSH_87
+7993273,Soshanguve L,Soshanguve,TSH_35
+7993274,Thatchfield,Centurion,TSH_64
+7993275,Chris Hani,Soshanguve,TSH_25
+7993276,Lotus Gardens,Pretoria,TSH_7
+7993277,Kudube Unit 11,Temba,TSH_8
+7993278,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993279,Die Wilgers,Pretoria,TSH_85
+7993280,Sekampaneng,Temba,TSH_8
+7993281,Stinkwater C,Stinkwater,TSH_95
+7993282,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993283,Soshanguve Ext 13,Soshanguve,TSH_37
+7993284,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993285,Nellmapius SP,Nellmapius,TSH_86
+7993286,Montana Tuine,Pretoria,TSH_96
+7993287,New Eersterus SP,New Eersterus,TSH_14
+7993288,Soshanguve BB,Soshanguve,TSH_26
+7993289,Olievenhoutbos Ext 15,Olievenhoutbos,TSH_106
+7993290,Soshanguve South Ext 2,Soshanguve,TSH_39
+7993291,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7993292,Zithobeni SP,Zithobeni,TSH_102
+7993293,Kwaggasrand,Pretoria,TSH_3
+7993294,The Orchards Ext 24,Akasia,TSH_4
+7993295,Mabopane Unit B,Mabopane,TSH_21
+7993296,Winterveld Ext 1,Winterveld,TSH_29
+7993297,Stinkwater C,Stinkwater,TSH_95
+7993298,Mabopane Unit B,Mabopane,TSH_21
+7993299,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993300,Mamelodi Ext 22,Mamelodi,TSH_10
+7993301,Atteridgeville SP,Atteridgeville,TSH_62
+7993302,Pretoria Central,Pretoria,TSH_80
+7993303,Soshanguve P,Soshanguve,TSH_27
+7993304,Valhalla,Centurion,TSH_66
+7993305,Ramotse SP,Ramotse,TSH_73
+7993306,Wonderboom South,Pretoria,TSH_54
+7993307,Soshanguve DD,Soshanguve,TSH_88
+7993308,Faerie Glen,Pretoria,TSH_44
+7993309,Soshanguve L,Soshanguve,TSH_35
+7993310,Soshanguve Ext 13,Soshanguve,TSH_37
+7993311,Lotus Gardens,Pretoria,TSH_7
+7993312,Atteridgeville SP,Atteridgeville,TSH_51
+7993313,Winterveld Ext 1,Winterveld,TSH_24
+7993314,New Eersterus SP,New Eersterus,TSH_14
+7993315,Atteridgeville SP,Atteridgeville,TSH_51
+7993316,Hatfield,Pretoria,TSH_56
+7993317,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993318,Waterkloof Glen,Pretoria,TSH_83
+7993319,Soshanguve AA,Soshanguve,TSH_94
+7993320,Kekana Garden SP,Kekana Garden,TSH_73
+7993321,Spruit,Mooiplaas,TSH_70
+7993322,Sekampaneng,Temba,TSH_8
+7993323,Riamar park,Bronkhorstspruit,TSH_105
+7993324,Ga-Rankuwa Unit 7,Ga-Rankuwa,TSH_32
+7993325,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7993326,Soshanguve BB,Soshanguve,TSH_94
+7993327,Spruit,Mooiplaas,TSH_70
+7993328,Soshanguve T,Soshanguve,TSH_25
+7993329,Heuweloord,Centurion,TSH_48
+7993330,Soshanguve L,Soshanguve,TSH_35
+7993331,New Eersterus SP,New Eersterus,TSH_95
+7993332,Waverley,Pretoria,TSH_52
+7993333,Claremont,Pretoria,TSH_55
+7993334,Mamelodi Ext 5,Mamelodi,TSH_16
+7993335,Erasmuskloof,Pretoria,TSH_83
+7993336,Soshanguve UU,Soshanguve,TSH_36
+7993337,Saulsville SP,Saulsville,TSH_68
+7993338,Soshanguve KK,Soshanguve,TSH_26
+7993339,Soshanguve K,Soshanguve,TSH_34
+7993340,Stinkwater D,Stinkwater,TSH_95
+7993341,Mashemong SP,Mashemong,TSH_76
+7993342,Kekana Garden SP,Kekana Garden,TSH_73
+7993343,Atteridgeville SP,Atteridgeville,TSH_72
+7993344,Erasmia,Centurion,TSH_61
+7993345,Daspoort,Pretoria,TSH_1
+7993346,Soshanguve South Ext 8,Soshanguve,TSH_39
+7993347,Saulsville SP,Saulsville,TSH_63
+7993348,Mamelodi Ext 11,Mamelodi,TSH_97
+7993349,Winterveld Ext 3,Winterveld,TSH_12
+7993350,Vergenoeg,Saulsville,TSH_71
+7993351,Atteridgeville SP,Atteridgeville,TSH_62
+7993352,Winterveld Ext 3,Winterveld,TSH_19
+7993353,Zithobeni SP,Zithobeni,TSH_105
+7993354,Annlin,Pretoria,TSH_50
+7993355,Temba Unit 1,Temba,TSH_74
+7993356,Soshanguve T,Soshanguve,TSH_25
+7993357,Mahube Valley,Mamelodi,TSH_17
+7993358,Wolmer,Pretoria,TSH_2
+7993359,Atteridgeville SP,Atteridgeville,TSH_51
+7993360,Suurman SP,Suurman,TSH_8
+7993361,Soshanguve R,Soshanguve,TSH_27
+7993362,East Lynne,Pretoria,TSH_52
+7993363,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993364,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993365,Soshanguve H,Soshanguve,TSH_34
+7993366,New Eersterus SP,New Eersterus,TSH_95
+7993367,Mamelodi BA1,Mamelodi,TSH_67
+7993368,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993369,Soshanguve VV,Soshanguve,TSH_90
+7993370,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993371,Daspoort,Pretoria,TSH_1
+7993372,Pretoria West,Pretoria,TSH_3
+7993373,Wonderboom,Pretoria,TSH_50
+7993374,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_30
+7993375,Refilwe SP,Refilwe,TSH_99
+7993376,Winterveld Ext 3,Winterveld,TSH_9
+7993377,Philip Nel Park,Pretoria,TSH_60
+7993378,Refilwe SP,Refilwe,TSH_99
+7993379,"Eldoraigne Ext 9, 19",Centurion,TSH_69
+7993380,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993381,Soshanguve PP3,Soshanguve,TSH_25
+7993382,Mamelodi Ext 5,Mamelodi,TSH_16
+7993383,Soshanguve GG,Soshanguve,TSH_94
+7993384,Leboneng,Temba,TSH_75
+7993385,Mamelodi Ext 11,Mamelodi,TSH_97
+7993386,Phumolong,Saulsville,TSH_72
+7993387,Vergenoeg,Saulsville,TSH_107
+7993388,Marokolong SP,Marokolong,TSH_74
+7993389,Garsfontein,Pretoria,TSH_45
+7993390,Wolmer,Pretoria,TSH_2
+7993391,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993392,Danville Ext 5,Pretoria,TSH_60
+7993393,Pierre van Ryneveld,Centurion,TSH_79
+7993394,Kwaggasrand,Pretoria,TSH_3
+7993395,Winterveld Ext 1,Winterveld,TSH_9
+7993396,Jeffersville,Saulsville,TSH_71
+7993397,Winterveld Ext 1,Winterveld,TSH_24
+7993398,New Eersterus SP,New Eersterus,TSH_14
+7993399,Mahube Valley,Mamelodi,TSH_17
+7993400,Soshanguve GG,Soshanguve,TSH_94
+7993401,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993402,Lynnwood Glen,Pretoria,TSH_46
+7993403,Mamelodi Ext 4,Mamelodi,TSH_16
+7993404,Kanana,Hammanskraal,TSH_49
+7993405,Ga-Rankuwa SP,Ga-Rankuwa,TSH_39
+7993406,Soshanguve H,Soshanguve,TSH_34
+7993407,Kanana,Hammanskraal,TSH_49
+7993408,Mamelodi SP,Mamelodi,TSH_40
+7993409,Waterkloof Air Force Base,Centurion,TSH_79
+7993410,Soshanguve IA,Soshanguve,TSH_29
+7993411,Soshanguve FF,Soshanguve,TSH_94
+7993412,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7993413,Eersterust Ext 2,Eersterust,TSH_43
+7993414,Soshanguve F,Soshanguve,TSH_33
+7993415,Danville Ext 1,Pretoria,TSH_60
+7993416,Mamelodi Ext 18,Mamelodi,TSH_97
+7993417,Soshanguve HH,Soshanguve,TSH_11
+7993418,Soshanguve NN,Soshanguve,TSH_11
+7993419,Silver Lakes Golf Estate,Pretoria,TSH_101
+7993420,Pretoria North,Pretoria,TSH_2
+7993421,Mamelodi Ext 5,Mamelodi,TSH_16
+7993422,Ga-Rankuwa Unit 4,Ga-Rankuwa,TSH_30
+7993423,Winterveld Ext 1,Winterveld,TSH_9
+7993424,Soshanguve V,Soshanguve,TSH_25
+7993425,Soshanguve Ext 13,Soshanguve,TSH_37
+7993426,Soshanguve R,Soshanguve,TSH_26
+7993427,Mamelodi Ext 4,Mamelodi,TSH_16
+7993428,Mamelodi Ext 11,Mamelodi,TSH_97
+7993429,Reitvlei,Pretoria,TSH_47
+7993430,Soshanguve R,Soshanguve,TSH_26
+7993431,Ekangala SP,Ekangala,TSH_104
+7993432,Mabopane Unit S,Mabopane,TSH_20
+7993433,Soshanguve P,Soshanguve,TSH_88
+7993434,Olievenhoutbos,Olievenhoutbos,TSH_106
+7993435,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993436,Kilner Park,Pretoria,TSH_84
+7993437,Mabopane Unit B,Mabopane,TSH_21
+7993438,Zithobeni SP,Zithobeni,TSH_102
+7993439,Stinkwater B,Stinkwater,TSH_13
+7993440,Soshanguve G,Soshanguve,TSH_33
+7993441,Soshanguve W,Soshanguve,TSH_27
+7993442,Winterveld Ext 1,Winterveld,TSH_9
+7993443,Tshwane NU,Tshwane NU,TSH_105
+7993444,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7993445,Mamelodi Ext 4,Mamelodi,TSH_16
+7993446,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7993447,Danville,Pretoria,TSH_60
+7993448,Soshanguve R,Soshanguve,TSH_27
+7993449,Mahube Valley Ext 3,Mamelodi,TSH_17
+7993450,Soshanguve L,Soshanguve,TSH_35
+7993451,Stinkwater C,Stinkwater,TSH_95
+7993452,Marokolong SP,Marokolong,TSH_73
+7993453,Sekampaneng,Temba,TSH_8
+7993454,Eersterust Ext 6,Eersterust,TSH_43
+7993455,Soshanguve X,Soshanguve,TSH_27
+7993456,Waterkloof Glen,Pretoria,TSH_83
+7993457,Soshanguve X,Soshanguve,TSH_27
+7993458,New Eersterus SP,New Eersterus,TSH_14
+7993459,Rosslyn,Akasia,TSH_37
+7993460,Kirkney,Pretoria,TSH_55
+7993461,Soshanguve South Ext 2,Soshanguve,TSH_39
+7993462,Soshanguve South Ext 4,Soshanguve,TSH_37
+7993463,Soshanguve R,Soshanguve,TSH_27
+7993464,Heuwelsig Estate,Centurion,TSH_48
+7993465,Groenkloof,Pretoria,TSH_59
+7993466,Sunnyside,Pretoria,TSH_81
+7993467,Soshanguve P,Soshanguve,TSH_88
+7993468,Soshanguve South Ext 8,Soshanguve,TSH_37
+7993469,Phumolong,Saulsville,TSH_71
+7993470,Vergenoeg,Saulsville,TSH_107
+7993471,Ramotse SP,Ramotse,TSH_73
+7993472,Pretoria Industrial,Pretoria,TSH_51
+7993473,Atteridgeville SP,Atteridgeville,TSH_51
+7993474,Mamelodi Ext 2,Mamelodi,TSH_18
+7993475,Ekangala SP,Ekangala,TSH_104
+7993476,Ekangala Section E,Ekangala,TSH_103
+7993477,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993478,Soshanguve L,Soshanguve,TSH_34
+7993479,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7993480,Spruit,Mooiplaas,TSH_70
+7993481,New Eersterus SP,New Eersterus,TSH_14
+7993482,Rayton SP,Rayton,TSH_100
+7993483,Soshanguve KK,Soshanguve,TSH_26
+7993484,Ekangala SP,Ekangala,TSH_104
+7993485,Soshanguve T,Soshanguve,TSH_25
+7993486,Rens Town,Hammanskraal,TSH_49
+7993487,Soshanguve V Ext 1,Soshanguve,TSH_13
+7993488,New Eersterus SP,New Eersterus,TSH_14
+7993489,Stinkwater B,Stinkwater,TSH_13
+7993490,Mamelodi Ext 12,Mamelodi,TSH_97
+7993491,Valhalla,Centurion,TSH_66
+7993492,Ekangala Section A,Ekangala,TSH_104
+7993493,Eersterust Ext 2,Eersterust,TSH_43
+7993494,Winterveld Ext 1,Winterveld,TSH_9
+7993495,Wolmer,Pretoria,TSH_2
+7993496,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993497,Soshanguve South Ext 4,Soshanguve,TSH_89
+7993498,Soshanguve BB,Soshanguve,TSH_26
+7993499,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993500,Kwaggasrand,Pretoria,TSH_3
+7993501,Zithobeni SP,Zithobeni,TSH_105
+7993502,Tierpoort SH,Tierpoort,TSH_102
+7993503,Soshanguve BB,Soshanguve,TSH_33
+7993504,Atteridgeville SP,Atteridgeville,TSH_62
+7993505,Eersterust Ext 2,Eersterust,TSH_43
+7993506,Kanana,Hammanskraal,TSH_49
+7993507,New Eersterus SP,New Eersterus,TSH_14
+7993508,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993509,Mabopane U,Mabopane,TSH_22
+7993510,Mamelodi MD1,Mamelodi,TSH_23
+7993511,Phumulamcashi Buffer Zone,Mamelodi,TSH_18
+7993512,Phumolong,Saulsville,TSH_71
+7993513,Phumolong,Saulsville,TSH_71
+7993514,Majaneng SP,Majaneng,TSH_76
+7993515,Mamelodi Ext 18,Mamelodi,TSH_97
+7993516,Mamelodi Ext 4,Mamelodi,TSH_16
+7993517,Valhalla,Centurion,TSH_66
+7993518,Saulsville SP,Saulsville,TSH_72
+7993519,Lindopark,Pretoria,TSH_52
+7993520,Mooikloof Ridge,Pretoria,TSH_91
+7993521,Winterveld Ext 1,Winterveld,TSH_9
+7993522,Stinkwater B,Stinkwater,TSH_13
+7993523,New Eersterus SP,New Eersterus,TSH_14
+7993524,Soshanguve HH,Soshanguve,TSH_11
+7993525,Soshanguve G,Soshanguve,TSH_33
+7993526,Erasmia,Centurion,TSH_61
+7993527,Thaba Tshwane,Pretoria,TSH_51
+7993528,Soshanguve L,Soshanguve,TSH_35
+7993529,Soshanguve FF,Soshanguve,TSH_26
+7993530,Soshanguve South Ext 2,Soshanguve,TSH_39
+7993531,Ekangala SP,Ekangala,TSH_104
+7993532,New Eersterus SP,New Eersterus,TSH_95
+7993533,Mamelodi Ext 22,Mamelodi,TSH_10
+7993534,Nellmapius Ext 3,Nellmapius,TSH_86
+7993535,Constantia Park,Pretoria,TSH_83
+7993536,Atteridgeville SP,Atteridgeville,TSH_62
+7993537,Mnandi AH,Centurion,TSH_48
+7993538,Rayton SP,Rayton,TSH_100
+7993539,Waterkloof,Pretoria,TSH_42
+7993540,Soshanguve FF,Soshanguve,TSH_94
+7993541,Soshanguve F,Soshanguve,TSH_33
+7993542,Mamelodi FB3,Mamelodi,TSH_38
+7993543,Soshanguve Y,Soshanguve,TSH_88
+7993544,Soshanguve AA,Soshanguve,TSH_33
+7993545,Soshanguve South Ext 4,Soshanguve,TSH_37
+7993546,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7993547,Ga-Rankuwa Unit 6,Ga-Rankuwa,TSH_32
+7993548,Mamelodi Ext 2,Mamelodi,TSH_18
+7993549,Spruit,Mooiplaas,TSH_70
+7993550,Eersterust Ext 6,Eersterust,TSH_43
+7993551,Eersterust Ext 6,Eersterust,TSH_43
+7993552,Winterveld Ext 1,Winterveld,TSH_24
+7993553,Winterveld Ext 3,Winterveld,TSH_12
+7993554,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993555,Hatfield,Pretoria,TSH_56
+7993556,Soshanguve South Ext 2,Soshanguve,TSH_89
+7993557,Jeffersville,Saulsville,TSH_71
+7993558,Suurman SP,Suurman,TSH_8
+7993559,Laudium SP,Laudium,TSH_61
+7993560,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7993561,Mamelodi Ext 4,Mamelodi,TSH_16
+7993562,Soshanguve L,Soshanguve,TSH_35
+7993563,Jan Niemand Park,Pretoria,TSH_43
+7993564,Soshanguve F,Soshanguve,TSH_29
+7993565,Soshanguve TT,Soshanguve,TSH_89
+7993566,Mamelodi FB3,Mamelodi,TSH_38
+7993567,Doornkloof SH,Centurion,TSH_65
+7993568,Soshanguve South Ext 3,Soshanguve,TSH_89
+7993569,Ekangala Section A,Ekangala,TSH_104
+7993570,Nellmapius Ext 4,Nellmapius,TSH_86
+7993571,Jeffersville,Saulsville,TSH_71
+7993572,Fundus AH,Pretoria,TSH_4
+7993573,Rooihuiskraal Noord,Centurion,TSH_69
+7993574,Naledi,Mamelodi,TSH_6
+7993575,Soshanguve W,Soshanguve,TSH_27
+7993576,Winterveld Ext 3,Winterveld,TSH_19
+7993577,Stinkwater D,Stinkwater,TSH_95
+7993578,Phumolong,Saulsville,TSH_71
+7993579,Majaneng SP,Majaneng,TSH_76
+7993580,Soshanguve VV,Soshanguve,TSH_36
+7993581,Soshanguve MM,Soshanguve,TSH_33
+7993582,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993583,Soshanguve WW,Soshanguve,TSH_36
+7993584,Valhalla,Centurion,TSH_66
+7993585,Waverley,Pretoria,TSH_52
+7993586,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993587,Marokolong SP,Marokolong,TSH_73
+7993588,Temba Unit 1,Temba,TSH_74
+7993589,Stinkwater D,Stinkwater,TSH_95
+7993590,Mamelodi SA5,Mamelodi,TSH_6
+7993591,Soshanguve T,Soshanguve,TSH_25
+7993592,Mabopane A,Mabopane,TSH_12
+7993593,New Eersterus SP,New Eersterus,TSH_14
+7993594,Soshanguve G,Soshanguve,TSH_33
+7993595,Mamelodi Ext 18,Mamelodi,TSH_97
+7993596,Soshanguve South Ext 11,Soshanguve,TSH_39
+7993597,Die Hoewes,Centurion,TSH_57
+7993598,Marokolong SP,Marokolong,TSH_49
+7993599,Marokolong SP,Marokolong,TSH_74
+7993600,Soshanguve F,Soshanguve,TSH_29
+7993601,Heuwelsig Estate,Centurion,TSH_48
+7993602,Marokolong SP,Marokolong,TSH_73
+7993603,Vergenoeg,Saulsville,TSH_107
+7993604,Winterveld Ext 1,Winterveld,TSH_9
+7993605,Capital Park,Pretoria,TSH_1
+7993606,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993607,Eersterust Ext 6,Eersterust,TSH_43
+7993608,Blue Valley Golf Estate,Centurion,TSH_77
+7993609,Mamelodi Ext 11,Mamelodi,TSH_97
+7993610,Winterveld Ext 1,Winterveld,TSH_24
+7993611,Stinkwater D,Stinkwater,TSH_95
+7993612,New Eersterus SP,New Eersterus,TSH_95
+7993613,Arcadia,Pretoria,TSH_92
+7993614,Mamelodi S&S,Mamelodi,TSH_23
+7993615,Marokolong SP,Marokolong,TSH_73
+7993616,Jeffersville,Saulsville,TSH_71
+7993617,Soshanguve HH,Soshanguve,TSH_94
+7993618,Soshanguve G,Soshanguve,TSH_33
+7993619,Pretoria Central,Pretoria,TSH_58
+7993620,Ekangala SP,Ekangala,TSH_104
+7993621,Philip Nel Park,Pretoria,TSH_60
+7993622,Mamelodi Ext 5,Mamelodi,TSH_16
+7993623,Soshanguve VV,Soshanguve,TSH_36
+7993624,Soshanguve South Ext 5,Soshanguve,TSH_90
+7993625,Soshanguve L,Soshanguve,TSH_35
+7993626,Soshanguve TT,Soshanguve,TSH_89
+7993627,Valhalla,Centurion,TSH_66
+7993628,Soshanguve M Ext 1,Soshanguve,TSH_36
+7993629,Suurman SP,Suurman,TSH_8
+7993630,Salvokop,Pretoria,TSH_80
+7993631,Mamelodi PD3,Mamelodi,TSH_6
+7993632,Saulsville SP,Saulsville,TSH_7
+7993633,Kwaggasrand,Pretoria,TSH_3
+7993634,Lotus Gardens,Pretoria,TSH_7
+7993635,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993636,Mamelodi Sixteens,Mamelodi,TSH_18
+7993637,New Eersterus SP,New Eersterus,TSH_14
+7993638,Soshanguve South Ext 8,Soshanguve,TSH_39
+7993639,Dorandia,Pretoria,TSH_2
+7993640,Magaliesmoot AH,Pretoria,TSH_55
+7993641,Soshanguve GG,Soshanguve,TSH_94
+7993642,Soshanguve S,Soshanguve,TSH_26
+7993643,Mamelodi Ext 18,Mamelodi,TSH_97
+7993644,Soshanguve T,Soshanguve,TSH_25
+7993645,Soshanguve P,Soshanguve,TSH_88
+7993646,Kanana,Hammanskraal,TSH_49
+7993647,Waverley,Pretoria,TSH_52
+7993648,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993649,Mabopane Unit D,Mabopane,TSH_20
+7993650,Soshanguve South Ext 10,Soshanguve,TSH_37
+7993651,Zithobeni SP,Zithobeni,TSH_105
+7993652,Soshanguve South Ext 4,Soshanguve,TSH_37
+7993653,Soshanguve East,Soshanguve,TSH_90
+7993654,Rietondale,Pretoria,TSH_84
+7993655,Soshanguve GG,Soshanguve,TSH_94
+7993656,Winterveld Ext 1,Winterveld,TSH_9
+7993657,Phumolong,Saulsville,TSH_71
+7993658,Soshanguve P,Soshanguve,TSH_88
+7993659,Soshanguve A,Soshanguve,TSH_90
+7993660,Soshanguve South Ext 2,Soshanguve,TSH_89
+7993661,Atteridgeville SP,Atteridgeville,TSH_62
+7993662,Faerie Glen,Pretoria,TSH_44
+7993663,Mahube Valley,Mamelodi,TSH_17
+7993664,Danville,Pretoria,TSH_60
+7993665,Villieria,Pretoria,TSH_53
+7993666,Jeffersville,Saulsville,TSH_72
+7993667,Soshanguve BB,Soshanguve,TSH_94
+7993668,Mamelodi Ext 8,Mamelodi,TSH_17
+7993669,Soshanguve Ext 13,Soshanguve,TSH_37
+7993670,Soshanguve JJ,Soshanguve,TSH_11
+7993671,Soshanguve NN,Soshanguve,TSH_11
+7993672,Valhalla,Centurion,TSH_66
+7993673,Soshanguve AA,Soshanguve,TSH_29
+7993674,Soshanguve TT,Soshanguve,TSH_89
+7993675,Soshanguve South Ext 4,Soshanguve,TSH_90
+7993676,Phumolong,Saulsville,TSH_71
+7993677,Mabopane Unit E,Mabopane,TSH_29
+7993678,Saulsville SP,Saulsville,TSH_72
+7993679,Pretoria North,Pretoria,TSH_2
+7993680,Soshanguve NN,Soshanguve,TSH_11
+7993681,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7993682,Stinkwater C,Stinkwater,TSH_13
+7993683,Winterveld Ext 1,Winterveld,TSH_9
+7993684,Sekampaneng,Temba,TSH_8
+7993685,Valhalla,Centurion,TSH_66
+7993686,Refilwe SP,Refilwe,TSH_99
+7993687,Wolmer,Pretoria,TSH_2
+7993688,New Eersterus SP,New Eersterus,TSH_14
+7993689,Thaba Tshwane,Pretoria,TSH_59
+7993690,Soshanguve L,Soshanguve,TSH_35
+7993691,Laudium SP,Laudium,TSH_61
+7993692,Soshanguve GG,Soshanguve,TSH_11
+7993693,Mabopane Unit D,Mabopane,TSH_20
+7993694,Zithobeni SP,Zithobeni,TSH_102
+7993695,Soshanguve FF,Soshanguve,TSH_94
+7993696,Ramotse SP,Ramotse,TSH_73
+7993697,Ekangala Section A,Ekangala,TSH_104
+7993698,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7993699,Grootfontein Country Estates,Grootfontein,TSH_91
+7993700,Soshanguve South Ext 4,Soshanguve,TSH_37
+7993701,Phumulamcashi Buffer Zone,Mamelodi,TSH_18
+7993702,Zithobeni SP,Zithobeni,TSH_102
+7993703,Zwartkop,Centurion,TSH_78
+7993704,Soshanguve South Ext 8,Soshanguve,TSH_39
+7993705,Mamelodi Ext 3,Mamelodi,TSH_15
+7993706,Mabopane Unit C,Mabopane,TSH_22
+7993707,Mamelodi Ext 3,Mamelodi,TSH_15
+7993708,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993709,Winterveld Ext 1,Winterveld,TSH_9
+7993710,New Eersterus SP,New Eersterus,TSH_95
+7993711,Ekangala SP,Ekangala,TSH_104
+7993712,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7993713,Atteridgeville SP,Atteridgeville,TSH_62
+7993714,Mountain View,Pretoria,TSH_1
+7993715,Pretoria Central,Pretoria,TSH_80
+7993716,Mabopane Unit B,Mabopane,TSH_21
+7993717,Atteridgeville SP,Atteridgeville,TSH_62
+7993718,Sunnyside,Pretoria,TSH_59
+7993719,Soshanguve S,Soshanguve,TSH_26
+7993720,Stinkwater C,Stinkwater,TSH_95
+7993721,White City,Mamelodi,TSH_23
+7993722,Arcadia,Pretoria,TSH_58
+7993723,Eersterust Ext 5,Eersterust,TSH_43
+7993724,Pretoria Central,Pretoria,TSH_81
+7993725,Soshanguve South Ext 2,Soshanguve,TSH_39
+7993726,Lotus Gardens,Pretoria,TSH_7
+7993727,East Lynne,Pretoria,TSH_52
+7993728,Ekangala Section D,Ekangala,TSH_103
+7993729,Nellmapius Ext 3,Nellmapius,TSH_86
+7993730,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7993731,Mashemong SP,Mashemong,TSH_76
+7993732,Mamelodi BA1,Mamelodi,TSH_67
+7993733,Winterveld Ext 1,Winterveld,TSH_24
+7993734,Vergenoeg,Saulsville,TSH_71
+7993735,Soshanguve H,Soshanguve,TSH_34
+7993736,Mamelodi Seventeens,Mamelodi,TSH_18
+7993737,Danville,Pretoria,TSH_60
+7993738,West Park,Pretoria,TSH_3
+7993739,Jeffersville,Saulsville,TSH_72
+7993740,Soshanguve South Ext 1,Soshanguve,TSH_39
+7993741,Soshanguve South Ext 2,Soshanguve,TSH_39
+7993742,Mamelodi Fourteens,Mamelodi,TSH_18
+7993743,Mamelodi JB3,Mamelodi,TSH_67
+7993744,Atteridgeville SP,Atteridgeville,TSH_62
+7993745,Soshanguve P,Soshanguve,TSH_88
+7993746,Sinoville,Pretoria,TSH_50
+7993747,La Montagne,Pretoria,TSH_41
+7993748,Kameeldrift SH,Kameeldrift,TSH_87
+7993749,Soshanguve PP 2,Soshanguve,TSH_25
+7993750,Mamelodi Sixteens,Mamelodi,TSH_18
+7993751,Mamelodi Ext 5,Mamelodi,TSH_16
+7993752,Mamelodi Ext 6,Mamelodi,TSH_10
+7993753,Ramotse SP,Ramotse,TSH_73
+7993754,Mamelodi Fifteens,Mamelodi,TSH_18
+7993755,Naledi,Mamelodi,TSH_6
+7993756,Soshanguve PP 1,Soshanguve,TSH_25
+7993757,Soshanguve R,Soshanguve,TSH_26
+7993758,Soshanguve G,Soshanguve,TSH_33
+7993759,Mamelodi Ext 6,Mamelodi,TSH_40
+7993760,Kanana,Hammanskraal,TSH_49
+7993761,Winterveld Ext 1,Winterveld,TSH_24
+7993762,Soshanguve A,Soshanguve,TSH_90
+7993763,Mamelodi Ext 5,Mamelodi,TSH_16
+7993764,Mamelodi Ext 20,Mamelodi,TSH_17
+7993765,Winterveld Ext 1,Winterveld,TSH_9
+7993766,Vastfontein AH,Vastfontein,TSH_95
+7993767,Ramotse SP,Ramotse,TSH_73
+7993768,Soshanguve H,Soshanguve,TSH_34
+7993769,Rens Town,Hammanskraal,TSH_49
+7993770,Soshanguve G,Soshanguve,TSH_33
+7993771,Soshanguve South Ext 4,Soshanguve,TSH_89
+7993772,Eersterust Ext 6,Eersterust,TSH_43
+7993773,Ekangala SP,Ekangala,TSH_104
+7993774,Stinkwater D,Stinkwater,TSH_95
+7993775,Theresapark,Akasia,TSH_98
+7993776,Mamelodi LC5,Mamelodi,TSH_23
+7993777,Soshanguve P,Soshanguve,TSH_88
+7993778,Hermanstad,Pretoria,TSH_1
+7993779,Phumulamcashi Buffer Zone,Mamelodi,TSH_18
+7993780,Mamelodi Ext 4,Mamelodi,TSH_16
+7993781,Winterveld Ext 3,Winterveld,TSH_9
+7993782,Marokolong SP,Marokolong,TSH_74
+7993783,Les Marais,Pretoria,TSH_53
+7993784,Soshanguve JJ,Soshanguve,TSH_11
+7993785,Ekangala Section A,Ekangala,TSH_104
+7993786,Ga-Rankuwa Unit 16,Ga-Rankuwa,TSH_30
+7993787,Soshanguve X,Soshanguve,TSH_27
+7993788,Mooikloof,Pretoria,TSH_91
+7993789,Spruit,Mooiplaas,TSH_70
+7993790,Erasmia,Centurion,TSH_61
+7993791,Mamelodi Ext 22,Mamelodi,TSH_10
+7993792,Laudium Ext 2,Laudium,TSH_61
+7993793,Atteridgeville SP,Atteridgeville,TSH_62
+7993794,Nellmapius Ext 4,Nellmapius,TSH_86
+7993795,Soshanguve JJ,Soshanguve,TSH_11
+7993796,Lotus Gardens,Pretoria,TSH_7
+7993797,Mamelodi Ext 4,Mamelodi,TSH_16
+7993798,Soshanguve TT,Soshanguve,TSH_89
+7993799,Soshanguve South Ext 10,Soshanguve,TSH_37
+7993800,Tshwane NU,Tshwane NU,TSH_105
+7993801,Laudium Ext 2,Laudium,TSH_61
+7993802,Soshanguve LL,Soshanguve,TSH_11
+7993803,Soshanguve H,Soshanguve,TSH_34
+7993804,Winterveld Ext 3,Winterveld,TSH_9
+7993805,Stinkwater B,Stinkwater,TSH_13
+7993806,Soshanguve F,Soshanguve,TSH_29
+7993807,Kudube Unit 10,Temba,TSH_75
+7993808,Ekangala SP,Ekangala,TSH_104
+7993809,Wolmer,Pretoria,TSH_2
+7993810,Tshwane NU,Tshwane NU,TSH_105
+7993811,Atteridgeville SP,Atteridgeville,TSH_63
+7993812,Atteridgeville SP,Atteridgeville,TSH_51
+7993813,Soshanguve AA,Soshanguve,TSH_33
+7993814,Mamelodi Ext 22,Mamelodi,TSH_10
+7993815,Boadwalk,Kungwini Part 2,TSH_101
+7993816,Soshanguve South Ext 8,Soshanguve,TSH_37
+7993817,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7993818,Montana Park,Pretoria,TSH_87
+7993819,Highveld,Centurion,TSH_65
+7993820,Jeffersville,Saulsville,TSH_71
+7993821,Majaneng SP,Majaneng,TSH_76
+7993822,Mamelodi Ext 8,Mamelodi,TSH_17
+7993823,Temba Unit 6,Temba,TSH_75
+7993824,Soshanguve W,Soshanguve,TSH_27
+7993825,Arcadia,Pretoria,TSH_92
+7993826,Winternest AH,Akasia,TSH_98
+7993827,Winterveld Ext 1,Winterveld,TSH_24
+7993828,Khalambazo,Mamelodi,TSH_23
+7993829,Soshanguve GG,Soshanguve,TSH_94
+7993830,Mooikloof,Pretoria,TSH_91
+7993831,Stinkwater B,Stinkwater,TSH_13
+7993832,Eersterust Ext 6,Eersterust,TSH_43
+7993833,Mamelodi OD2,Mamelodi,TSH_23
+7993834,Atteridgeville SP,Atteridgeville,TSH_62
+7993835,Saulsville SP,Saulsville,TSH_68
+7993836,Arcadia,Pretoria,TSH_92
+7993837,Soshanguve HH,Soshanguve,TSH_94
+7993838,Soshanguve GG,Soshanguve,TSH_94
+7993839,Marokolong SP,Marokolong,TSH_74
+7993840,Soshanguve H,Soshanguve,TSH_34
+7993841,Stinkwater B,Stinkwater,TSH_13
+7993842,Soshanguve HH,Soshanguve,TSH_11
+7993843,Hermanstad,Pretoria,TSH_1
+7993844,Mabopane CV,Mabopane,TSH_29
+7993845,Winterveld Ext 1,Winterveld,TSH_9
+7993846,Ga-Rankuwa SP,Ga-Rankuwa,TSH_32
+7993847,Mamelodi Sun Valley,Mamelodi,TSH_38
+7993848,Soshanguve G,Soshanguve,TSH_33
+7993849,Mabopane CV,Mabopane,TSH_29
+7993850,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7993851,Winterveld Ext 1,Winterveld,TSH_9
+7993852,Nellmapius Ext 3,Nellmapius,TSH_86
+7993853,Soshanguve H,Soshanguve,TSH_34
+7993854,Soshanguve K,Soshanguve,TSH_34
+7993855,Daspoort,Pretoria,TSH_1
+7993856,Soshanguve Y,Soshanguve,TSH_88
+7993857,Saulsville SP,Saulsville,TSH_72
+7993858,Mamelodi Ext 6,Mamelodi,TSH_10
+7993859,Winterveld Ext 1,Winterveld,TSH_9
+7993860,Arcadia,Pretoria,TSH_92
+7993861,Mamelodi Ext 8,Mamelodi,TSH_17
+7993862,Vergenoeg,Saulsville,TSH_71
+7993863,Groenkloof,Pretoria,TSH_59
+7993864,Mamelodi MD1,Mamelodi,TSH_6
+7993865,Mamelodi LC5,Mamelodi,TSH_23
+7993866,West Park,Pretoria,TSH_3
+7993867,Pretoria North,Pretoria,TSH_2
+7993868,New Eersterus SP,New Eersterus,TSH_14
+7993869,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7993870,Eastwood 1,Mamelodi,TSH_23
+7993871,Hazelwood,Pretoria,TSH_82
+7993872,Valhalla,Centurion,TSH_66
+7993873,Highveld,Centurion,TSH_65
+7993874,New Eersterus SP,New Eersterus,TSH_95
+7993875,Ekangala Section D,Ekangala,TSH_103
+7993876,Soshanguve W,Soshanguve,TSH_27
+7993877,Rethabiseng Ext 1,Rethabiseng,TSH_103
+7993878,Atteridgeville SP,Atteridgeville,TSH_72
+7993879,Laudium Ext 2,Laudium,TSH_61
+7993880,Schurwe Plaas Mine,Centurion,TSH_61
+7993881,Mamelodi Fourteens,Mamelodi,TSH_16
+7993882,Zithobeni SP,Zithobeni,TSH_105
+7993883,Philip Nel Park,Pretoria,TSH_60
+7993884,Saulsville SP,Saulsville,TSH_72
+7993885,Mamelodi Seventeens,Mamelodi,TSH_18
+7993886,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7993887,Mamelodi Ext 8,Mamelodi,TSH_17
+7993888,Stinkwater D,Stinkwater,TSH_95
+7993889,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7993890,Soshanguve S,Soshanguve,TSH_26
+7993891,Atteridgeville SP,Atteridgeville,TSH_62
+7993892,Ga-Rankuwa Unit 3,Ga-Rankuwa,TSH_32
+7993893,Soshanguve AA,Soshanguve,TSH_29
+7993894,Soshanguve AA,Soshanguve,TSH_29
+7993895,Mamelodi BA1,Mamelodi,TSH_67
+7993896,Soshanguve G,Soshanguve,TSH_33
+7993897,Saulsville SP,Saulsville,TSH_63
+7993898,Eersterust Ext 6,Eersterust,TSH_43
+7993899,Saulsville SP,Saulsville,TSH_63
+7993900,Ramotse SP,Ramotse,TSH_73
+7993901,Soshanguve AA,Soshanguve,TSH_33
+7993902,Mamelodi Fourteens,Mamelodi,TSH_18
+7993903,Nellmapius Ext 4,Nellmapius,TSH_86
+7993904,Pretoria North,Pretoria,TSH_2
+7993905,Atteridgeville SP,Atteridgeville,TSH_72
+7993906,Ekangala SP,Ekangala,TSH_104
+7993907,Eersterust Ext 2,Eersterust,TSH_43
+7993908,Vergenoeg,Saulsville,TSH_107
+7993909,Claremont,Pretoria,TSH_1
+7993910,Annlin,Pretoria,TSH_50
+7993911,Wildebeesthoek SH,Pretoria,TSH_31
+7993912,Mamelodi Ext 5,Mamelodi,TSH_16
+7993913,Stinkwater D,Stinkwater,TSH_95
+7993914,Mamelodi JB3,Mamelodi,TSH_67
+7993915,Olievenhoutbos,Olievenhoutbos,TSH_106
+7993916,Hatfield,Pretoria,TSH_56
+7993917,Saulsville SP,Saulsville,TSH_72
+7993918,Mamelodi Ext 8,Mamelodi,TSH_17
+7993919,Soshanguve GG,Soshanguve,TSH_94
+7993920,Soshanguve F,Soshanguve,TSH_29
+7993921,Soshanguve NN,Soshanguve,TSH_11
+7993922,Bultfontein AH,Bultfontein,TSH_95
+7993923,Moretele View,Mamelodi,TSH_28
+7993924,Mamelodi Ext 18,Mamelodi,TSH_97
+7993925,Eersterust Ext 6,Eersterust,TSH_43
+7993926,Selbourne Site,Mamelodi,TSH_93
+7993927,Chris Hani,Soshanguve,TSH_25
+7993928,Mamelodi QD4,Mamelodi,TSH_6
+7993929,Wonderboom South,Pretoria,TSH_54
+7993930,Claudius,Centurion,TSH_61
+7993931,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993932,Olievenhoutbos Ext 26,Olievenhoutbos,TSH_106
+7993933,New Eersterus SP,New Eersterus,TSH_14
+7993934,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7993935,Stinkwater D,Stinkwater,TSH_95
+7993936,Soshanguve VV,Soshanguve,TSH_36
+7993937,Eloffsdal,Pretoria,TSH_1
+7993938,Soshanguve HH,Soshanguve,TSH_94
+7993939,Moretele View,Mamelodi,TSH_28
+7993940,Mandela Village SP,Mandela Village,TSH_49
+7993941,Soshanguve R,Soshanguve,TSH_26
+7993942,Clubview,Centurion,TSH_66
+7993943,Selbourne Site,Mamelodi,TSH_93
+7993944,Atteridgeville SP,Atteridgeville,TSH_63
+7993945,Lotus Gardens Ext 2,Pretoria,TSH_7
+7993946,Soshanguve W,Soshanguve,TSH_27
+7993947,Ramotse SP,Ramotse,TSH_73
+7993948,Sokhulumi,Thembisile,TSH_105
+7993949,Soshanguve L Ext 1,Soshanguve,TSH_35
+7993950,Ramotse SP,Ramotse,TSH_73
+7993951,Soshanguve P,Soshanguve,TSH_88
+7993952,Soshanguve L,Soshanguve,TSH_35
+7993953,Hatfield,Pretoria,TSH_56
+7993954,Mamelodi Sixteens,Mamelodi,TSH_18
+7993955,Mamelodi Ext 22,Mamelodi,TSH_10
+7993956,Mamelodi Sixteens,Mamelodi,TSH_18
+7993957,Mamelodi Ext 5,Mamelodi,TSH_16
+7993958,Soshanguve South Ext 4,Soshanguve,TSH_89
+7993959,Tshwane NU,Tshwane NU,TSH_73
+7993960,Atteridgeville SP,Atteridgeville,TSH_51
+7993961,Laudium SP,Laudium,TSH_61
+7993962,Soshanguve FF,Soshanguve,TSH_94
+7993963,Mamelodi MD1,Mamelodi,TSH_6
+7993964,Mamelodi ND6,Mamelodi,TSH_23
+7993965,Soshanguve MM,Soshanguve,TSH_33
+7993966,Vergenoeg,Saulsville,TSH_71
+7993967,Soshanguve R,Soshanguve,TSH_26
+7993968,Lyttelton,Centurion,TSH_57
+7993969,Phumolong,Saulsville,TSH_71
+7993970,Soshanguve South Ext 9,Soshanguve,TSH_37
+7993971,Rietfontein,Pretoria,TSH_53
+7993972,Ekangala Section A,Ekangala,TSH_104
+7993973,Mamelodi Ext 6,Mamelodi,TSH_40
+7993974,Naledi,Mamelodi,TSH_6
+7993975,Boadwalk,Kungwini Part 2,TSH_101
+7993976,Eersterust Ext 6,Eersterust,TSH_43
+7993977,Soshanguve F,Soshanguve,TSH_33
+7993978,Tshwane NU,Tshwane NU,TSH_102
+7993979,Slovo,Winterveld,TSH_19
+7993980,Pretoria SP,Pretoria,TSH_7
+7993981,Atteridgeville SP,Atteridgeville,TSH_62
+7993982,Soshanguve L,Soshanguve,TSH_35
+7993983,Newlands,Pretoria,TSH_83
+7993984,Soshanguve South Ext 4,Soshanguve,TSH_89
+7993985,Saulsville SP,Saulsville,TSH_63
+7993986,Mamelodi Ext 5,Mamelodi,TSH_16
+7993987,Saulsville SP,Saulsville,TSH_63
+7993988,Suurman SP,Suurman,TSH_8
+7993989,Mamelodi Fourteens,Mamelodi,TSH_16
+7993990,Soshanguve South Ext 4,Soshanguve,TSH_89
+7993991,Nellmapius Ext 4,Nellmapius,TSH_86
+7993992,New Eersterus SP,New Eersterus,TSH_95
+7993993,Tshwane NU,Tshwane NU,TSH_105
+7993994,Soshanguve H,Soshanguve,TSH_34
+7993995,Soshanguve P,Soshanguve,TSH_88
+7993996,Ga-Rankuwa SP,Ga-Rankuwa,TSH_39
+7993997,Soshanguve GG,Soshanguve,TSH_94
+7993998,Olievenhoutbos,Olievenhoutbos,TSH_106
+7993999,Soshanguve X,Soshanguve,TSH_27
+7994000,Winterveld Ext 1,Winterveld,TSH_9
+7994001,Villieria,Pretoria,TSH_52
+7994002,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7994003,Soshanguve S,Soshanguve,TSH_27
+7994004,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7994005,Nellmapius Ext 4,Nellmapius,TSH_86
+7994006,Sunnyside,Pretoria,TSH_92
+7994007,Winterveld Ext 1,Winterveld,TSH_24
+7994008,Kilner Park,Pretoria,TSH_52
+7994009,Saulsville SP,Saulsville,TSH_72
+7994010,Atteridgeville SP,Atteridgeville,TSH_62
+7994011,Soshanguve R,Soshanguve,TSH_27
+7994012,Eersterust Ext 2,Eersterust,TSH_43
+7994013,Arcadia,Pretoria,TSH_81
+7994014,Mamelodi Ext 2,Mamelodi,TSH_18
+7994015,Kosmosdal,Centurion,TSH_77
+7994016,Soshanguve JJ,Soshanguve,TSH_11
+7994017,Odinburg Gardens,Mabopane,TSH_22
+7994018,Soshanguve R,Soshanguve,TSH_26
+7994019,Winterveld Ext 1,Winterveld,TSH_9
+7994020,Sokhulumi,Thembisile,TSH_105
+7994021,Atteridgeville SP,Atteridgeville,TSH_62
+7994022,Soshanguve G,Soshanguve,TSH_33
+7994023,Soshanguve L,Soshanguve,TSH_35
+7994024,Mamelodi Fifteens,Mamelodi,TSH_18
+7994025,Vergenoeg,Saulsville,TSH_107
+7994026,Eastwood 1,Mamelodi,TSH_93
+7994027,Soshanguve NN,Soshanguve,TSH_11
+7994028,Eersterust Ext 2,Eersterust,TSH_43
+7994029,Laudium SP,Laudium,TSH_61
+7994030,Mamelodi Ext 22,Mamelodi,TSH_10
+7994031,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7994032,Die Hoewes,Centurion,TSH_78
+7994033,Soshanguve K,Soshanguve,TSH_34
+7994034,Lotus Gardens,Pretoria,TSH_7
+7994035,Ekangala Section A,Ekangala,TSH_104
+7994036,Nellmapius Ext 4,Nellmapius,TSH_86
+7994037,Olievenhoutbos,Olievenhoutbos,TSH_106
+7994038,Olievenhoutbos Ext 24,Olievenhoutbos,TSH_106
+7994039,Marokolong SP,Marokolong,TSH_49
+7994040,Soshanguve X,Soshanguve,TSH_27
+7994041,"The Reeds Ext 17, 45",Centurion,TSH_77
+7994042,Mamelodi Ext 18,Mamelodi,TSH_97
+7994043,Soshanguve South Ext 4,Soshanguve,TSH_89
+7994044,Ga-Rankuwa Unit 2,Ga-Rankuwa,TSH_31
+7994045,Mabopane A,Mabopane,TSH_12
+7994046,Lindopark,Pretoria,TSH_52
+7994047,Soshanguve W,Soshanguve,TSH_27
+7994048,Soshanguve R,Soshanguve,TSH_27
+7994049,Nellmapius Ext 4,Nellmapius,TSH_28
+7994050,Soshanguve Y,Soshanguve,TSH_88
+7994051,Ramotse SP,Ramotse,TSH_73
+7994052,Soshanguve H,Soshanguve,TSH_34
+7994053,Mamelodi Ext 11,Mamelodi,TSH_97
+7994054,Atteridgeville SP,Atteridgeville,TSH_62
+7994055,Erasmia,Centurion,TSH_61
+7994056,Mamelodi Ext 18,Mamelodi,TSH_97
+7994057,Phumulamcashi Buffer Zone,Mamelodi,TSH_15
+7994058,West Park,Pretoria,TSH_3
+7994059,Erasmia,Centurion,TSH_61
+7994060,Stinkwater B,Stinkwater,TSH_13
+7994061,Soshanguve South Ext 4,Soshanguve,TSH_89
+7994062,Tsakane,Mamelodi,TSH_28
+7994063,Mamelodi Ext 8,Mamelodi,TSH_17
+7994064,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7994065,Phumolong,Saulsville,TSH_71
+7994066,Stinkwater D,Stinkwater,TSH_95
+7994067,Soshanguve South Ext 3,Soshanguve,TSH_89
+7994068,Mamelodi QD4,Mamelodi,TSH_6
+7994069,Stinkwater C,Stinkwater,TSH_13
+7994070,Mamelodi Ext 18,Mamelodi,TSH_97
+7994071,Atteridgeville SP,Atteridgeville,TSH_51
+7994072,Eersterust Ext 4,Eersterust,TSH_43
+7994073,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7994074,Soshanguve South Ext 4,Soshanguve,TSH_89
+7994075,Winterveld Ext 1,Winterveld,TSH_9
+7994076,Winterveld Ext 1,Winterveld,TSH_24
+7994077,Ekangala SP,Ekangala,TSH_104
+7994078,Mamelodi Ext 18,Mamelodi,TSH_97
+7994079,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7994080,Erasmia,Centurion,TSH_61
+7994081,Theresapark,Akasia,TSH_98
+7994082,Olievenhoutbos,Olievenhoutbos,TSH_106
+7994083,Jeffersville,Saulsville,TSH_72
+7994084,Nellmapius Ext 3,Nellmapius,TSH_86
+7994085,Thaba Tshwane,Pretoria,TSH_51
+7994086,Mabopane CV,Mabopane,TSH_29
+7994087,Wonderboom South,Pretoria,TSH_54
+7994088,Mamelodi JB3,Mamelodi,TSH_67
+7994089,Winterveld Ext 1,Winterveld,TSH_24
+7994090,Saulsville SP,Saulsville,TSH_63
+7994091,Thaba Tshwane,Pretoria,TSH_51
+7994092,Schurwe Plaas Mine,Centurion,TSH_61
+7994093,Spruit,Mooiplaas,TSH_70
+7994094,Mamelodi PD3,Mamelodi,TSH_6
+7994095,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_77
+7994096,Mamelodi AA4,Mamelodi,TSH_6
+7994097,Erasmia,Centurion,TSH_61
+7994098,Daspoort,Pretoria,TSH_1
+7994099,Phumulamcashi Buffer Zone,Mamelodi,TSH_18
+7994100,Mamelodi Ext 18,Mamelodi,TSH_97
+7994101,Atteridgeville SP,Atteridgeville,TSH_62
+7994102,Pretoria West,Pretoria,TSH_58
+7994103,Highveld,Centurion,TSH_65
+7994104,Ekangala SP,Ekangala,TSH_104
+7994105,Sekampaneng,Temba,TSH_8
+7994106,Pretoria Central,Pretoria,TSH_58
+7994107,Honingnestkrans SH,Haakdoornboom,TSH_96
+7994108,Mabopane A,Mabopane,TSH_21
+7994109,Arcadia,Pretoria,TSH_92
+7994110,Nellmapius Ext 3,Nellmapius,TSH_86
+7994111,Mamelodi PD3,Mamelodi,TSH_6
+7994112,Ekangala Section A,Ekangala,TSH_104
+7994113,Temba Unit 7,Temba,TSH_75
+7994114,Winterveld Ext 1,Winterveld,TSH_24
+7994115,Soshanguve Y,Soshanguve,TSH_88
+7994116,Jan Niemand Park,Pretoria,TSH_43
+7994117,Ga-Rankuwa SP,Ga-Rankuwa,TSH_39
+7994118,Soshanguve South Ext 4,Soshanguve,TSH_37
+7994119,Tsebe SP,Tsebe,TSH_22
+7994120,Mamelodi Ext 22,Mamelodi,TSH_10
+7994121,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7994122,Mamelodi MD1,Mamelodi,TSH_6
+7994123,Daspoort,Pretoria,TSH_1
+7994124,Naledi,Mamelodi,TSH_6
+7994125,Vergenoeg,Saulsville,TSH_107
+7994126,Temba Unit 6,Temba,TSH_75
+7994127,Atteridgeville SP,Atteridgeville,TSH_62
+7994128,Winterveld Ext 1,Winterveld,TSH_29
+7994129,Knoppieslaagte AH,Centurion,TSH_106
+7994130,Stinkwater B,Stinkwater,TSH_13
+7994131,Mamelodi Ext 17,Mamelodi,TSH_93
+7994132,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7994133,Jeffersville,Saulsville,TSH_72
+7994134,Spruit,Mooiplaas,TSH_70
+7994135,Eastwood 1,Mamelodi,TSH_23
+7994136,Nellmapius Ext 4,Nellmapius,TSH_86
+7994137,Naledi,Mamelodi,TSH_6
+7994138,Olievenhoutbos Ext 26,Olievenhoutbos,TSH_106
+7994139,Mamelodi Ext 8,Mamelodi,TSH_17
+7994140,New Eersterus SP,New Eersterus,TSH_95
+7994141,Stinkwater C,Stinkwater,TSH_13
+7994142,Arcadia,Pretoria,TSH_81
+7994143,Mamelodi Ext 5,Mamelodi,TSH_16
+7994144,Nellmapius Ext 4,Nellmapius,TSH_86
+7994145,Soshanguve South Ext 4,Soshanguve,TSH_89
+7994146,Phumulamcashi Buffer Zone,Mamelodi,TSH_15
+7994147,Soshanguve L,Soshanguve,TSH_35
+7994148,Saulsville SP,Saulsville,TSH_72
+7994149,Soshanguve HH,Soshanguve,TSH_11
+7994150,Winterveld Ext 1,Winterveld,TSH_9
+7994151,Mamelodi Ext 8,Mamelodi,TSH_17
+7994152,Mamelodi Ext 2,Mamelodi,TSH_16
+7994153,Winterveld Ext 1,Winterveld,TSH_9
+7994154,Thatchfield,Centurion,TSH_64
+7994155,Mamelodi Ext 18,Mamelodi,TSH_97
+7994156,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7994157,Itsoseng,Mabopane,TSH_20
+7994158,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7994159,Soshanguve X,Soshanguve,TSH_27
+7994160,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7994161,Mamelodi S&S,Mamelodi,TSH_23
+7994162,Mamelodi Ext 5,Mamelodi,TSH_16
+7994163,Mamelodi S&S,Mamelodi,TSH_23
+7994164,Mamelodi Ext 5,Mamelodi,TSH_16
+7994165,Mamelodi MD1,Mamelodi,TSH_6
+7994166,Saulsville SP,Saulsville,TSH_63
+7994167,West Park,Pretoria,TSH_3
+7994168,Majaneng SP,Majaneng,TSH_76
+7994169,Mamelodi Ext 7,Mamelodi,TSH_17
+7994170,Soshanguve L,Soshanguve,TSH_36
+7994171,Mandela Village SP,Mandela Village,TSH_49
+7994172,Saulsville SP,Saulsville,TSH_63
+7994173,Soshanguve South Ext 9,Soshanguve,TSH_37
+7994174,Mamelodi Ext 2,Mamelodi,TSH_18
+7994175,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7994176,Eastwood 1,Mamelodi,TSH_23
+7994177,Soshanguve Ext 13,Soshanguve,TSH_37
+7994178,Laudium Ext 2,Laudium,TSH_61
+7994179,Nellmapius Ext 4,Nellmapius,TSH_86
+7994180,Loftus Stadium,Pretoria,TSH_56
+7994181,Saulsville SP,Saulsville,TSH_72
+7994182,Mamelodi Ext 22,Mamelodi,TSH_10
+7994183,Mamelodi Ext 10,Mamelodi,TSH_17
+7994184,Mamelodi Fifteens,Mamelodi,TSH_18
+7994185,Olievenhoutbos Ext 20,Olievenhoutbos,TSH_106
+7994186,Atteridgeville SP,Atteridgeville,TSH_51
+7994187,Mamelodi Ext 10,Mamelodi,TSH_17
+7994188,Montana Tuine,Pretoria,TSH_96
+7994189,Mandela Village SP,Mandela Village,TSH_49
+7994190,Stinkwater D,Stinkwater,TSH_95
+7994191,Mamelodi Ext 22,Mamelodi,TSH_10
+7994192,Spruit,Mooiplaas,TSH_70
+7994193,Mamelodi S&S,Mamelodi,TSH_23
+7994194,New Eersterus SP,New Eersterus,TSH_95
+7994195,Mamelodi Ext 11,Mamelodi,TSH_97
+7994196,Mabopane A,Mabopane,TSH_12
+7994197,Sekampaneng,Temba,TSH_8
+7994198,Saulsville SP,Saulsville,TSH_68
+7994199,Sunnyside,Pretoria,TSH_59
+7994200,Winterveld Ext 1,Winterveld,TSH_9
+7994201,Tshwane NU,Tshwane NU,TSH_99
+7994202,Atteridgeville SP,Atteridgeville,TSH_51
+7994203,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7994204,Saulsville SP,Saulsville,TSH_68
+7994205,Winterveld Ext 1,Winterveld,TSH_24
+7994206,Mamelodi S&S,Mamelodi,TSH_23
+7994207,Soshanguve PP3,Soshanguve,TSH_25
+7994208,Mamelodi Ext 17,Mamelodi,TSH_93
+7994209,Winterveld Ext 1,Winterveld,TSH_9
+7994210,Mamelodi Fourteens,Mamelodi,TSH_18
+7994211,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7994212,Mamelodi Ext 22,Mamelodi,TSH_10
+7994213,"Atteridgeville Ext 3, 7",Atteridgeville,TSH_68
+7994214,Mamelodi Fourteens,Mamelodi,TSH_18
+7994215,Wonderboom South,Pretoria,TSH_54
+7994216,Prinshof,Pretoria,TSH_58
+7994217,Soshanguve South Ext 5,Soshanguve,TSH_90
+7994218,Mamelodi Ext 12,Mamelodi,TSH_97
+7994219,Meyerspark,Pretoria,TSH_41
+7994220,Kameeldrift SH,Kameeldrift,TSH_87
+7994221,Soshanguve SS Ext 4,Soshanguve,TSH_88
+7994222,Mamelodi SA5,Mamelodi,TSH_6
+7994223,Mamelodi EB2,Mamelodi,TSH_38
+7994224,Soshanguve X,Soshanguve,TSH_27
+7994225,Phumulamcashi Buffer Zone,Mamelodi,TSH_28
+7994226,Mamelodi Ext 17,Mamelodi,TSH_93
+7994227,Atteridgeville SP,Atteridgeville,TSH_62
+7994228,Eersterust Ext 2,Eersterust,TSH_43
+7994229,Soshanguve South Ext 10,Soshanguve,TSH_37
+7994230,Mamelodi Seventeens,Mamelodi,TSH_18
+7994231,Pretoria Central,Pretoria,TSH_58
+7994232,Winterveld Ext 1,Winterveld,TSH_24
+7994233,Soshanguve LL,Soshanguve,TSH_11
+7994234,Pretoria Central,Pretoria,TSH_58
+7994235,Mamelodi Seventeens,Mamelodi,TSH_18
+7994236,Mamelodi Ext 22,Mamelodi,TSH_10
+7994237,Boadwalk,Kungwini Part 2,TSH_101
+7994238,Nellmapius Ext 4,Nellmapius,TSH_28
+7994239,Soshanguve V,Soshanguve,TSH_25
+7994240,Sunnyside,Pretoria,TSH_81
+7994241,Nellmapius Ext 4,Nellmapius,TSH_28
+7994242,Winterveld Ext 1,Winterveld,TSH_9
+7994243,Laudium SP,Laudium,TSH_61
+7994244,Mamelodi Ext 10,Mamelodi,TSH_93
+7994245,Soshanguve L Ext 1,Soshanguve,TSH_34
+7994246,Reitvlei View Country Estates,Pretoria,TSH_91
+7994247,Mamelodi CA3,Mamelodi,TSH_67
+7994248,Laudium SP,Laudium,TSH_61
+7994249,Nellmapius Ext 4,Nellmapius,TSH_86
+7994250,Saulsville SP,Saulsville,TSH_68
+7994251,Thaba Tshwane,Pretoria,TSH_51
+7994252,Mamelodi KC4,Mamelodi,TSH_6
+7994253,Majaneng SP,Majaneng,TSH_76
+7994254,Mamelodi CA3,Mamelodi,TSH_67
+7994255,Soshanguve T,Soshanguve,TSH_25
+7994256,Mamelodi S&S,Mamelodi,TSH_23
+7994257,Stinkwater C,Stinkwater,TSH_13
+7994258,Atteridgeville SP,Atteridgeville,TSH_51
+7994259,Chantelle,Akasia,TSH_4
+7994260,Atteridgeville SP,Atteridgeville,TSH_62
+7994261,Mamelodi Ext 5,Mamelodi,TSH_16
+7994262,Sekampaneng,Temba,TSH_8
+7994263,Mamelodi Ext 22,Mamelodi,TSH_10
+7994264,Mandela Village SP,Mandela Village,TSH_49
+7994265,Derdepoort,Pretoria,TSH_87
+7994266,Nellmapius Ext 4,Nellmapius,TSH_28
+7994267,Rietfontein,Pretoria,TSH_53
+7994268,Saulsville SP,Saulsville,TSH_72
+7994269,Mamelodi Ext 6,Mamelodi,TSH_40
+7994270,Eastwood 1,Mamelodi,TSH_23
+7994271,Soshanguve X,Soshanguve,TSH_27
+7994272,Mabopane M,Mabopane,TSH_20
+7994273,Mamelodi Ext 6,Mamelodi,TSH_40
+7994274,Phumolong,Saulsville,TSH_71
+7994275,Mandela Village SP,Mandela Village,TSH_49
+7994276,Mandela Village SP,Mandela Village,TSH_73
+7994277,Tshwane NU,Tshwane NU,TSH_102
+7994278,Saulsville SP,Saulsville,TSH_68
+7994279,Laudium SP,Laudium,TSH_61
+7994280,Cullinan SP,Cullinan,TSH_100
+7994281,Nellmapius Ext 4,Nellmapius,TSH_86
+7994282,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7994283,Soshanguve KK,Soshanguve,TSH_26
+7994284,Mamelodi OD2,Mamelodi,TSH_28
+7994285,Andeon AH,Pretoria,TSH_55
+7994286,Eersterust Ext 3,Eersterust,TSH_43
+7994287,Stinkwater D,Stinkwater,TSH_95
+7994288,Saulsville SP,Saulsville,TSH_72
+7994289,Eersterust Ext 6,Eersterust,TSH_43
+7994290,Olievenhoutbos Ext 24,Olievenhoutbos,TSH_106
+7994291,Rua Vista,Centurion,TSH_77
+7994292,Hornsoord AH,Pretoria,TSH_55
+7994293,Winterveld Ext 1,Winterveld,TSH_24
+7994294,Ga-Rankuwa Unit 1,Ga-Rankuwa,TSH_31
+7994295,Nellmapius Ext 4,Nellmapius,TSH_86
+7994296,Mamelodi KC4,Mamelodi,TSH_67
+7994297,Nellmapius Ext 4,Nellmapius,TSH_86
+7994298,Mamelodi ND6,Mamelodi,TSH_23
+7994299,Nellmapius Ext 3,Nellmapius,TSH_86
+7994300,Pretoria Central,Pretoria,TSH_80
+7994301,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_68
+7994302,Mountain View,Pretoria,TSH_1
+7994303,Mamelodi Fourteens,Mamelodi,TSH_18
+7994304,Spruit,Mooiplaas,TSH_70
+7994305,Mamelodi AA4,Mamelodi,TSH_6
+7994306,Tshwane NU,Tshwane NU,TSH_102
+7994307,Mamelodi OD2,Mamelodi,TSH_28
+7994308,Mamelodi PD3,Mamelodi,TSH_6
+7994309,Soshanguve V,Soshanguve,TSH_25
+7994310,Nellmapius Ext 4,Nellmapius,TSH_86
+7994311,Winterveld Ext 3,Winterveld,TSH_19
+7994312,Nellmapius SP,Nellmapius,TSH_86
+7994313,Mabopane A,Mabopane,TSH_21
+7994314,Mamelodi Ext 6,Mamelodi,TSH_40
+7994315,Soshanguve H,Soshanguve,TSH_34
+7994316,Bon Accord AH,Bon Accord,TSH_96
+7994317,Mandela Village SP,Mandela Village,TSH_73
+7994318,Sunnyside,Pretoria,TSH_81
+7994319,Kekana Garden SP,Kekana Garden,TSH_73
+7994320,Vergenoeg,Saulsville,TSH_107
+7994321,Olievenhoutbos,Olievenhoutbos,TSH_106
+7994322,Claremont,Pretoria,TSH_1
+7994323,Mamelodi Ext 22,Mamelodi,TSH_10
+7994324,Mamelodi Ext 11,Mamelodi,TSH_97
+7994325,Capital Park,Pretoria,TSH_1
+7994326,Soshanguve South Ext 4,Soshanguve,TSH_89
+7994327,Hatfield,Pretoria,TSH_56
+7994328,Tileba,Pretoria,TSH_98
+7994329,Prinshof,Pretoria,TSH_58
+7994330,Atteridgeville SP,Atteridgeville,TSH_51
+7994331,Laudium SP,Laudium,TSH_61
+7994332,Atteridgeville SP,Atteridgeville,TSH_72
+7994333,Stinkwater D,Stinkwater,TSH_95
+7994334,Mamelodi Ext 5,Mamelodi,TSH_16
+7994335,Klerksoord,Akasia,TSH_98
+7994336,Soshanguve W,Soshanguve,TSH_27
+7994337,Khalambazo,Mamelodi,TSH_23
+7994338,Olievenhoutbos Ext 20,Olievenhoutbos,TSH_106
+7994339,Mamelodi Seventeens,Mamelodi,TSH_18
+7994340,Pretoria Central,Pretoria,TSH_58
+7994341,Nellmapius Ext 4,Nellmapius,TSH_28
+7994342,Vergenoeg,Saulsville,TSH_71
+7994343,Nellmapius Ext 4,Nellmapius,TSH_28
+7994344,Mamelodi EB2,Mamelodi,TSH_38
+7994345,Mamelodi ND6,Mamelodi,TSH_23
+7994346,Mamelodi Ext 10,Mamelodi,TSH_17
+7994347,Laudium SP,Laudium,TSH_61
+7994348,Trevenna,Pretoria,TSH_81
+7994349,Derdepoort AH,Derdepoort,TSH_87
+7994350,Rooihuiskraal Noord,Centurion,TSH_69
+7994351,Mabopane A,Mabopane,TSH_21
+7994352,Schurwe Plaas Mine,Centurion,TSH_61
+7994353,Mamelodi Ext 6,Mamelodi,TSH_40
+7994354,Pretoria West,Pretoria,TSH_3
+7994355,Mabopane A,Mabopane,TSH_12
+7994356,Mamelodi Ext 20,Mamelodi,TSH_17
+7994357,Mabopane A,Mabopane,TSH_21
+7994358,Lotus Gardens,Pretoria,TSH_7
+7994359,Saulsville SP,Saulsville,TSH_63
+7994360,Eersterust Ext 6,Eersterust,TSH_43
+7994361,Winterveld Ext 1,Winterveld,TSH_9
+7994362,Laudium SP,Laudium,TSH_61
+7994363,Soshanguve KK,Soshanguve,TSH_26
+7994364,Jeffersville,Saulsville,TSH_71
+7994365,Saulsville SP,Saulsville,TSH_63
+7994366,Soshanguve Ext 13,Soshanguve,TSH_37
+7994367,Laudium SP,Laudium,TSH_61
+7994368,Olievenhoutbos Ext 24,Olievenhoutbos,TSH_106
+7994369,Nellmapius Ext 4,Nellmapius,TSH_86
+7994370,Mamelodi Ext 6,Mamelodi,TSH_40
+7994371,Mabopane Unit E,Mabopane,TSH_29
+7994372,The Orchards Ext,Akasia,TSH_4
+7994373,Mamelodi Ext 7,Mamelodi,TSH_17
+7994374,Southdowns Irene Country Farm,Centurion,TSH_65
+7994375,Mamelodi Ext 7,Mamelodi,TSH_17
+7994376,Saulsville SP,Saulsville,TSH_63
+7994377,Mamelodi DB1,Mamelodi,TSH_67
+7994378,Ga-Rankuwa SP,Ga-Rankuwa,TSH_32
+7994379,Mamelodi RD5,Mamelodi,TSH_6
+7994380,Nellmapius Ext 4,Nellmapius,TSH_28
+7994381,Jeffersville,Saulsville,TSH_72
+7994382,Mamelodi S&S,Mamelodi,TSH_23
+7994383,Mabopane A,Mabopane,TSH_12
+7994384,Pretoria West,Pretoria,TSH_3
+7994385,Mamelodi CA3,Mamelodi,TSH_67
+7994386,Mamelodi Ext 12,Mamelodi,TSH_40
+7994387,Mamelodi Ext 5,Mamelodi,TSH_16
+7994388,Mamelodi Ext 12,Mamelodi,TSH_40
+7994389,Mamelodi Ext 5,Mamelodi,TSH_16
+7994390,Mamelodi Ext 20,Mamelodi,TSH_17
+7994391,Thaba Tshwane,Pretoria,TSH_51
+7994392,Tsakane,Mamelodi,TSH_28
+7994393,Mamelodi QD4,Mamelodi,TSH_6
+7994394,Mamelodi KC4,Mamelodi,TSH_67
+7994395,Kosmosdal,Centurion,TSH_77
+7994396,Haakdoornboom AH,Haakdoornboom,TSH_96
+7994397,Nellmapius Ext 3,Nellmapius,TSH_86
+7994398,Winterveld Ext 3,Winterveld,TSH_19
+7994399,Mamelodi DB1,Mamelodi,TSH_67
+7994400,Mamelodi QD4,Mamelodi,TSH_6
+7994401,Mamelodi Fourteens,Mamelodi,TSH_18
+7994402,Mamelodi S&S,Mamelodi,TSH_23
+7994403,Mamelodi Ext 6,Mamelodi,TSH_40
+7994404,Mamelodi Ext 6,Mamelodi,TSH_40
+7994405,Olievenhoutbos Ext 26,Olievenhoutbos,TSH_106
+7994406,Eersterust Ext 3,Eersterust,TSH_43
+7994407,Mamelodi FB3,Mamelodi,TSH_38
+7994408,Mamelodi Ext 12,Mamelodi,TSH_40
+7994409,Mamelodi RD5,Mamelodi,TSH_6
+7994410,Olievenhoutbos Ext 25,Olievenhoutbos,TSH_106
+7994411,Olievenhoutbos Ext 15,Olievenhoutbos,TSH_106
+7994412,Winterveld Ext 1,Winterveld,TSH_9
+7994413,Mamelodi Ext 11,Mamelodi,TSH_97
+7994414,Nellmapius Ext 4,Nellmapius,TSH_86
+7994415,Mamelodi RD5,Mamelodi,TSH_6
+7994416,Jeffersville,Saulsville,TSH_72
+7994417,Olievenhoutbos Ext 24,Olievenhoutbos,TSH_106
+7994418,Mabopane A,Mabopane,TSH_21
+7994419,Saulsville SP,Saulsville,TSH_68
+7994420,Mamelodi KC4,Mamelodi,TSH_67
+7994421,Olievenhoutbos Ext 20,Olievenhoutbos,TSH_106
+7994422,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7994423,Mamelodi KC4,Mamelodi,TSH_6
+7994424,Olievenhoutbos Ext 20,Olievenhoutbos,TSH_106
+7994425,Mamelodi Ext 22,Mamelodi,TSH_10
+7994426,Winterveld Ext 1,Winterveld,TSH_24
+7994427,Schurwe Plaas Mine,Centurion,TSH_61
+7994428,Marokolong SP,Marokolong,TSH_74
+7994429,Mabopane A,Mabopane,TSH_12
+7994430,Laudium Ext 3,Laudium,TSH_61
+7994431,Soshanguve KK,Soshanguve,TSH_26
+7994432,Mamelodi Ext 6,Mamelodi,TSH_40
+7994433,Olievenhoutbos Ext 21,Olievenhoutbos,TSH_106
+7994434,Mamelodi Ext 6,Mamelodi,TSH_40
+7994435,Nellmapius Ext 4,Nellmapius,TSH_86
+7994436,Mabopane A,Mabopane,TSH_12
+7994437,Saulsville SP,Saulsville,TSH_63
+7994438,Olievenhoutbos Ext 15,Olievenhoutbos,TSH_106
+7994439,Mamelodi Ext 17,Mamelodi,TSH_93
+7994440,"Olievenhoutbos Ext 4, 19, 22",Olievenhoutbos,TSH_77
+7994441,Olievenhoutbos Ext 24,Olievenhoutbos,TSH_106
+7994442,Mamelodi Ext 10,Mamelodi,TSH_17
+7994443,Mamelodi DB1,Mamelodi,TSH_67
+7994444,Tsakane,Mamelodi,TSH_28
+7994445,Nellmapius Ext 4,Nellmapius,TSH_86
+7994446,Eersterust Ext 4,Eersterust,TSH_43
+7994447,Pretoria West,Pretoria,TSH_3
+7994448,Danville,Pretoria,TSH_60
+7994449,Mamelodi Ext 6,Mamelodi,TSH_40
+7994450,Nellmapius Ext 4,Nellmapius,TSH_86
+7994451,Pretoria Central,Pretoria,TSH_58
+7994452,The Orchards Ext,Akasia,TSH_4
+7994453,Mamelodi Ext 12,Mamelodi,TSH_97
+7994454,Pretoria North,Pretoria,TSH_2
+7994455,Soshanguve T,Soshanguve,TSH_25
+7994456,Willow Acres Estate,Pretoria,TSH_101
+7994457,Pretoriuspark,Pretoria,TSH_91
+7994458,Soshanguve NN,Soshanguve,TSH_11
+7994459,Mamelodi S&S,Mamelodi,TSH_23
+7994460,Groenkloof,Pretoria,TSH_59
+7994461,Amandasig,Akasia,TSH_4
+7994462,"Atteridgeville Ext 6, 16, 17",Atteridgeville,TSH_107
+7994463,Olievenhoutbos Ext 26,Olievenhoutbos,TSH_106
+7994464,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7994465,Winterveld Ext 1,Winterveld,TSH_24
+7994466,Mamelodi FB3,Mamelodi,TSH_67
+7994467,Vaalbank AH,Vaalbank,TSH_102
+7994468,Winterveld Ext 1,Winterveld,TSH_9
+7994469,Winterveld Ext 1,Winterveld,TSH_9
+7994470,Pretoria Central,Pretoria,TSH_80
+7994471,Saulsville SP,Saulsville,TSH_63
+7994472,Mabopane A,Mabopane,TSH_12
+7994473,Olievenhoutbos Ext 15,Olievenhoutbos,TSH_106
+7994474,Nellmapius Ext 4,Nellmapius,TSH_86
+7994475,Hatfield,Pretoria,TSH_56
+7994476,Waterval AH,Waterval,TSH_96
+7994477,Vergenoeg,Saulsville,TSH_107
+7994478,Mabopane SP,Mabopane,TSH_19
+7994479,Mamelodi LC5,Mamelodi,TSH_67
+7994480,Olievenhoutbos Ext 21,Olievenhoutbos,TSH_106
+7994481,Olievenhoutbos Ext 13,Olievenhoutbos,TSH_106
+7994482,Mamelodi FB3,Mamelodi,TSH_67
+7994483,Eersterust Ext 4,Eersterust,TSH_43
+7994484,Mamelodi Ext 22,Mamelodi,TSH_10
+7994485,Mabopane A,Mabopane,TSH_12
+7994486,Mamelodi FB3,Mamelodi,TSH_67
+7994487,Pretoria Central,Pretoria,TSH_58
+7994488,Karenpark,Akasia,TSH_4
+7994489,Derdepoort AH,Pretoria,TSH_87
+7994490,Winterveld Ext 1,Winterveld,TSH_9
+7994491,Olievenhoutbos Ext 25,Olievenhoutbos,TSH_106
+7994492,Haakdoornboom AH,Haakdoornboom,TSH_96
+7994493,Olievenhoutbos Ext 26,Olievenhoutbos,TSH_106
+7994494,Olievenhoutbos Ext 21,Olievenhoutbos,TSH_106
+7994495,Rayton SH,Rayton,TSH_100
+7994496,Pretoria Central,Pretoria,TSH_58
+7994497,Equestria,Pretoria,TSH_85
+7994498,Philip Nel Park,Pretoria,TSH_3
+7994499,Kameeldrift SH,Kameeldrift,TSH_87
+7994500,Saulsville SP,Saulsville,TSH_63
+7994501,Mabopane A,Mabopane,TSH_29
+7994502,Baviaanspoort SH,Baviaanspoort,TSH_87
+7994503,Sunnyside,Pretoria,TSH_81
+7994504,Olievenhoutbos Ext 23,Olievenhoutbos,TSH_106
+7994505,Soshanguve H,Soshanguve,TSH_34
+7994506,Soshanguve K,Soshanguve,TSH_35
+7994507,Olievenhoutbos Ext 23,Olievenhoutbos,TSH_106
+7994508,Olievenhoutbos Ext 36,Olievenhoutbos,TSH_106
+7994509,Winterveld Ext 1,Winterveld,TSH_24
+7994510,Tshwane NU,Tshwane NU,TSH_105
+7994511,Krauseville SH,Pretoria,TSH_55
+7994512,Medunsa,Ga-Rankuwa,TSH_32
+7994513,Olievenhoutbos Ext 23,Olievenhoutbos,TSH_106
+7994514,Weskoppies,Pretoria,TSH_3
+7994515,Winterveld Ext 1,Winterveld,TSH_24
+7994516,University of Pretoria,Pretoria,TSH_82
+7994517,Salvokop,Pretoria,TSH_80
+7994518,Tshwane NU,Tshwane NU,TSH_100
+7994519,Winterveld Ext 1,Winterveld,TSH_24
+7994520,Cullinan SP,Cullinan,TSH_100
+7994521,Donkerhoek SH,Donkerhoek,TSH_100
+7994522,Klipfontein,Soshanguve,TSH_90
+7994523,Salvokop,Pretoria,TSH_80
+7994524,Mamelodi Ext 6,Mamelodi,TSH_10

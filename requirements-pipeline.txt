@@ -1,0 +1,10 @@
+# METSI-EWS — Full pipeline (local only)
+# pip install -r requirements-pipeline.txt --break-system-packages
+-r requirements.txt
+xgboost==3.3.0
+shap==0.52.0
+matplotlib==3.10.8
+beautifulsoup4==4.14.3
+urllib3==2.6.3
+pytest==9.1.1
+python-dotenv==1.2.2

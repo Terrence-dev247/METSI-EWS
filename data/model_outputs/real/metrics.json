@@ -1,0 +1,26 @@
+{
+  "test_rows": 1712,
+  "test_positives": 14,
+  "test_failure_rate": 0.008177570093457943,
+  "roc_auc": 0.6936311627124349,
+  "roc_auc_ci_95": [
+    0.5383,
+    0.8292
+  ],
+  "pr_auc": 0.024897310255453425,
+  "brier_score": 0.008249395545071163,
+  "brier_note": "computed on isotonic-calibrated probabilities",
+  "train_months": [
+    "2019-08",
+    "2023-11"
+  ],
+  "val_months": [
+    "2023-12",
+    "2024-11"
+  ],
+  "test_months": [
+    "2024-12",
+    "2026-03"
+  ],
+  "n_features": 11
+}

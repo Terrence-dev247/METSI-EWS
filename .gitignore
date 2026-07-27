@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+
+# WorldPop raster — pipeline-only, never needed by dashboard
+data/raw/zaf_ppp_*.tif
+data/raw/*.tif
+
+# SMTP credentials — never commit
+.env
