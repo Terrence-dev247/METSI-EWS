@@ -2,7 +2,7 @@
 
 An end-to-end ML early-warning system that predicts water infrastructure failure risk at ward level across all 107 City of Tshwane wards, three months in advance. Built as a BSc IT capstone project at Richfield Graduate Institute of Technology (Emerging Technology / Data Science specialisation) and designed as a civic-tech pitch for City of Tshwane stakeholders and prospective data partners.
 
-[![CI](https://github.com/Terrence-dev247/METSI-EWS/actions/workflows/ci.yml/badge.svg)] (https://github.com/Terrence-dev247/METSI-EWS/actions/workflows/ci.yml)
+[![CI](https://github.com/Terrence-dev247/METSI-EWS/actions/workflows/ci.yml/badge.svg)](https://github.com/Terrence-dev247/METSI-EWS/actions/workflows/ci.yml)
 
 ---
 
