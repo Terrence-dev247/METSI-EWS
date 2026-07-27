@@ -91,18 +91,18 @@ Steps P1–P8 are one-time historical data collection. **P9–P11 run on every `
 
 ```
 METSI-EWS/
-├── run_pipeline.py              Single entry point — runs P9 → P10 → P11 → opens dashboard
+├── run_pipeline.py              Single entry point runs P9 → P10 → P11 → opens dashboard
 ├── config.py                    All tunable constants (FORECAST_WINDOW, FEATURES, split ratios …)
 ├── app.py                       Streamlit dashboard (6 tabs)
-├── notify.py                    Email utility — composes and sends ward-risk report via SMTP
+├── notify.py                    Email utility composes and sends ward-risk report via SMTP
 ├── tab_notify.py                Streamlit "Send Report" tab (imported by app.py)
-├── .env.example                 SMTP credentials template — copy to .env and fill in
+├── .env.example                 SMTP credentials template copy to .env and fill in
 ├── requirements.txt
 ├── tests/
 │   ├── test_config.py           Config sanity checks (no I/O, always fast)
 │   ├── test_pipeline.py         Panel structure tests (skipped if data absent)
 │   └── test_model.py            Model output tests (skipped if model absent)
-├── .github/workflows/ci.yml     GitHub Actions — runs tests on every push
+├── .github/workflows/ci.yml     GitHub Actions runs tests on every push
 ├── data/
 │   ├── raw/                     Untouched scrape outputs (never hand-edited)
 │   ├── interim/                 Intermediate pipeline stages
