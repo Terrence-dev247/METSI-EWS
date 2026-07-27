@@ -1,4 +1,4 @@
-# METSI-EWS — City of Tshwane
+# METSI-EWS for City of Tshwane
 
 An end-to-end ML early-warning system that predicts water infrastructure failure risk at ward level across all 107 City of Tshwane wards, three months in advance. Built as a BSc IT capstone project at Richfield Graduate Institute of Technology (Emerging Technology / Data Science specialisation) and designed as a civic-tech pitch for City of Tshwane stakeholders and prospective data partners.
 
@@ -129,14 +129,14 @@ METSI-EWS/
 | Feature | Type | SHAP | Description |
 |---|---|---|---|
 | `pop_density` | Demographic | 1.04 | Persons/km² (Census 2011, Stats SA ward-level totals; wards 106–107 metro-avg fallback) |
-| `area_km2` | Structural | 0.97 | Ward area — larger wards have more pipe exposure |
+| `area_km2` | Structural | 0.97 | Ward area larger wards have more pipe exposure |
 | `wss_bdrr` | Regulatory | 0.46 | Blue Drop Risk Rating (DWS PAT 2025); 14 confirmed + 93 nearest-WTW |
 | `is_known_chokepoint` | Structural | 0.43 | Binary flag for TSH_58 (Bosman/CBD) and TSH_80 |
 | `calendar_month` | Temporal | 0.42 | Month-of-year seasonality proxy |
 | `months_since_last_failure` | Temporal | 0.29 | Recency of last confirmed failure in this ward |
 | `cumulative_failures_to_date` | Temporal | 0.14 | Running failure count per ward up to current month |
 | `is_dry_season` | Temporal | 0.06 | May–September = 1 |
-| `nrw_pct` | Regulatory | 0.00 | Non-revenue water % (municipal constant, zero variance — pending ward-level data) |
+| `nrw_pct` | Regulatory | 0.00 | Non-revenue water % (municipal constant, zero variance pending ward-level data) |
 | `failure_count_this_month` | Temporal | 0.00 | Count of failures in the current month |
 | `failure_occurred_this_month` | Temporal | 0.00 | Binary version of above |
 
@@ -175,7 +175,7 @@ Raw XGBoost probabilities are post-hoc calibrated using isotonic regression fitt
 
 ### Known ceiling
 
-The binding constraint is data sparsity (14 test positives), not hyperparameter tuning. The 95% CI spans ~15 percentage points — expected at this sample size. Adding IMQS pipe condition data is the highest-leverage single action.
+The binding constraint is data sparsity (14 test positives), not hyperparameter tuning. The 95% CI spans ~15 percentage points expected at this sample size. Adding IMQS pipe condition data is the highest-leverage single action.
 
 ---
 
@@ -190,13 +190,13 @@ The binding constraint is data sparsity (14 test positives), not hyperparameter 
 
 ## Methodology notes
 
-- **Chronological split only** — random splits leak temporal autocorrelation and overstate performance.
-- **3-month forward label** — `failure_within_3mo = 1` if any target-positive incident occurs in the ward within the next 3 months of the current row's month.
-- **Class imbalance via `scale_pos_weight`** — not oversampling, which would distort the test set's real-world rarity.
-- **`category` ≠ `status`** — `category` describes what happened; `status` flags ownership/location. An `unplanned_burst` on Rand Water infrastructure looks identical to a Tshwane burst in `category` — always use the status override for exclusions, never rely on category alone.
-- **TSH_58 is the validation anchor** — the same 1000mm HDPE trunk line at Bosman Station burst in 2019, 2025, and 2026; the model independently surfaces it as a top-ranked ward every run.
-- **Body-aware classification** — naive substring matching on `"planned"` false-positives inside `"unplanned"`. `classify_media_releases.py` uses word-boundary regex on the full post body.
-- **Multi-ward geocodable pattern** — `scope="multi_ward"` with no coordinates silently drops a confirmed incident. Always check whether the body text names a specific repair site before accepting a multi-ward scope tag as final.
+- **Chronological split only** random splits leak temporal autocorrelation and overstate performance.
+- **3-month forward label** `failure_within_3mo = 1` if any target-positive incident occurs in the ward within the next 3 months of the current row's month.
+- **Class imbalance via `scale_pos_weight`** not oversampling, which would distort the test set's real-world rarity.
+- **`category` ≠ `status`** — `category` describes what happened; `status` flags ownership/location. An `unplanned_burst` on Rand Water infrastructure looks identical to a Tshwane burst in `category` always use the status override for exclusions, never rely on category alone.
+- **TSH_58 is the validation anchor** the same 1000mm HDPE trunk line at Bosman Station burst in 2019, 2025, and 2026; the model independently surfaces it as a top-ranked ward every run.
+- **Body-aware classification** naive substring matching on `"planned"` false-positives inside `"unplanned"`. `classify_media_releases.py` uses word-boundary regex on the full post body.
+- **Multi-ward geocodable pattern** `scope="multi_ward"` with no coordinates silently drops a confirmed incident. Always check whether the body text names a specific repair site before accepting a multi-ward scope tag as final.
 
 ---
 
@@ -222,13 +222,13 @@ pip install pytest pytest-cov
 pytest tests/ -v
 ```
 
-`test_config.py` runs with no data. `test_pipeline.py` and `test_model.py` skip automatically if their data files are absent — safe to run in CI before the pipeline has been executed.
+`test_config.py` runs with no data. `test_pipeline.py` and `test_model.py` skip automatically if their data files are absent safe to run in CI before the pipeline has been executed.
 
 ---
 
 ## Send Report
 
-The dashboard includes a **📤 Send Report** tab that composes and sends a ward-risk summary email to City of Tshwane contacts or data partners. No external dependencies — stdlib `smtplib` only.
+The dashboard includes a **📤 Send Report** tab that composes and sends a ward-risk summary email to City of Tshwane contacts or data partners. No external dependencies stdlib `smtplib` only.
 
 **Setup:**
 
@@ -264,7 +264,7 @@ The tab pre-populates `datahub@tshwane.gov.za` as the default recipient. Risk th
 
 ## Limitations
 
-- **14 test positives** — AUC has a wide CI until more confirmed incidents are added.
+- **14 test positives** AUC has a wide CI until more confirmed incidents are added.
 - `wss_bdrr` for 93 wards is estimated via nearest water treatment works not confirmed ward-level scores.
 - `pop_density` uses Statistics South Africa Census 2011 ward-level population totals (WingArc/SuperCROSS release v1.3). Tshwane total: 2,921,486 (105 wards); wards 106–107 use metro-average fallback (27,824). Values are ~24% lower than WorldPop 2020 raster estimates (3.8M) expected given 9-year population growth; documented limitation.
-- Ward tags are suburb-centroid approximations — acceptable for model training, not for precision boundary claims.
+- Ward tags are suburb-centroid approximations acceptable for model training, not for precision boundary claims.
