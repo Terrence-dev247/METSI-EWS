@@ -167,7 +167,7 @@ SHAP values are mean absolute SHAP across the test set (Dec 2024 – Mar 2026).
 | Validation | Dec 2023 – Nov 2024 | 1,284 | 22 |
 | Test | Dec 2024 – Mar 2026 | 1,712 | 14 |
 
-**No future leakage.** Split is strictly chronological — never random.
+**No future leakage.** Split is strictly chronological never random.
 
 ### Calibration
 
